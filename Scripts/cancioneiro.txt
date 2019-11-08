@@ -1,6 +1,6 @@
 Abat-Jour
 A lâmpada acesa
-(Outrem a acendeu)
+Outrem a acendeu
 Baixa uma beleza
 Sobre o chão que é meu.
 No quarto deserto
@@ -170,24 +170,23 @@ Que amor não se explica ?
 Na noite que fica.
 
 Aqui onde se espera
-Aqui onde se espera
-- Sossego, só sossego -
+Sossego, só sossego
 
 Isso que outrora era,
 Aqui onde, dormindo,
--Sossego, só sossegoSe sente a noite vindo,
+Se sente a noite vindo,
 E nada importaria
--Sossego, só sossegoQue fosse antes o dia,
+Que fosse antes o dia,
 Aqui, aqui estarei
--Sossego, só sossego Como no exílio um rei,
+Como no exílio um rei,
 Gozando da ventura
-- Sossego, só sossego De não ter a amargura
+De não ter a amargura
 De reinar, mas guardando
-- Sossego, só sossego O nome venerando...
+O nome venerando...
 Que mais quer quem descansa
-- Sossego, só sossego Da dor e da esperança,
+Da dor e da esperança,
 Que ter a negação
-- Sossego, só sossego De todo o coração ?
+De todo o coração ?
 
 As horas pela alameda
 As horas pela alameda
@@ -237,7 +236,7 @@ Ah, deixem-se sonhar sem esperar!
 As tuas mãos terminam em segredo
 As tuas mãos terminam em segredo.
 Os teus olhos são negros e macios
-Cristo na cruz os teus seios (?) esguios
+Cristo na cruz os teus seios esguios
 E o teu perfil princesas no degredo...
 Entre buxos e ao pé de bancos frios
 Nas entrevistas alamedas, quedo
@@ -314,10 +313,9 @@ Gira, a entreter a razão,
 Esse comboio de corda
 Que se chama coração.
 
-(?) Azul ou verde ou roxo
 Azul, ou verde, ou roxo quando o sol
 O doura falsamente de vermelho,
-O mar é áspero (?), casual (?) ou mol(e),
+O mar é áspero, casual ou mole,
 É uma vez abismo e outra espelho.
 Evoco porque sinto velho
 O que em mim quereria mais que o mar
@@ -468,9 +466,9 @@ Tudo isto me parece tudo.
 E é uma noite a ter um fim
 Um negro astral silêncio surdo
 E não poder viver assim.
-(Tudo isto me parece tudo.
+Tudo isto me parece tudo.
 Mas noite, frio, negror sem fim,
-Mundo mudo, silêncio mudo Ah, nada é isto, nada é assim!)
+Mundo mudo, silêncio mudo Ah, nada é isto, nada é assim!
 
 Cerca de grandes muros quem te sonhas
 Conselho
@@ -535,9 +533,9 @@ Chove. Há silêncio, porque a mesma chuva
 Não faz ruído senão com sossego.
 Chove. O céu dorme. Quando a alma é viúva
 Do que não sabe, o sentimento é cego.
-Chove. Meu ser (quem sou) renego...
+Chove. Meu ser quem sou renego...
 Tão calma é a chuva que se solta no ar
-(Nem parece de nuvens) que parece
+Nem parece de nuvens que parece
 Que não é chuva, mas um sussurrar
 Que de si mesmo, ao sussurrar, se esquece.
 Chove. Nada apetece...
@@ -650,8 +648,8 @@ Para que nada suceda.
 
 Como uma voz de fonte que cessasse
 Como uma voz de fonte que cessasse
-(E uns para os outros nossos vãos olhares
-Se admiraram), p'ra além dos meus palmares
+E uns para os outros nossos vãos olhares
+Se admiraram, p'ra além dos meus palmares
 De sonho, a voz que do meu tédio nasce
 Parou... Apareceu já sem disfarce
 De música longínqua, asas nos ares,
@@ -740,7 +738,7 @@ Dá a surpresa de ser.
 Faz bem só pensar em ver
 Seu corpo meio maduro.
 Seus seios altos parecem
-(Se ela tivesse deitada)
+Se ela tivesse deitada
 Dois montinhos que amanhecem
 Sem Ter que haver madrugada.
 E a mão do seu braço branco
@@ -1005,7 +1003,7 @@ Ela ia, tranqüila pastorinha,
 Pela estrada da minha imperfeição.
 Segui-a, como um gesto de perdão,
 O seu rebanho, a saudade minha...
-"Em longes terras hás de ser rainha
+Em longes terras hás de ser rainha
 Um dia lhe disseram, mas em vão...
 Seu vulto perde-se na escuridão...
 Só sua sombra ante meus pés caminha...
@@ -1111,13 +1109,6 @@ Vê que, pela janela aberta,
 Há uma paisagem toda incerta
 E um sonho todo a apetecer ?
 
-ALÉM-DEUS
-I) Abismo
-II) Passou
-III) A Voz de Deus
-IV) A Queda
-V) Braço sem Corpo Brandindo um Gládio
-I) Abismo
 Olho o Tejo, e de tal arte
 Que me esquece olhar olhando,
 E súbito isto me bate
@@ -1134,7 +1125,7 @@ Fico sem poder ligar
 Ser, idéia, alma de nome
 A mim, à terra e aos céus...
 E súbito encontro Deus.
-II) Passou
+
 Passou, fora de Quando,
 De Porquê, e de Passando...,
 Turbilhão de Ignorado,
@@ -1143,7 +1134,7 @@ Vasto por fora do Vasto
 Sem ser, que a si se assombra...
 O Universo é o seu rasto...
 Deus é a sua sombra...
-III) A Voz de Deus
+
 Brilha uma voz na noute...
 De dentro de Fora ouvi-a...
 Ó Universo, eu sou-te...
@@ -1156,7 +1147,7 @@ Sermente em ti eu sou-me...
 Mero eco de mim, me inundo
 De ondas de negro lume
 Em que para Deus me afundo.
-IV) A Queda
+
 Da minha idéia do mundo
 Caí...
 Vácuo além de profundo,
@@ -1170,8 +1161,7 @@ Além-Deus! Além-Deus! Negra calma...
 Clarão de Desconhecido...
 Tudo tem outro sentido, ó alma,
 Mesmo o ter-um-sentido...
-V) Braço sem Corpo Brandindo um Gládio
-( Entre a árvore e o vê-la )
+
 Entre a árvore e o vê-la
 Onde está o sonho?
 Que arco da ponte mais vela
@@ -1246,7 +1236,6 @@ Esse rio sem fim.
 ...E assim vêdes, meu Irmão, que as verdades que vos foram dadas no Grau de
 Neófito, e aquelas que vos foram dadas no Grau de Adepto Menor, são, ainda que
 opostas, a mesma verdade.
-(Do Ritual Do Grau De Mestre Do Átrio Na Ordem Templária De Portugal)
 Conta a lenda que dormia
 Uma Princesa encantada
 A quem só despertaria
@@ -1282,16 +1271,6 @@ E, inda tonto do que houvera,
 Ergue a mão, e encontra hera,
 E vê que ele mesmo era
 A Princesa que dormia.
-Obs.: Publicado pela primeira vez in Presença, números 41-42, Coimbra, maio de
-1934. Acerca da epígrafe que encabeça este poema diz o próprio autor a uma
-interrogação levantada pelo crítico A. Casais Monteiro, em carta a este último:
-
-A citação, epígrafe ao meu poema "Eros e Psique", de um trecho (traduzido, pois o
-Ritual é em latim) do Ritual do Terceiro Grau da Ordem Templária de Portugal,
-indica simplesmente - o que é fato - que me foi permitido folhear os Rituais dos três
-primeiros graus dessa Ordem, extinta, ou em dormência desde cerca de 1888. Se
-não estivesse em dormência, eu não citaria o trecho do Ritual, pois se não devem
-citar (indicando a origem) trechos de Rituais que estão em trabalho [In VO/II.]
 
 Esqueço-me das horas transviadas
 Passos da Cruz
@@ -1461,7 +1440,7 @@ Quem me fadou para o que não conheço
 Na teia do real que ninguém tece ?
 Quem me arrancou ao sonho que me odiava
 E me deu só a vida em que me esqueço,
-"Onde a minha saudade a cor se trava ?"
+Onde a minha saudade a cor se trava ?
 
 Gomes Leal
 Sangra, sinistro, a alguns o astro baço.
@@ -1705,7 +1684,7 @@ Está em todos os lugares e a bola vem a tocar música,
 Uma música triste e vaga que passeia no meu quintal
 
 Vestida de cão verde tornando-se jockey amarelo...
-(Tão rápida gira a bola entre mim e os músicos...)
+Tão rápida gira a bola entre mim e os músicos...
 Atiro-a de encontra à minha infância e ela
 Atravessa o teatro todo que está aos meus pés
 A brincar com um jockey amarelo. e um cão verde

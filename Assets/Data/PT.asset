@@ -1,0 +1,4796 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb45efaed1b7148b3977fd3117f4f530, type: 3}
+  m_Name: PT
+  m_EditorClassIdentifier: 
+  originalText: {fileID: 4900000, guid: 0391c92befded4bba902c0479f64c201, type: 3}
+  phrases:
+  - phrase: "A l\xE2mpada acesa"
+    splitText: "A l\xE2m-pa-da ace-sa"
+    nSyllables: 6
+  - phrase: Outrem a acendeu
+    splitText: Ou-trem a acen-deu
+    nSyllables: 5
+  - phrase: Baixa uma beleza
+    splitText: Bai-xa uma be-le-za
+    nSyllables: 6
+  - phrase: "Sobre o ch\xE3o que \xE9 meu."
+    splitText: "So-bre o ch\xE3o que \xE9 meu."
+    nSyllables: 7
+  - phrase: No quarto deserto
+    splitText: No quar-to de-ser-to
+    nSyllables: 6
+  - phrase: Salvo o meu sonhar,
+    splitText: Sal-vo o meu so-nhar,
+    nSyllables: 6
+  - phrase: "Faz no ch\xE3o incerto"
+    splitText: "Faz no ch\xE3o in-cer-to"
+    nSyllables: 6
+  - phrase: "Um c\xEDrculo a ondear."
+    splitText: "Um c\xEDr-cu-lo a on-de-ar."
+    nSyllables: 8
+  - phrase: E entre a sombra e a luz
+    splitText: E en-tre a som-bra e a luz
+    nSyllables: 9
+  - phrase: "Que oscila no ch\xE3o"
+    splitText: "Que os-ci-la no ch\xE3o"
+    nSyllables: 6
+  - phrase: Meu sonho conduz
+    splitText: Meu so-nho con-duz
+    nSyllables: 5
+  - phrase: "Minha inaten\xE7\xE3o."
+    splitText: "Mi-nha ina-ten-\xE7\xE3o."
+    nSyllables: 5
+  - phrase: Bem sei ... Era dia
+    splitText: Bem sei ... Era dia
+    nSyllables: 5
+  - phrase: E longe de aqui...
+    splitText: E lon-ge de aqui...
+    nSyllables: 5
+  - phrase: Quanto me sorria
+    splitText: Quan-to me sor-ria
+    nSyllables: 5
+  - phrase: O que nunca vi!
+    splitText: O que nun-ca vi!
+    nSyllables: 5
+  - phrase: E no quarto silente
+    splitText: E no quar-to si-len-te
+    nSyllables: 7
+  - phrase: Com a luz a ondear
+    splitText: Com a luz a on-de-ar
+    nSyllables: 7
+  - phrase: Deixei vagamente
+    splitText: Dei-xei va-ga-men-te
+    nSyllables: 6
+  - phrase: "At\xE9 de sonhar..."
+    splitText: "At\xE9 de so-nhar..."
+    nSyllables: 4
+  - phrase: "Toma-me, \xF3 noite eterna, nos teus bra\xE7os"
+    splitText: "To-ma--me, \xF3 noi-te eter-na, nos teus bra-\xE7os"
+    nSyllables: 13
+  - phrase: E chama-me teu filho.
+    splitText: E cha-ma--me teu fi-lho.
+    nSyllables: 8
+  - phrase: Eu sou um rei
+    splitText: Eu sou um rei
+    nSyllables: 4
+  - phrase: que voluntariamente abandonei
+    splitText: que vo-lun-ta-ri-a-men-te aban-do-nei
+    nSyllables: 11
+  - phrase: "O meu trono de sonhos e cansa\xE7os."
+    splitText: "O meu tro-no de so-nhos e can-sa-\xE7os."
+    nSyllables: 11
+  - phrase: "Minha espada, pesada a bra\xE7os lassos,"
+    splitText: "Mi-nha es-pa-da, pe-sa-da a bra-\xE7os las-sos,"
+    nSyllables: 13
+  - phrase: "Em m\xE3o viris e calmas entreguei;"
+    splitText: "Em m\xE3o vi-ris e cal-mas en-tre-guei;"
+    nSyllables: 10
+  - phrase: "E meu cetro e coroa \u2014 eu os deixei"
+    splitText: "E meu ce-tro e co-roa \u2014 eu os dei-xei"
+    nSyllables: 12
+  - phrase: "Na antec\xE2mara, feitos em peda\xE7os"
+    splitText: "Na an-te-c\xE2-ma-ra, fei-tos em pe-da-\xE7os"
+    nSyllables: 12
+  - phrase: "Minha cota de malha, t\xE3o in\xFAtil,"
+    splitText: "Mi-nha co-ta de ma-lha, t\xE3o in\xFA-til,"
+    nSyllables: 10
+  - phrase: "Minhas esporas de um tinir t\xE3o f\xFAtil,"
+    splitText: "Mi-nhas es-po-ras de um ti-nir t\xE3o f\xFA-til,"
+    nSyllables: 12
+  - phrase: Deixei-as pela fria escadaria.
+    splitText: Dei-xei-as pe-la fria es-ca-da-ri-a.
+    nSyllables: 11
+  - phrase: Despi a realeza, corpo e alma,
+    splitText: Des-pi a re-a-le-za, cor-po e al-ma,
+    nSyllables: 12
+  - phrase: "E regressei \xE0 noite antiga e calma"
+    splitText: "E re-gres-sei \xE0 noi-te an-ti-ga e cal-ma"
+    nSyllables: 13
+  - phrase: Como a paisagem ao morrer do dia.
+    splitText: Co-mo a pai-sa-gem ao mor-rer do di-a.
+    nSyllables: 12
+  - phrase: Olho o Tejo, e de tal arte
+    splitText: Olho o Te-jo, e de tal ar-te
+    nSyllables: 9
+  - phrase: Que me esquece olhar olhando,
+    splitText: Que me es-que-ce olhar olhan-do,
+    nSyllables: 8
+  - phrase: "E s\xFAbito isto me bate"
+    splitText: "E s\xFA-bi-to is-to me ba-te"
+    nSyllables: 9
+  - phrase: "De encontro ao devaneando \u2014"
+    splitText: "De en-con-tro ao de-va-ne-an-do \u2014"
+    nSyllables: 11
+  - phrase: "O que \xE9 s\xE9rio, e correr?"
+    splitText: "O que \xE9 s\xE9-ri-o, e cor-rer?"
+    nSyllables: 9
+  - phrase: "O que \xE9 est\xE1-lo eu a ver?"
+    splitText: "O que \xE9 es-t\xE1--lo eu a ver?"
+    nSyllables: 10
+  - phrase: Sinto de repente pouco,
+    splitText: Sin-to de re-pen-te pou-co,
+    nSyllables: 8
+  - phrase: "V\xE1cuo, o momento, o lugar."
+    splitText: "V\xE1-cu-o, o mo-men-to, o lu-gar."
+    nSyllables: 10
+  - phrase: "Tudo de repente \xE9 oco \u2014"
+    splitText: "Tu-do de re-pen-te \xE9 oco \u2014"
+    nSyllables: 9
+  - phrase: Mesmo o meu estar a pensar.
+    splitText: Mes-mo o meu es-tar a pen-sar.
+    nSyllables: 9
+  - phrase: "Tudo \u2014 eu e o mundo em redor \u2014"
+    splitText: "Tu-do \u2014 eu e o mun-do em re-dor \u2014"
+    nSyllables: 12
+  - phrase: Fica mais que exterior.
+    splitText: Fi-ca mais que ex-te-ri-or.
+    nSyllables: 8
+  - phrase: Perde tudo o ser, ficar,
+    splitText: Per-de tu-do o ser, fi-car,
+    nSyllables: 8
+  - phrase: E do pensar se me some.
+    splitText: E do pen-sar se me so-me.
+    nSyllables: 8
+  - phrase: Fico sem poder ligar
+    splitText: Fi-co sem po-der li-gar
+    nSyllables: 7
+  - phrase: "Ser, id\xE9ia, alma de nome"
+    splitText: "Ser, id\xE9i-a, al-ma de no-me"
+    nSyllables: 8
+  - phrase: "A mim, \xE0 terra e aos c\xE9us..."
+    splitText: "A mim, \xE0 ter-ra e aos c\xE9us..."
+    nSyllables: 8
+  - phrase: "E s\xFAbito encontro Deus."
+    splitText: "E s\xFA-bi-to en-con-tro Deus."
+    nSyllables: 8
+  - phrase: A Grande Esfinge do Egito
+    splitText: A Gran-de Es-fin-ge do Egi-to
+    nSyllables: 9
+  - phrase: A Grande Esfinge do Egito sonha por este papel dentro...
+    splitText: A Gran-de Es-fin-ge do Egi-to so-nha por es-te pa-pel den-tro...
+    nSyllables: 18
+  - phrase: "Escrevo \u2014 e ela aparece-me atrav\xE9s da minha m\xE3o transparente"
+    splitText: "Es-cre-vo \u2014 e ela apa-re-ce--me atra-v\xE9s da mi-nha m\xE3o
+      trans-pa-ren-te"
+    nSyllables: 21
+  - phrase: "E ao canto do papel erguem-se as pir\xE2mides..."
+    splitText: "E ao can-to do pa-pel er-guem--se as pi-r\xE2-mi-des..."
+    nSyllables: 16
+  - phrase: "Escrevo \u2014 perturbo-me de ver o bico da minha pena"
+    splitText: "Es-cre-vo \u2014 per-tur-bo--me de ver o bi-co da mi-nha pe-na"
+    nSyllables: 19
+  - phrase: "Ser o perfil do rei Qu\xE9ops ..."
+    splitText: "Ser o per-fil do rei Qu\xE9ops ..."
+    nSyllables: 8
+  - phrase: De repente paro...
+    splitText: De re-pen-te pa-ro...
+    nSyllables: 6
+  - phrase: Escureceu tudo... Caio por um abismo feito de tempo...
+    splitText: Es-cu-re-ceu tu-do... Caio por um abis-mo fei-to de tem-po...
+    nSyllables: 16
+  - phrase: "Estou soterrado sob as pir\xE2mides a escrever versos \xE0 luz clara
+      deste"
+    splitText: "Es-tou so-ter-ra-do sob as pi-r\xE2-mi-des a es-cre-ver ver-sos \xE0
+      luz cla-ra des-te"
+    nSyllables: 24
+  - phrase: "E todo o Egito me esmaga de alto atrav\xE9s dos tra\xE7os que fa\xE7o
+      com"
+    splitText: "E to-do o Egi-to me es-ma-ga de al-to atra-v\xE9s dos tra-\xE7os que
+      fa-\xE7o com"
+    nSyllables: 22
+  - phrase: a pena...
+    splitText: a pe-na...
+    nSyllables: 3
+  - phrase: "Ou\xE7o a Esfinge rir por dentro"
+    splitText: "Ou-\xE7o a Es-fin-ge rir por den-tro"
+    nSyllables: 10
+  - phrase: O som da minha pena a correr no papel...
+    splitText: O som da mi-nha pe-na a cor-rer no pa-pel...
+    nSyllables: 13
+  - phrase: "Atravessa o eu n\xE3o poder v\xEA-la uma m\xE3o enorme,"
+    splitText: "Atra-ves-sa o eu n\xE3o po-der v\xEA--la uma m\xE3o enor-me,"
+    nSyllables: 15
+  - phrase: "Varre tudo para o canto do teto que fica por detr\xE1s de mim,"
+    splitText: "Var-re tu-do pa-ra o can-to do te-to que fi-ca por de-tr\xE1s de mim,"
+    nSyllables: 20
+  - phrase: E sobre o papel onde escrevo, entre ele e a pena que escreve
+    splitText: E so-bre o pa-pel on-de es-cre-vo, en-tre ele e a pe-na que es-cre-ve
+    nSyllables: 22
+  - phrase: "Jaz o cad\xE1ver do rei Qu\xE9ops, olhando-me com olhos muito abertos,"
+    splitText: "Jaz o ca-d\xE1-ver do rei Qu\xE9ops, olhan-do--me com olhos mui-to
+      aber-tos,"
+    nSyllables: 18
+  - phrase: E entre os nossos olhares que se cruzam corre o Nilo
+    splitText: E en-tre os nos-sos olha-res que se cru-zam cor-re o Ni-lo
+    nSyllables: 17
+  - phrase: E uma alegria de barcos embandeirados erra
+    splitText: E uma ale-gria de bar-cos em-ban-dei-ra-dos er-ra
+    nSyllables: 14
+  - phrase: Numa diagonal difusa
+    splitText: Nu-ma di-a-go-nal di-fu-sa
+    nSyllables: 9
+  - phrase: Entre mim e o que eu penso...
+    splitText: En-tre mim e o que eu pen-so...
+    nSyllables: 9
+  - phrase: "Funerais do rei Qu\xE9ops em ouro velho e Mim! ..."
+    splitText: "Fu-ne-rais do rei Qu\xE9ops em ou-ro ve-lho e Mim! ..."
+    nSyllables: 14
+  - phrase: "A minha vida \xE9 um barco abandonado"
+    splitText: "A mi-nha vi-da \xE9 um bar-co aban-do-na-do"
+    nSyllables: 13
+  - phrase: Infiel, no ermo porto, ao seu destino.
+    splitText: In-fi-el, no er-mo por-to, ao seu des-ti-no.
+    nSyllables: 13
+  - phrase: "Por que n\xE3o ergue ferro e segue o atino"
+    splitText: "Por que n\xE3o er-gue fer-ro e se-gue o ati-no"
+    nSyllables: 13
+  - phrase: De navegar, casado com o seu fado ?
+    splitText: De na-ve-gar, ca-sa-do com o seu fa-do ?
+    nSyllables: 13
+  - phrase: Ah! falta quem o lance ao mar, e alado
+    splitText: Ah! fal-ta quem o lan-ce ao mar, e ala-do
+    nSyllables: 12
+  - phrase: Torne seu vulto em velas; peregrino
+    splitText: Tor-ne seu vul-to em ve-las; pe-re-gri-no
+    nSyllables: 12
+  - phrase: Frescor de afastamento, no divino
+    splitText: Fres-cor de afas-ta-men-to, no di-vi-no
+    nSyllables: 11
+  - phrase: "Amplexo da manh\xE3, puro e salgado."
+    splitText: "Am-ple-xo da ma-nh\xE3, pu-ro e sal-ga-do."
+    nSyllables: 12
+  - phrase: "Morto corpo da a\xE7\xE3o sem vontade"
+    splitText: "Mor-to cor-po da a\xE7\xE3o sem von-ta-de"
+    nSyllables: 10
+  - phrase: "Que o viva, vulto est\xE9ril de viver,"
+    splitText: "Que o vi-va, vul-to es-t\xE9-ril de vi-ver,"
+    nSyllables: 12
+  - phrase: "Boiando \xE0 tona in\xFAtil da saudade."
+    splitText: "Boi-an-do \xE0 to-na in\xFA-til da sau-da-de."
+    nSyllables: 12
+  - phrase: Os limos esverdeiam tua quilha,
+    splitText: Os li-mos es-ver-dei-am tua qui-lha,
+    nSyllables: 10
+  - phrase: O vento embala-te sem te mover,
+    splitText: O ven-to em-ba-la--te sem te mo-ver,
+    nSyllables: 12
+  - phrase: "E \xE9 para al\xE9m do mar a ansiada Ilha."
+    splitText: "E \xE9 pa-ra al\xE9m do mar a an-si-a-da Ilha."
+    nSyllables: 13
+  - phrase: A morte chega cedo
+    splitText: A mor-te che-ga ce-do
+    nSyllables: 7
+  - phrase: A morte chega cedo,
+    splitText: A mor-te che-ga ce-do,
+    nSyllables: 7
+  - phrase: "Pois breve \xE9 toda vida"
+    splitText: "Pois bre-ve \xE9 to-da vi-da"
+    nSyllables: 8
+  - phrase: "O instante \xE9 o arremedo"
+    splitText: "O ins-tan-te \xE9 o ar-re-me-do"
+    nSyllables: 10
+  - phrase: De uma coisa perdida.
+    splitText: De uma coi-sa per-di-da.
+    nSyllables: 7
+  - phrase: "O amor foi come\xE7ado,"
+    splitText: "O amor foi co-me-\xE7a-do,"
+    nSyllables: 7
+  - phrase: "O ideal n\xE3o acabou,"
+    splitText: "O ide-al n\xE3o aca-bou,"
+    nSyllables: 6
+  - phrase: "E quem tenha alcan\xE7ado"
+    splitText: "E quem te-nha al-can-\xE7a-do"
+    nSyllables: 8
+  - phrase: "N\xE3o sabe o que alcan\xE7ou."
+    splitText: "N\xE3o sa-be o que al-can-\xE7ou."
+    nSyllables: 8
+  - phrase: E tudo isto a morte
+    splitText: E tu-do is-to a mor-te
+    nSyllables: 8
+  - phrase: "Risca por n\xE3o estar certo"
+    splitText: "Ris-ca por n\xE3o es-tar cer-to"
+    nSyllables: 8
+  - phrase: No caderno da sorte
+    splitText: No ca-der-no da sor-te
+    nSyllables: 7
+  - phrase: Que Deus deixou aberto.
+    splitText: Que Deus dei-xou aber-to.
+    nSyllables: 6
+  - phrase: "Andei l\xE9guas de sombra"
+    splitText: "An-dei l\xE9-guas de som-bra"
+    nSyllables: 7
+  - phrase: Dentro em meu pensamento.
+    splitText: Den-tro em meu pen-sa-men-to.
+    nSyllables: 8
+  - phrase: "Floresceu \xE0s avessas"
+    splitText: "Flo-res-ceu \xE0s aves-sas"
+    nSyllables: 6
+  - phrase: "Meu \xF3cio com sem-nexo,"
+    splitText: "Meu \xF3cio com sem--ne-xo,"
+    nSyllables: 7
+  - phrase: "E apagaram-se as l\xE2mpadas"
+    splitText: "E apa-ga-ram--se as l\xE2m-pa-das"
+    nSyllables: 10
+  - phrase: Na alcova cambaleante.
+    splitText: Na al-co-va cam-ba-le-an-te.
+    nSyllables: 9
+  - phrase: Tudo prestes se volve
+    splitText: Tu-do pres-tes se vol-ve
+    nSyllables: 7
+  - phrase: Um deserto macio
+    splitText: Um de-ser-to ma-cio
+    nSyllables: 6
+  - phrase: Visto pelo meu tato
+    splitText: Vis-to pe-lo meu ta-to
+    nSyllables: 7
+  - phrase: Dos veludos da alcova,
+    splitText: Dos ve-lu-dos da al-co-va,
+    nSyllables: 8
+  - phrase: "N\xE3o pela minha vista."
+    splitText: "N\xE3o pe-la mi-nha vis-ta."
+    nSyllables: 7
+  - phrase: "H\xE1 um o\xE1sis no Incerto"
+    splitText: "H\xE1 um o\xE1-sis no In-cer-to"
+    nSyllables: 8
+  - phrase: E, como uma suspeita
+    splitText: E, co-mo uma sus-pei-ta
+    nSyllables: 7
+  - phrase: "De luz por n\xE3o-h\xE1-frinchas,"
+    splitText: "De luz por n\xE3o-h\xE1--frin-chas,"
+    nSyllables: 8
+  - phrase: Passa uma caravana.
+    splitText: Pas-sa uma ca-ra-va-na.
+    nSyllables: 7
+  - phrase: "Esquece-me de s\xFAbito"
+    splitText: "Es-que-ce--me de s\xFA-bi-to"
+    nSyllables: 9
+  - phrase: "Como \xE9 o espa\xE7o, e o tempo"
+    splitText: "Co-mo \xE9 o es-pa-\xE7o, e o tem-po"
+    nSyllables: 11
+  - phrase: Em vez de horizontal
+    splitText: Em vez de ho-ri-zon-tal
+    nSyllables: 7
+  - phrase: "\xC9 vertical."
+    splitText: "\xC9 ver-ti-cal."
+    nSyllables: 4
+  - phrase: A alcova
+    splitText: A al-co-va
+    nSyllables: 4
+  - phrase: "Desce n\xE3o se por onde"
+    splitText: "Des-ce n\xE3o se por on-de"
+    nSyllables: 7
+  - phrase: "At\xE9 n\xE3o me encontrar."
+    splitText: "At\xE9 n\xE3o me en-con-trar."
+    nSyllables: 6
+  - phrase: Ascende um leve fumo
+    splitText: As-cen-de um le-ve fu-mo
+    nSyllables: 8
+  - phrase: "Das minhas sensa\xE7\xF5es."
+    splitText: "Das mi-nhas sen-sa-\xE7\xF5es."
+    nSyllables: 6
+  - phrase: Deixo de me incluir
+    splitText: Dei-xo de me in-cluir
+    nSyllables: 6
+  - phrase: "Dentro de mim. N\xE3o h\xE1"
+    splitText: "Den-tro de mim. N\xE3o h\xE1"
+    nSyllables: 6
+  - phrase: "C\xE1-dentro nem l\xE1-fora."
+    splitText: "C\xE1--den-tro nem l\xE1--fo-ra."
+    nSyllables: 9
+  - phrase: "E o deserto est\xE1 agora"
+    splitText: "E o de-ser-to es-t\xE1 ago-ra"
+    nSyllables: 9
+  - phrase: Virado para baixo.
+    splitText: Vi-ra-do pa-ra bai-xo.
+    nSyllables: 7
+  - phrase: "A no\xE7\xE3o de mover-me"
+    splitText: "A no-\xE7\xE3o de mo-ver--me"
+    nSyllables: 8
+  - phrase: Esqueceu-se do meu nome.
+    splitText: Es-que-ceu--se do meu no-me.
+    nSyllables: 9
+  - phrase: Na alma meu corpo pesa-me.
+    splitText: Na al-ma meu cor-po pe-sa--me.
+    nSyllables: 10
+  - phrase: Sinto-me um reposteiro
+    splitText: Sin-to--me um re-pos-tei-ro
+    nSyllables: 9
+  - phrase: Pendurado na sala
+    splitText: Pen-du-ra-do na sa-la
+    nSyllables: 7
+  - phrase: "Onde jaz algu\xE9m morto."
+    splitText: "On-de jaz al-gu\xE9m mor-to."
+    nSyllables: 7
+  - phrase: Qualquer coisa caiu
+    splitText: Qual-quer coi-sa caiu
+    nSyllables: 5
+  - phrase: E tiniu no infinito.
+    splitText: E ti-niu no in-fi-ni-to.
+    nSyllables: 8
+  - phrase: Ao longe, ao luar
+    splitText: Ao lon-ge, ao lu-ar
+    nSyllables: 6
+  - phrase: Ao longe, ao luar,
+    splitText: Ao lon-ge, ao lu-ar,
+    nSyllables: 6
+  - phrase: No rio uma vela,
+    splitText: No rio uma ve-la,
+    nSyllables: 5
+  - phrase: Serena a passar,
+    splitText: Se-re-na a pas-sar,
+    nSyllables: 6
+  - phrase: "Que \xE9 que me revela ?"
+    splitText: "Que \xE9 que me re-ve-la ?"
+    nSyllables: 8
+  - phrase: "N\xE3o sei, mas meu ser"
+    splitText: "N\xE3o sei, mas meu ser"
+    nSyllables: 5
+  - phrase: Tornou-se-me estranho,
+    splitText: Tor-nou--se--me es-tra-nho,
+    nSyllables: 9
+  - phrase: E eu sonho sem ver
+    splitText: E eu so-nho sem ver
+    nSyllables: 6
+  - phrase: Os sonhos que tenho.
+    splitText: Os so-nhos que te-nho.
+    nSyllables: 6
+  - phrase: "Que ang\xFAstia me enla\xE7a ?"
+    splitText: "Que an-g\xFAs-tia me en-la-\xE7a ?"
+    nSyllables: 9
+  - phrase: "Que amor n\xE3o se explica ?"
+    splitText: "Que amor n\xE3o se ex-pli-ca ?"
+    nSyllables: 8
+  - phrase: "\xC9 a vela que passa"
+    splitText: "\xC9 a ve-la que pas-sa"
+    nSyllables: 7
+  - phrase: Na noite que fica.
+    splitText: Na noi-te que fi-ca.
+    nSyllables: 6
+  - phrase: Aqui onde se espera
+    splitText: Aqui on-de se es-pe-ra
+    nSyllables: 7
+  - phrase: "Sossego, s\xF3 sossego"
+    splitText: "Sos-se-go, s\xF3 sos-se-go"
+    nSyllables: 7
+  - phrase: Isso que outrora era,
+    splitText: Is-so que ou-tro-ra era,
+    nSyllables: 7
+  - phrase: Aqui onde, dormindo,
+    splitText: Aqui on-de, dor-min-do,
+    nSyllables: 6
+  - phrase: Se sente a noite vindo,
+    splitText: Se sen-te a noi-te vin-do,
+    nSyllables: 8
+  - phrase: E nada importaria
+    splitText: E na-da im-por-ta-ria
+    nSyllables: 7
+  - phrase: Que fosse antes o dia,
+    splitText: Que fos-se an-tes o di-a,
+    nSyllables: 8
+  - phrase: Aqui, aqui estarei
+    splitText: Aqui, aqui es-ta-rei
+    nSyllables: 5
+  - phrase: "Como no ex\xEDlio um rei,"
+    splitText: "Co-mo no ex\xED-lio um rei,"
+    nSyllables: 7
+  - phrase: Gozando da ventura
+    splitText: Go-zan-do da ven-tu-ra
+    nSyllables: 7
+  - phrase: "De n\xE3o ter a amargura"
+    splitText: "De n\xE3o ter a amar-gu-ra"
+    nSyllables: 7
+  - phrase: De reinar, mas guardando
+    splitText: De rei-nar, mas guar-dan-do
+    nSyllables: 7
+  - phrase: O nome venerando...
+    splitText: O no-me ve-ne-ran-do...
+    nSyllables: 7
+  - phrase: Que mais quer quem descansa
+    splitText: Que mais quer quem des-can-sa
+    nSyllables: 7
+  - phrase: "Da dor e da esperan\xE7a,"
+    splitText: "Da dor e da es-pe-ran-\xE7a,"
+    nSyllables: 8
+  - phrase: "Que ter a nega\xE7\xE3o"
+    splitText: "Que ter a ne-ga-\xE7\xE3o"
+    nSyllables: 6
+  - phrase: "De todo o cora\xE7\xE3o ?"
+    splitText: "De to-do o co-ra-\xE7\xE3o ?"
+    nSyllables: 8
+  - phrase: As horas pela alameda
+    splitText: As ho-ras pe-la ala-me-da
+    nSyllables: 8
+  - phrase: Arrastam vestes de seda,
+    splitText: Ar-ras-tam ves-tes de se-da,
+    nSyllables: 8
+  - phrase: Vestes de seda sonhada
+    splitText: Ves-tes de se-da so-nha-da
+    nSyllables: 8
+  - phrase: Pela alameda alongada
+    splitText: Pe-la ala-me-da alon-ga-da
+    nSyllables: 8
+  - phrase: Sob o azular do luar...
+    splitText: Sob o azu-lar do lu-ar...
+    nSyllables: 7
+  - phrase: E ouve-se no ar a expirar A expirar mas nunca expira Uma flauta que delira,
+    splitText: E ou-ve--se no ar a ex-pi-rar A ex-pi-rar mas nun-ca ex-pi-ra Uma flau-ta
+      que de-li-ra,
+    nSyllables: 28
+  - phrase: "Que \xE9 mais a id\xE9ia de ouvi-la"
+    splitText: "Que \xE9 mais a id\xE9ia de ou-vi--la"
+    nSyllables: 10
+  - phrase: "Que ouvi-la quase tranq\xFCila"
+    splitText: "Que ou-vi--la qua-se tranq\xFCi-la"
+    nSyllables: 9
+  - phrase: Pelo ar a ondear e a ir...
+    splitText: Pe-lo ar a on-de-ar e a ir...
+    nSyllables: 10
+  - phrase: "Sil\xEAncio a tremeluzir..."
+    splitText: "Si-l\xEAn-cio a tre-me-lu-zir..."
+    nSyllables: 8
+  - phrase: As minhas Ansiedades
+    splitText: As mi-nhas An-si-e-da-des
+    nSyllables: 8
+  - phrase: As minhas ansiedades caem
+    splitText: As mi-nhas an-si-e-da-des ca-em
+    nSyllables: 10
+  - phrase: Por uma escada abaixo.
+    splitText: Por uma es-ca-da abai-xo.
+    nSyllables: 7
+  - phrase: "Os meus desejos balou\xE7am-se"
+    splitText: "Os meus de-se-jos ba-lou-\xE7am--se"
+    nSyllables: 10
+  - phrase: Em meio de um jardim vertical.
+    splitText: Em meio de um jar-dim ver-ti-cal.
+    nSyllables: 9
+  - phrase: "Na M\xFAmia a posi\xE7\xE3o \xE9 absolutamente exata."
+    splitText: "Na M\xFA-mia a po-si-\xE7\xE3o \xE9 ab-so-lu-ta-men-te exa-ta."
+    nSyllables: 16
+  - phrase: "M\xFAsica long\xEDnqua,"
+    splitText: "M\xFA-si-ca lon-g\xEDn-qua,"
+    nSyllables: 6
+  - phrase: "M\xFAsica excessivamente long\xEDnqua,"
+    splitText: "M\xFA-si-ca ex-ces-si-va-men-te lon-g\xEDn-qua,"
+    nSyllables: 12
+  - phrase: Para que a Vida passe
+    splitText: Pa-ra que a Vi-da pas-se
+    nSyllables: 8
+  - phrase: "E colher esque\xE7a aos gestos."
+    splitText: "E co-lher es-que-\xE7a aos ges-tos."
+    nSyllables: 9
+  - phrase: Assim, sem nada feito e o por fazer
+    splitText: As-sim, sem na-da fei-to e o por fa-zer
+    nSyllables: 12
+  - phrase: Mal pensado, ou sonhado sem pensar,
+    splitText: Mal pen-sa-do, ou so-nha-do sem pen-sar,
+    nSyllables: 11
+  - phrase: Vejo os meus dias nulos decorrer,
+    splitText: Ve-jo os meus di-as nu-los de-cor-rer,
+    nSyllables: 11
+  - phrase: "E o cansa\xE7o de nada me aumentar."
+    splitText: "E o can-sa-\xE7o de na-da me au-men-tar."
+    nSyllables: 12
+  - phrase: Perdura, sim, como uma mocidade
+    splitText: Per-du-ra, sim, co-mo uma mo-ci-da-de
+    nSyllables: 11
+  - phrase: "Que a si mesma se sobrevive, a esperan\xE7a,"
+    splitText: "Que a si mes-ma se so-bre-vi-ve, a es-pe-ran-\xE7a,"
+    nSyllables: 15
+  - phrase: "Mas a mesma esperan\xE7a o t\xE9dio invade,"
+    splitText: "Mas a mes-ma es-pe-ran-\xE7a o t\xE9-dio in-va-de,"
+    nSyllables: 14
+  - phrase: E a mesma falsa mocidade cansa.
+    splitText: E a mes-ma fal-sa mo-ci-da-de can-sa.
+    nSyllables: 12
+  - phrase: "T\xEAnue passar das horas sem proveito,"
+    splitText: "T\xEA-nue pas-sar das ho-ras sem pro-vei-to,"
+    nSyllables: 11
+  - phrase: "Leve correr dos dias sem a\xE7\xE3o,"
+    splitText: "Le-ve cor-rer dos di-as sem a\xE7\xE3o,"
+    nSyllables: 9
+  - phrase: "Como a quem com sa\xFAde jaz no leito"
+    splitText: "Co-mo a quem com sa\xFA-de jaz no lei-to"
+    nSyllables: 11
+  - phrase: "Ou quem sempre se atrasa sem raz\xE3o."
+    splitText: "Ou quem sem-pre se atra-sa sem ra-z\xE3o."
+    nSyllables: 10
+  - phrase: Vadio sem andar, meu ser inerte
+    splitText: Va-dio sem an-dar, meu ser iner-te
+    nSyllables: 9
+  - phrase: "Contempla-me, que esque\xE7o de querer,"
+    splitText: "Con-tem-pla--me, que es-que-\xE7o de que-rer,"
+    nSyllables: 12
+  - phrase: "E a tarde exterior seu t\xE9dio verte"
+    splitText: "E a tar-de ex-te-ri-or seu t\xE9-dio ver-te"
+    nSyllables: 13
+  - phrase: Sobre quem nada fez e nada quere.
+    splitText: So-bre quem na-da fez e na-da que-re.
+    nSyllables: 11
+  - phrase: "In\xFAtil vida, posta a um canto e ida"
+    splitText: "In\xFA-til vi-da, pos-ta a um can-to e ida"
+    nSyllables: 12
+  - phrase: "Sem que algu\xE9m nela fosse, nau sem mar,"
+    splitText: "Sem que al-gu\xE9m ne-la fos-se, nau sem mar,"
+    nSyllables: 11
+  - phrase: Obra solentemente por ser lida,
+    splitText: Obra so-len-te-men-te por ser li-da,
+    nSyllables: 10
+  - phrase: Ah, deixem-se sonhar sem esperar!
+    splitText: Ah, dei-xem--se so-nhar sem es-pe-rar!
+    nSyllables: 11
+  - phrase: "As tuas m\xE3os terminam em segredo"
+    splitText: "As tu-as m\xE3os ter-mi-nam em se-gre-do"
+    nSyllables: 11
+  - phrase: "As tuas m\xE3os terminam em segredo."
+    splitText: "As tu-as m\xE3os ter-mi-nam em se-gre-do."
+    nSyllables: 11
+  - phrase: "Os teus olhos s\xE3o negros e macios"
+    splitText: "Os teus olhos s\xE3o ne-gros e ma-ci-os"
+    nSyllables: 10
+  - phrase: Cristo na cruz os teus seios esguios
+    splitText: Cris-to na cruz os teus sei-os es-gui-os
+    nSyllables: 11
+  - phrase: E o teu perfil princesas no degredo...
+    splitText: E o teu per-fil prin-ce-sas no de-gre-do...
+    nSyllables: 12
+  - phrase: "Entre buxos e ao p\xE9 de bancos frios"
+    splitText: "En-tre bu-xos e ao p\xE9 de ban-cos fri-os"
+    nSyllables: 12
+  - phrase: Nas entrevistas alamedas, quedo
+    splitText: Nas en-tre-vis-tas ala-me-das, que-do
+    nSyllables: 10
+  - phrase: "O vendo p\xF5e o seu arrastado medo"
+    splitText: "O ven-do p\xF5e o seu ar-ras-ta-do me-do"
+    nSyllables: 12
+  - phrase: Saudoso o longes velas de navios.
+    splitText: Sau-do-so o lon-ges ve-las de na-vi-os.
+    nSyllables: 12
+  - phrase: Mas quando o mar subir na praia e for
+    splitText: Mas quan-do o mar su-bir na praia e for
+    nSyllables: 11
+  - phrase: Arrasar os castelos que na areia
+    splitText: Ar-ra-sar os cas-te-los que na areia
+    nSyllables: 10
+  - phrase: "As crian\xE7as deixaram, meu amor,"
+    splitText: "As cri-an-\xE7as dei-xa-ram, meu amor,"
+    nSyllables: 9
+  - phrase: "Ser\xE1 o haver cais num mar distante..."
+    splitText: "Se-r\xE1 o ha-ver cais num mar dis-tan-te..."
+    nSyllables: 11
+  - phrase: Pobre do rei pai das princesas feias
+    splitText: Po-bre do rei pai das prin-ce-sas fei-as
+    nSyllables: 11
+  - phrase: "No seu castelo \xE0 rosa do Levante !"
+    splitText: "No seu cas-te-lo \xE0 ro-sa do Le-van-te !"
+    nSyllables: 13
+  - phrase: "\xC0s vezes entre a tormenta"
+    splitText: "\xC0s ve-zes en-tre a tor-men-ta"
+    nSyllables: 9
+  - phrase: "\xC0s vezes entre a tormenta,"
+    splitText: "\xC0s ve-zes en-tre a tor-men-ta,"
+    nSyllables: 9
+  - phrase: "quando j\xE1 umedeceu,"
+    splitText: "quan-do j\xE1 ume-de-ceu,"
+    nSyllables: 6
+  - phrase: "raia uma nesga no c\xE9u,"
+    splitText: "raia uma nes-ga no c\xE9u,"
+    nSyllables: 6
+  - phrase: com que a alma se alimenta.
+    splitText: com que a al-ma se ali-men-ta.
+    nSyllables: 9
+  - phrase: "E \xE0s vezes entre o torpor"
+    splitText: "E \xE0s ve-zes en-tre o tor-por"
+    nSyllables: 9
+  - phrase: "que n\xE3o \xE9 tormenta da alma,"
+    splitText: "que n\xE3o \xE9 tor-men-ta da al-ma,"
+    nSyllables: 9
+  - phrase: "raia uma esp\xE9cie de calma"
+    splitText: "raia uma es-p\xE9-cie de cal-ma"
+    nSyllables: 8
+  - phrase: "que n\xE3o conhece o langor."
+    splitText: "que n\xE3o co-nhe-ce o lan-gor."
+    nSyllables: 8
+  - phrase: E, quer num quer noutro caso,
+    splitText: E, quer num quer nou-tro ca-so,
+    nSyllables: 8
+  - phrase: "como o mal feito est\xE1 feito,"
+    splitText: "co-mo o mal fei-to es-t\xE1 fei-to,"
+    nSyllables: 10
+  - phrase: restam os versos que deito,
+    splitText: res-tam os ver-sos que dei-to,
+    nSyllables: 8
+  - phrase: vinho no copo do acaso.
+    splitText: vi-nho no co-po do aca-so.
+    nSyllables: 8
+  - phrase: Porque verdadeiramente
+    splitText: Por-que ver-da-dei-ra-men-te
+    nSyllables: 8
+  - phrase: "sentir \xE9 t\xE3o complicado"
+    splitText: "sen-tir \xE9 t\xE3o com-pli-ca-do"
+    nSyllables: 8
+  - phrase: "que s\xF3 andando enganado"
+    splitText: "que s\xF3 an-dan-do en-ga-na-do"
+    nSyllables: 9
+  - phrase: "\xE9 que se cr\xEA que se sente."
+    splitText: "\xE9 que se cr\xEA que se sen-te."
+    nSyllables: 8
+  - phrase: Sofremos? Os versos pecam.
+    splitText: So-fre-mos? Os ver-sos pe-cam.
+    nSyllables: 8
+  - phrase: Mentimos? Os versos falham.
+    splitText: Men-ti-mos? Os ver-sos fa-lham.
+    nSyllables: 8
+  - phrase: "E tudo \xE9 chuvas que orvalham"
+    splitText: "E tu-do \xE9 chu-vas que or-va-lham"
+    nSyllables: 10
+  - phrase: "folhas ca\xEDdas que secam."
+    splitText: "fo-lhas ca\xED-das que se-cam."
+    nSyllables: 7
+  - phrase: Atravessa esta paisagem o meu sonho
+    splitText: Atra-ves-sa es-ta pai-sa-gem o meu so-nho
+    nSyllables: 12
+  - phrase: Atravessa esta paisagem o meu sonho dum porto infinito
+    splitText: Atra-ves-sa es-ta pai-sa-gem o meu so-nho dum por-to in-fi-ni-to
+    nSyllables: 19
+  - phrase: "E a cor das flores \xE9 transparente de as velas de grandes navios"
+    splitText: "E a cor das flo-res \xE9 trans-pa-ren-te de as ve-las de gran-des
+      na-vi-os"
+    nSyllables: 21
+  - phrase: "Que largam do cais arrastando nas \xE1guas por sombra"
+    splitText: "Que lar-gam do cais ar-ras-tan-do nas \xE1guas por som-bra"
+    nSyllables: 14
+  - phrase: "Os vultos ao sol daquelas \xE1rvores antigas..."
+    splitText: "Os vul-tos ao sol da-que-las \xE1r-vo-res an-ti-gas..."
+    nSyllables: 14
+  - phrase: "O porto que sonho \xE9 sombrio e p\xE1lido"
+    splitText: "O por-to que so-nho \xE9 som-brio e p\xE1-li-do"
+    nSyllables: 13
+  - phrase: "E esta paisagem \xE9 cheia de sol deste lado..."
+    splitText: "E es-ta pai-sa-gem \xE9 cheia de sol des-te la-do..."
+    nSyllables: 14
+  - phrase: "Mas no meu esp\xEDrito o sol deste dia \xE9 porto sombrio"
+    splitText: "Mas no meu es-p\xED-ri-to o sol des-te dia \xE9 por-to som-brio"
+    nSyllables: 17
+  - phrase: "E os navios que saem do porto s\xE3o estas \xE1rvores ao sol..."
+    splitText: "E os na-vi-os que sa-em do por-to s\xE3o es-tas \xE1r-vo-res ao sol..."
+    nSyllables: 19
+  - phrase: Liberto em duplo, abandonei-me da paisagem abaixo...
+    splitText: Li-ber-to em du-plo, aban-do-nei--me da pai-sa-gem abai-xo...
+    nSyllables: 17
+  - phrase: "O vulto do cais \xE9 a estrada n\xEDtida e calma"
+    splitText: "O vul-to do cais \xE9 a es-tra-da n\xED-ti-da e cal-ma"
+    nSyllables: 16
+  - phrase: Que se levanta e se ergue como um muro,
+    splitText: Que se le-van-ta e se er-gue co-mo um mu-ro,
+    nSyllables: 14
+  - phrase: "E os navios passam por dentro dos troncos das \xE1rvores"
+    splitText: "E os na-vi-os pas-sam por den-tro dos tron-cos das \xE1r-vo-res"
+    nSyllables: 17
+  - phrase: Com uma horizontalidade vertical,
+    splitText: Com uma ho-ri-zon-ta-li-da-de ver-ti-cal,
+    nSyllables: 12
+  - phrase: "E deixam cair amarras na \xE1gua pelas folhas uma a uma dentro..."
+    splitText: "E dei-xam cair amar-ras na \xE1gua pe-las fo-lhas uma a uma den-tro..."
+    nSyllables: 17
+  - phrase: "N\xE3o sei quem me sonho..."
+    splitText: "N\xE3o sei quem me so-nho..."
+    nSyllables: 6
+  - phrase: "S\xFAbito toda a \xE1gua do mar do porto \xE9 transparente"
+    splitText: "S\xFA-bi-to to-da a \xE1gua do mar do por-to \xE9 trans-pa-ren-te"
+    nSyllables: 17
+  - phrase: "E vejo no fundo, como uma estampa enorme que l\xE1 estivesse"
+    splitText: "E ve-jo no fun-do, co-mo uma es-tam-pa enor-me que l\xE1 es-ti-ves-se"
+    nSyllables: 20
+  - phrase: "Esta paisagem toda, renque de \xE1rvore, estrada a arder em aquele"
+    splitText: "Es-ta pai-sa-gem to-da, ren-que de \xE1r-vo-re, es-tra-da a ar-der
+      em aque-le"
+    nSyllables: 22
+  - phrase: E a sombra duma nau mais antiga que o porto que passa
+    splitText: E a som-bra du-ma nau mais an-ti-ga que o por-to que pas-sa
+    nSyllables: 18
+  - phrase: Entre o meu sonho do porto e o meu ver esta paisagem
+    splitText: En-tre o meu so-nho do por-to e o meu ver es-ta pai-sa-gem
+    nSyllables: 18
+  - phrase: "E chega ao p\xE9 de mim, e entra por mim dentro,"
+    splitText: "E che-ga ao p\xE9 de mim, e en-tra por mim den-tro,"
+    nSyllables: 14
+  - phrase: E passa para o outro lado da minha alma...
+    splitText: E pas-sa pa-ra o ou-tro la-do da mi-nha al-ma...
+    nSyllables: 15
+  - phrase: "O poeta \xE9 um fingidor."
+    splitText: "O po-e-ta \xE9 um fin-gi-dor."
+    nSyllables: 9
+  - phrase: "Finge t\xE3o completamente"
+    splitText: "Fin-ge t\xE3o com-ple-ta-men-te"
+    nSyllables: 8
+  - phrase: "Que chega a fingir que \xE9 dor"
+    splitText: "Que che-ga a fin-gir que \xE9 dor"
+    nSyllables: 9
+  - phrase: A dor que deveras sente.
+    splitText: A dor que de-ve-ras sen-te.
+    nSyllables: 8
+  - phrase: "E os que l\xEAem o que escreve,"
+    splitText: "E os que l\xEAem o que es-cre-ve,"
+    nSyllables: 9
+  - phrase: Na dor lida sentem bem,
+    splitText: Na dor li-da sen-tem bem,
+    nSyllables: 7
+  - phrase: "N\xE3o as duas que ele teve,"
+    splitText: "N\xE3o as du-as que ele te-ve,"
+    nSyllables: 8
+  - phrase: "Mas s\xF3 a que eles n\xE3o t\xEAm."
+    splitText: "Mas s\xF3 a que eles n\xE3o t\xEAm."
+    nSyllables: 7
+  - phrase: E assim nas calhas de roda
+    splitText: E as-sim nas ca-lhas de ro-da
+    nSyllables: 9
+  - phrase: "Gira, a entreter a raz\xE3o,"
+    splitText: "Gi-ra, a en-tre-ter a ra-z\xE3o,"
+    nSyllables: 9
+  - phrase: Esse comboio de corda
+    splitText: Es-se com-boio de cor-da
+    nSyllables: 7
+  - phrase: "Que se chama cora\xE7\xE3o."
+    splitText: "Que se cha-ma co-ra-\xE7\xE3o."
+    nSyllables: 7
+  - phrase: Azul, ou verde, ou roxo quando o sol
+    splitText: Azul, ou ver-de, ou ro-xo quan-do o sol
+    nSyllables: 11
+  - phrase: O doura falsamente de vermelho,
+    splitText: O dou-ra fal-sa-men-te de ver-me-lho,
+    nSyllables: 11
+  - phrase: "O mar \xE9 \xE1spero, casual ou mole,"
+    splitText: "O mar \xE9 \xE1s-pe-ro, ca-su-al ou mo-le,"
+    nSyllables: 12
+  - phrase: "\xC9 uma vez abismo e outra espelho."
+    splitText: "\xC9 uma vez abis-mo e ou-tra es-pe-lho."
+    nSyllables: 11
+  - phrase: Evoco porque sinto velho
+    splitText: Evo-co por-que sin-to ve-lho
+    nSyllables: 8
+  - phrase: O que em mim quereria mais que o mar
+    splitText: O que em mim que-re-ria mais que o mar
+    nSyllables: 11
+  - phrase: "J\xE1 que nada ali h\xE1 por desvendar."
+    splitText: "J\xE1 que na-da ali h\xE1 por des-ven-dar."
+    nSyllables: 10
+  - phrase: "Os grandes capit\xE3es e os marinheiros"
+    splitText: "Os gran-des ca-pi-t\xE3es e os ma-ri-nhei-ros"
+    nSyllables: 12
+  - phrase: "Com que fizeram a navega\xE7\xE3o,"
+    splitText: "Com que fi-ze-ram a na-ve-ga-\xE7\xE3o,"
+    nSyllables: 10
+  - phrase: "Jazem long\xEDnquos, l\xFAgubres parceiros"
+    splitText: "Ja-zem lon-g\xEDn-quos, l\xFA-gu-bres par-cei-ros"
+    nSyllables: 11
+  - phrase: "Do nosso esquecimento e ingratid\xE3o."
+    splitText: "Do nos-so es-que-ci-men-to e in-gra-ti-d\xE3o."
+    nSyllables: 13
+  - phrase: "S\xF3 o mar \xE0s vezes, quando s\xE3o"
+    splitText: "S\xF3 o mar \xE0s ve-zes, quan-do s\xE3o"
+    nSyllables: 9
+  - phrase: "Grandes as ondas e \xE9 deveras mar"
+    splitText: "Gran-des as on-das e \xE9 de-ve-ras mar"
+    nSyllables: 11
+  - phrase: Parece incertamente recordar.
+    splitText: Pa-re-ce in-cer-ta-men-te re-cor-dar.
+    nSyllables: 11
+  - phrase: "Mas sonho... O mar \xE9 \xE1gua, \xE9 \xE1gua nua,"
+    splitText: "Mas so-nho... O mar \xE9 \xE1gua, \xE9 \xE1gua nu-a,"
+    nSyllables: 11
+  - phrase: "Serva do obscuro \xEDmpeto distante"
+    splitText: "Ser-va do obs-cu-ro \xEDm-pe-to dis-tan-te"
+    nSyllables: 12
+  - phrase: Que, como a poesia, vem da lua
+    splitText: Que, co-mo a po-e-si-a, vem da lua
+    nSyllables: 11
+  - phrase: Que uma vez o abate outra o levanta.
+    splitText: Que uma vez o aba-te ou-tra o le-van-ta.
+    nSyllables: 12
+  - phrase: Mas, por mais que descante
+    splitText: Mas, por mais que des-can-te
+    nSyllables: 7
+  - phrase: "Sobre a ignor\xE2ncia natural do mar,"
+    splitText: "So-bre a ig-no-r\xE2n-cia na-tu-ral do mar,"
+    nSyllables: 12
+  - phrase: Pressinto-o, vasante, a murmurar.
+    splitText: Pres-sin-to-o, va-san-te, a mur-mu-rar.
+    nSyllables: 11
+  - phrase: "Quem sabe o que \xE9 a alma ? Quem conhece"
+    splitText: "Quem sa-be o que \xE9 a al-ma ? Quem co-nhe-ce"
+    nSyllables: 14
+  - phrase: "Que alma h\xE1 nas coisas que parecem mortas."
+    splitText: "Que al-ma h\xE1 nas coi-sas que pa-re-cem mor-tas."
+    nSyllables: 13
+  - phrase: Quanto em terra ou em nada nunca esquece.
+    splitText: Quan-to em ter-ra ou em na-da nun-ca es-que-ce.
+    nSyllables: 14
+  - phrase: "Quem sabe se no espa\xE7o v\xE1cuo h\xE1 portas?"
+    splitText: "Quem sa-be se no es-pa-\xE7o v\xE1-cuo h\xE1 por-tas?"
+    nSyllables: 13
+  - phrase: O sonho que me exortas
+    splitText: O so-nho que me exor-tas
+    nSyllables: 7
+  - phrase: A meditar assim a voz do mar,
+    splitText: A me-di-tar as-sim a voz do mar,
+    nSyllables: 10
+  - phrase: Ensina-me a saber-te meditar.
+    splitText: En-si-na--me a sa-ber--te me-di-tar.
+    nSyllables: 13
+  - phrase: "Capit\xE3es, contramestres - todos nautas"
+    splitText: "Ca-pi-t\xE3es, con-tra-mes-tres - to-dos nau-tas"
+    nSyllables: 13
+  - phrase: Da descoberta infiel de cada dia
+    splitText: Da des-co-ber-ta in-fi-el de ca-da dia
+    nSyllables: 12
+  - phrase: Acaso vos chamou de igonotas flautas
+    splitText: Aca-so vos cha-mou de igo-no-tas flau-tas
+    nSyllables: 11
+  - phrase: "A vaga e imposs\xEDvel melodia."
+    splitText: "A va-ga e im-pos-s\xED-vel me-lo-di-a."
+    nSyllables: 12
+  - phrase: Acaso o vosso ouvido ouvia
+    splitText: Aca-so o vos-so ou-vi-do ou-via
+    nSyllables: 10
+  - phrase: Qualquer coisa do mar sem ser o mar
+    splitText: Qual-quer coi-sa do mar sem ser o mar
+    nSyllables: 10
+  - phrase: "Sereias s\xF3 de ouvir e n\xE3o de achar?"
+    splitText: "Se-rei-as s\xF3 de ou-vir e n\xE3o de achar?"
+    nSyllables: 11
+  - phrase: "Qeum atr\xE1s de int\xE9rminos oceanos"
+    splitText: "Qeum atr\xE1s de in-t\xE9r-mi-nos oce-a-nos"
+    nSyllables: 10
+  - phrase: "Vos chamou \xE0 dist\xE2ncia ou quem"
+    splitText: "Vos cha-mou \xE0 dis-t\xE2n-cia ou quem"
+    nSyllables: 9
+  - phrase: "Sabe que h\xE1 nos cora\xE7\xF5es humanos"
+    splitText: "Sa-be que h\xE1 nos co-ra-\xE7\xF5es hu-ma-nos"
+    nSyllables: 11
+  - phrase: "N\xE3o s\xF3 uma \xE2nsia natural de bem"
+    splitText: "N\xE3o s\xF3 uma \xE2n-sia na-tu-ral de bem"
+    nSyllables: 10
+  - phrase: "Mas, mais vaga, mais sutil tamb\xE9m"
+    splitText: "Mas, mais va-ga, mais su-til tam-b\xE9m"
+    nSyllables: 9
+  - phrase: Uma coisa que quer o som do mar
+    splitText: Uma coi-sa que quer o som do mar
+    nSyllables: 9
+  - phrase: "E o estar longe de tudo e n\xE3o parar."
+    splitText: "E o es-tar lon-ge de tu-do e n\xE3o pa-rar."
+    nSyllables: 13
+  - phrase: "Se assim \xE9 e se v\xF3s e o mar imenso"
+    splitText: "Se as-sim \xE9 e se v\xF3s e o mar imen-so"
+    nSyllables: 12
+  - phrase: "Sois qualquer coisa, v\xF3s por o sentir"
+    splitText: "Sois qual-quer coi-sa, v\xF3s por o sen-tir"
+    nSyllables: 10
+  - phrase: E o mar por o ser, disto que penso;
+    splitText: E o mar por o ser, dis-to que pen-so;
+    nSyllables: 11
+  - phrase: Se no fundo ignorado do existir
+    splitText: Se no fun-do ig-no-ra-do do exis-tir
+    nSyllables: 11
+  - phrase: "H\xE1 mais alma que a que pode vir"
+    splitText: "H\xE1 mais al-ma que a que po-de vir"
+    nSyllables: 10
+  - phrase: "\xC0 tona v\xE3 de n\xF3s, como \xE0 do mar"
+    splitText: "\xC0 to-na v\xE3 de n\xF3s, co-mo \xE0 do mar"
+    nSyllables: 11
+  - phrase: Fazei-me livre, enfim , de o ignorar.
+    splitText: Fa-zei--me li-vre, en-fim , de o ig-no-rar.
+    nSyllables: 14
+  - phrase: Dai-me uma alma transposta de argonauta,
+    splitText: Dai--me uma al-ma trans-pos-ta de ar-go-nau-ta,
+    nSyllables: 14
+  - phrase: "Fazei que eu tenha, como o capit\xE3o"
+    splitText: "Fa-zei que eu te-nha, co-mo o ca-pi-t\xE3o"
+    nSyllables: 12
+  - phrase: Ou o contramestre, ouvidos para a flauta
+    splitText: Ou o con-tra-mes-tre, ou-vi-dos pa-ra a flau-ta
+    nSyllables: 14
+  - phrase: "Que chama ao longe o nosso cora\xE7\xE3o,"
+    splitText: "Que cha-ma ao lon-ge o nos-so co-ra-\xE7\xE3o,"
+    nSyllables: 12
+  - phrase: "Fazei-me ouvir , como a um perd\xE3o,"
+    splitText: "Fa-zei--me ou-vir , co-mo a um per-d\xE3o,"
+    nSyllables: 13
+  - phrase: "Numa reminisc\xEAncia de ensinar,"
+    splitText: "Nu-ma re-mi-nis-c\xEAn-cia de en-si-nar,"
+    nSyllables: 11
+  - phrase: "O antigo portugu\xEAs que fala o mar!"
+    splitText: "O an-ti-go por-tu-gu\xEAs que fa-la o mar!"
+    nSyllables: 12
+  - phrase: Baladas de uma outra terra
+    splitText: Ba-la-das de uma ou-tra ter-ra
+    nSyllables: 9
+  - phrase: Baladas de uma outra terra, aliadas
+    splitText: Ba-la-das de uma ou-tra ter-ra, ali-a-das
+    nSyllables: 12
+  - phrase: "\xC0s saudades das fadas, amadas por gnomos idos,"
+    splitText: "\xC0s sau-da-des das fa-das, ama-das por gno-mos idos,"
+    nSyllables: 13
+  - phrase: "Retinem l\xEDvidas ainda aos ouvidos"
+    splitText: "Re-ti-nem l\xED-vi-das ain-da aos ou-vi-dos"
+    nSyllables: 12
+  - phrase: Dos luares das altas noites aladas...
+    splitText: Dos lu-a-res das al-tas noi-tes ala-das...
+    nSyllables: 11
+  - phrase: Pelos canais barcas erradas
+    splitText: Pe-los ca-nais bar-cas er-ra-das
+    nSyllables: 9
+  - phrase: Segredam-se rumos descridos...
+    splitText: Se-gre-dam--se ru-mos des-cri-dos...
+    nSyllables: 10
+  - phrase: E tresloucadas ou casadas com o som das baladas,
+    splitText: E tres-lou-ca-das ou ca-sa-das com o som das ba-la-das,
+    nSyllables: 16
+  - phrase: "As fadas s\xE3o belas e as estrelas"
+    splitText: "As fa-das s\xE3o be-las e as es-tre-las"
+    nSyllables: 11
+  - phrase: "S\xE3o delas... Ei-las alheadas..."
+    splitText: "S\xE3o de-las... Ei--las alhe-a-das..."
+    nSyllables: 9
+  - phrase: E sao fumos os rumos das barcas sonhadas,
+    splitText: E sao fu-mos os ru-mos das bar-cas so-nha-das,
+    nSyllables: 13
+  - phrase: Nos canais fatais iguais de erradas,
+    splitText: Nos ca-nais fa-tais iguais de er-ra-das,
+    nSyllables: 10
+  - phrase: As barcas parcas das fadas,
+    splitText: As bar-cas par-cas das fa-das,
+    nSyllables: 8
+  - phrase: Das fadas aladas e hiemais
+    splitText: Das fa-das ala-das e hi-e-mais
+    nSyllables: 9
+  - phrase: E caladas...
+    splitText: E ca-la-das...
+    nSyllables: 4
+  - phrase: Toadas afastadas, irreais, de baladas...
+    splitText: To-a-das afas-ta-das, ir-re-ais, de ba-la-das...
+    nSyllables: 13
+  - phrase: Bate a luz no cimo...
+    splitText: Ba-te a luz no ci-mo...
+    nSyllables: 7
+  - phrase: Bate a luz no cimo
+    splitText: Ba-te a luz no ci-mo
+    nSyllables: 7
+  - phrase: "Da montanha, v\xEA..."
+    splitText: "Da mon-ta-nha, v\xEA..."
+    nSyllables: 5
+  - phrase: Sem querer eu cismo
+    splitText: Sem que-rer eu cis-mo
+    nSyllables: 6
+  - phrase: "Mas n\xE3o sei em qu\xEA...."
+    splitText: "Mas n\xE3o sei em qu\xEA...."
+    nSyllables: 5
+  - phrase: "N\xE3o sei que perdi"
+    splitText: "N\xE3o sei que per-di"
+    nSyllables: 5
+  - phrase: "Ou que n\xE3o achei..."
+    splitText: "Ou que n\xE3o achei..."
+    nSyllables: 4
+  - phrase: Vida que vivi,
+    splitText: Vi-da que vi-vi,
+    nSyllables: 5
+  - phrase: Que mal eu a amei !...
+    splitText: Que mal eu a amei !...
+    nSyllables: 6
+  - phrase: Hoje quero tanto
+    splitText: Ho-je que-ro tan-to
+    nSyllables: 6
+  - phrase: "Que o n\xE3o posso ter,"
+    splitText: "Que o n\xE3o pos-so ter,"
+    nSyllables: 6
+  - phrase: "De manh\xE3 h\xE1 o pranto"
+    splitText: "De ma-nh\xE3 h\xE1 o pran-to"
+    nSyllables: 7
+  - phrase: E ao anoitecer...
+    splitText: E ao anoi-te-cer...
+    nSyllables: 5
+  - phrase: Tomara eu ter jeito
+    splitText: To-ma-ra eu ter jei-to
+    nSyllables: 7
+  - phrase: Para ser feliz...
+    splitText: Pa-ra ser fe-liz...
+    nSyllables: 5
+  - phrase: "Como o mundo \xE9 estreito,"
+    splitText: "Co-mo o mun-do \xE9 es-trei-to,"
+    nSyllables: 9
+  - phrase: E o pouco que eu quis !
+    splitText: E o pou-co que eu quis !
+    nSyllables: 8
+  - phrase: Vai morrendo a luz
+    splitText: Vai mor-ren-do a luz
+    nSyllables: 6
+  - phrase: No alto da montanha...
+    splitText: No al-to da mon-ta-nha...
+    nSyllables: 7
+  - phrase: Como um rio a flux
+    splitText: Co-mo um rio a flux
+    nSyllables: 6
+  - phrase: A minha alma banha,
+    splitText: A mi-nha al-ma ba-nha,
+    nSyllables: 7
+  - phrase: "Mas n\xE3o me acarinha,"
+    splitText: "Mas n\xE3o me aca-ri-nha,"
+    nSyllables: 6
+  - phrase: "N\xE3o me acalma nada..."
+    splitText: "N\xE3o me acal-ma na-da..."
+    nSyllables: 6
+  - phrase: Pobre criancinha
+    splitText: Po-bre cri-an-ci-nha
+    nSyllables: 6
+  - phrase: Perdida na estrada !...
+    splitText: Per-di-da na es-tra-da !...
+    nSyllables: 8
+  - phrase: Brilha uma Voz na Noute...
+    splitText: Bri-lha uma Voz na Nou-te...
+    nSyllables: 7
+  - phrase: Brilha uma voz na noute
+    splitText: Bri-lha uma voz na nou-te
+    nSyllables: 7
+  - phrase: De dentro de Fora ouvi-a...
+    splitText: De den-tro de Fo-ra ou-vi-a...
+    nSyllables: 9
+  - phrase: "\xD3 Universo, eu sou-te..."
+    splitText: "\xD3 Uni-ver-so, eu sou--te..."
+    nSyllables: 8
+  - phrase: Oh, o horror da alegria
+    splitText: Oh, o hor-ror da ale-gria
+    nSyllables: 7
+  - phrase: Deste pavor, do archote
+    splitText: Des-te pa-vor, do ar-cho-te
+    nSyllables: 8
+  - phrase: Se apagar, que me guia!
+    splitText: Se apa-gar, que me gui-a!
+    nSyllables: 7
+  - phrase: "Cinzas de id\xE9ia e de nome"
+    splitText: "Cin-zas de id\xE9ia e de no-me"
+    nSyllables: 8
+  - phrase: "Em mim, e a voz:\xD3 mundo,"
+    splitText: "Em mim, e a voz:\xD3 mun-do,"
+    nSyllables: 7
+  - phrase: Sermente em ti eu sou-me...
+    splitText: Ser-men-te em ti eu sou--me...
+    nSyllables: 9
+  - phrase: Mero eco demim, me inundo
+    splitText: Me-ro eco de-mim, me inun-do
+    nSyllables: 8
+  - phrase: De ondas de negro lume
+    splitText: De on-das de ne-gro lu-me
+    nSyllables: 8
+  - phrase: Em que pra Deus me afundo.
+    splitText: Em que pra Deus me afun-do.
+    nSyllables: 7
+  - phrase: Silfos ou gnomos tocam?...
+    splitText: Sil-fos ou gno-mos to-cam?...
+    nSyllables: 7
+  - phrase: "Ro\xE7am nos pinheirais"
+    splitText: "Ro-\xE7am nos pi-nhei-rais"
+    nSyllables: 6
+  - phrase: Sombras e bafos leves
+    splitText: Som-bras e ba-fos le-ves
+    nSyllables: 7
+  - phrase: De ritmos musicais.
+    splitText: De rit-mos mu-si-cais.
+    nSyllables: 6
+  - phrase: Ondulam como em voltas
+    splitText: On-du-lam co-mo em vol-tas
+    nSyllables: 8
+  - phrase: "De estradas n\xE3o sei onde"
+    splitText: "De es-tra-das n\xE3o sei on-de"
+    nSyllables: 8
+  - phrase: "Ou como algu\xE9m que entre \xE1rvores"
+    splitText: "Ou co-mo al-gu\xE9m que en-tre \xE1r-vo-res"
+    nSyllables: 11
+  - phrase: Ora se mostra ou esconde.
+    splitText: Ora se mos-tra ou es-con-de.
+    nSyllables: 8
+  - phrase: "Forma long\xEDnqua e incerta"
+    splitText: "For-ma lon-g\xEDn-qua e in-cer-ta"
+    nSyllables: 9
+  - phrase: Do que eu nunca terei...
+    splitText: Do que eu nun-ca te-rei...
+    nSyllables: 7
+  - phrase: "Mal oi\xE7o e quase choro."
+    splitText: "Mal oi-\xE7o e qua-se cho-ro."
+    nSyllables: 8
+  - phrase: "Por que choro n\xE3o sei."
+    splitText: "Por que cho-ro n\xE3o sei."
+    nSyllables: 6
+  - phrase: "T\xE3o t\xEAnue melodia"
+    splitText: "T\xE3o t\xEA-nue me-lo-dia"
+    nSyllables: 6
+  - phrase: Que mal sei se ela existe
+    splitText: Que mal sei se ela exis-te
+    nSyllables: 7
+  - phrase: "Ou se \xE9 s\xF3 o crep\xFAsculo,"
+    splitText: "Ou se \xE9 s\xF3 o cre-p\xFAs-cu-lo,"
+    nSyllables: 9
+  - phrase: Os pinhais e eu estar triste.
+    splitText: Os pi-nhais e eu es-tar tris-te.
+    nSyllables: 9
+  - phrase: Mas cessa, como uma brisa
+    splitText: Mas ces-sa, co-mo uma bri-sa
+    nSyllables: 8
+  - phrase: Esquece a forma aos seus ais;
+    splitText: Es-que-ce a for-ma aos seus ais;
+    nSyllables: 9
+  - phrase: "E agora n\xE3o h\xE1 mais m\xFAsica"
+    splitText: "E ago-ra n\xE3o h\xE1 mais m\xFA-si-ca"
+    nSyllables: 9
+  - phrase: Do que a dos pinheirais.
+    splitText: Do que a dos pi-nhei-rais.
+    nSyllables: 7
+  - phrase: Cansa Sentir Quando se Pensa
+    splitText: Can-sa Sen-tir Quan-do se Pen-sa
+    nSyllables: 9
+  - phrase: Cansa sentir quando se pensa.
+    splitText: Can-sa sen-tir quan-do se pen-sa.
+    nSyllables: 9
+  - phrase: No ar da noite a madrugar
+    splitText: No ar da noi-te a ma-dru-gar
+    nSyllables: 9
+  - phrase: "H\xE1 uma solid\xE3o imensa"
+    splitText: "H\xE1 uma so-li-d\xE3o imen-sa"
+    nSyllables: 7
+  - phrase: Que tem por corpo o frio do ar.
+    splitText: Que tem por cor-po o frio do ar.
+    nSyllables: 9
+  - phrase: Neste momento insone e triste
+    splitText: Nes-te mo-men-to in-so-ne e tris-te
+    nSyllables: 11
+  - phrase: "Em que n\xE3o sei quem hei de ser,"
+    splitText: "Em que n\xE3o sei quem hei de ser,"
+    nSyllables: 8
+  - phrase: Pesa-me o informe real que existe
+    splitText: Pe-sa--me o in-for-me re-al que exis-te
+    nSyllables: 13
+  - phrase: Na noite antes de amanhecer.
+    splitText: Na noi-te an-tes de ama-nhe-cer.
+    nSyllables: 9
+  - phrase: Tudo isto me parece tudo.
+    splitText: Tu-do is-to me pa-re-ce tu-do.
+    nSyllables: 10
+  - phrase: "E \xE9 uma noite a ter um fim"
+    splitText: "E \xE9 uma noi-te a ter um fim"
+    nSyllables: 9
+  - phrase: "Um negro astral sil\xEAncio surdo"
+    splitText: "Um ne-gro as-tral si-l\xEAn-cio sur-do"
+    nSyllables: 10
+  - phrase: "E n\xE3o poder viver assim."
+    splitText: "E n\xE3o po-der vi-ver as-sim."
+    nSyllables: 8
+  - phrase: Mas noite, frio, negror sem fim,
+    splitText: Mas noi-te, fri-o, ne-gror sem fim,
+    nSyllables: 9
+  - phrase: "Mundo mudo, sil\xEAncio mudo Ah, nada \xE9 isto, nada \xE9 assim!"
+    splitText: "Mun-do mu-do, si-l\xEAn-cio mu-do Ah, na-da \xE9 is-to, na-da \xE9
+      as-sim!"
+    nSyllables: 20
+  - phrase: Cerca de grandes muros quem te sonhas
+    splitText: Cer-ca de gran-des mu-ros quem te so-nhas
+    nSyllables: 11
+  - phrase: Cerca de grandes muros quem te sonhas.
+    splitText: Cer-ca de gran-des mu-ros quem te so-nhas.
+    nSyllables: 11
+  - phrase: "Depois, onde \xE9 vis\xEDvel o jardim"
+    splitText: "De-pois, on-de \xE9 vi-s\xED-vel o jar-dim"
+    nSyllables: 11
+  - phrase: "Atrav\xE9s do port\xE3o de grade dada,"
+    splitText: "Atra-v\xE9s do por-t\xE3o de gra-de da-da,"
+    nSyllables: 10
+  - phrase: "P\xF5e quantas flores s\xE3o as mais risonhas,"
+    splitText: "P\xF5e quan-tas flo-res s\xE3o as mais ri-so-nhas,"
+    nSyllables: 11
+  - phrase: "Para que te conhe\xE7am s\xF3 assim."
+    splitText: "Pa-ra que te co-nhe-\xE7am s\xF3 as-sim."
+    nSyllables: 10
+  - phrase: "Onde ningu\xE9m o vir n\xE3o ponhas nada."
+    splitText: "On-de nin-gu\xE9m o vir n\xE3o po-nhas na-da."
+    nSyllables: 11
+  - phrase: "Faze canteiros como os que outros t\xEAm,"
+    splitText: "Fa-ze can-tei-ros co-mo os que ou-tros t\xEAm,"
+    nSyllables: 12
+  - phrase: Onde os olhares possam entrever
+    splitText: On-de os olha-res pos-sam en-tre-ver
+    nSyllables: 10
+  - phrase: O teu jardim com lho vais mostrar.
+    splitText: O teu jar-dim com lho vais mos-trar.
+    nSyllables: 9
+  - phrase: "Mas onde \xE9s teu, e nunca o v\xEA ningu\xE9m,"
+    splitText: "Mas on-de \xE9s teu, e nun-ca o v\xEA nin-gu\xE9m,"
+    nSyllables: 12
+  - phrase: "Deixa as flores que v\xEAm do ch\xE3o crescer"
+    splitText: "Dei-xa as flo-res que v\xEAm do ch\xE3o cres-cer"
+    nSyllables: 11
+  - phrase: E deixa as ervas naturais medrar.
+    splitText: E dei-xa as er-vas na-tu-rais me-drar.
+    nSyllables: 11
+  - phrase: Faze de ti um duplo ser guardado;
+    splitText: Fa-ze de ti um du-plo ser guar-da-do;
+    nSyllables: 11
+  - phrase: "E que ningu\xE9m, que veja e fite, possa"
+    splitText: "E que nin-gu\xE9m, que ve-ja e fi-te, pos-sa"
+    nSyllables: 12
+  - phrase: "Saber mais que um jardim de quem tu \xE9s Um jardim ostensivo e reservado,"
+    splitText: "Sa-ber mais que um jar-dim de quem tu \xE9s Um jar-dim os-ten-si-vo
+      e re-ser-va-do,"
+    nSyllables: 23
+  - phrase: "Por tr\xE1s do qual a flor nativa ro\xE7a"
+    splitText: "Por tr\xE1s do qual a flor na-ti-va ro-\xE7a"
+    nSyllables: 11
+  - phrase: "A erva t\xE3o pobre que nem tu a v\xEAs..."
+    splitText: "A er-va t\xE3o po-bre que nem tu a v\xEAs..."
+    nSyllables: 11
+  - phrase: Cessa o teu canto!
+    splitText: Ces-sa o teu can-to!
+    nSyllables: 6
+  - phrase: Cessa, que, enquanto
+    splitText: Ces-sa, que, en-quan-to
+    nSyllables: 6
+  - phrase: O ouvi, ouvia
+    splitText: O ou-vi, ou-via
+    nSyllables: 5
+  - phrase: Uma outra voz
+    splitText: Uma ou-tra voz
+    nSyllables: 4
+  - phrase: Com que vindo
+    splitText: Com que vin-do
+    nSyllables: 4
+  - phrase: "Nos interst\xEDcios"
+    splitText: "Nos in-ters-t\xED-ci-os"
+    nSyllables: 6
+  - phrase: Do brando encanto
+    splitText: Do bran-do en-can-to
+    nSyllables: 6
+  - phrase: Com que o teu canto
+    splitText: Com que o teu can-to
+    nSyllables: 6
+  - phrase: "Vinha at\xE9 n\xF3s."
+    splitText: "Vi-nha at\xE9 n\xF3s."
+    nSyllables: 4
+  - phrase: Ouvi-te e ouvi-a
+    splitText: Ou-vi--te e ou-vi-a
+    nSyllables: 8
+  - phrase: No mesmo tempo
+    splitText: No mes-mo tem-po
+    nSyllables: 5
+  - phrase: E diferentes
+    splitText: E di-fe-ren-tes
+    nSyllables: 5
+  - phrase: Juntas cantar.
+    splitText: Jun-tas can-tar.
+    nSyllables: 4
+  - phrase: E a melodia
+    splitText: E a me-lo-dia
+    nSyllables: 5
+  - phrase: "Que n\xE3o havia."
+    splitText: "Que n\xE3o ha-vi-a."
+    nSyllables: 5
+  - phrase: Se agora a lembro,
+    splitText: Se ago-ra a lem-bro,
+    nSyllables: 6
+  - phrase: Faz-me chorar.
+    splitText: Faz--me cho-rar.
+    nSyllables: 5
+  - phrase: "Chove. \xC9 dia de Natal"
+    splitText: "Cho-ve. \xC9 dia de Na-tal"
+    nSyllables: 7
+  - phrase: "Chove. \xC9 dia de Natal."
+    splitText: "Cho-ve. \xC9 dia de Na-tal."
+    nSyllables: 7
+  - phrase: "L\xE1 para o Norte \xE9 melhor:"
+    splitText: "L\xE1 pa-ra o Nor-te \xE9 me-lhor:"
+    nSyllables: 9
+  - phrase: "H\xE1 a neve que faz mal,"
+    splitText: "H\xE1 a ne-ve que faz mal,"
+    nSyllables: 7
+  - phrase: "E o frio que ainda \xE9 pior."
+    splitText: "E o frio que ain-da \xE9 pi-or."
+    nSyllables: 9
+  - phrase: "E toda a gente \xE9 contente"
+    splitText: "E to-da a gen-te \xE9 con-ten-te"
+    nSyllables: 10
+  - phrase: "Porque \xE9 dia de o ficar."
+    splitText: "Por-que \xE9 dia de o fi-car."
+    nSyllables: 8
+  - phrase: Chove no Natal presente.
+    splitText: Cho-ve no Na-tal pre-sen-te.
+    nSyllables: 8
+  - phrase: Antes isso que nevar.
+    splitText: An-tes is-so que ne-var.
+    nSyllables: 7
+  - phrase: Pois apesar de ser esse
+    splitText: Pois ape-sar de ser es-se
+    nSyllables: 7
+  - phrase: "O Natal da conven\xE7\xE3o,"
+    splitText: "O Na-tal da con-ven-\xE7\xE3o,"
+    nSyllables: 7
+  - phrase: Quando o corpo me arrefece
+    splitText: Quan-do o cor-po me ar-re-fe-ce
+    nSyllables: 10
+  - phrase: "Tenho o frio e Natal n\xE3o."
+    splitText: "Te-nho o frio e Na-tal n\xE3o."
+    nSyllables: 8
+  - phrase: Deixo sentir a quem quadra
+    splitText: Dei-xo sen-tir a quem qua-dra
+    nSyllables: 8
+  - phrase: E o Natal a quem o fez,
+    splitText: E o Na-tal a quem o fez,
+    nSyllables: 8
+  - phrase: Pois se escrevo ainda outra quadra
+    splitText: Pois se es-cre-vo ain-da ou-tra qua-dra
+    nSyllables: 11
+  - phrase: "Fico gelado dos p\xE9s."
+    splitText: "Fi-co ge-la-do dos p\xE9s."
+    nSyllables: 7
+  - phrase: "Chove. H\xE1 sil\xEAncio, porque a mesma chuva"
+    splitText: "Cho-ve. H\xE1 si-l\xEAn-ci-o, por-que a mes-ma chu-va"
+    nSyllables: 14
+  - phrase: "N\xE3o faz ru\xEDdo sen\xE3o com sossego."
+    splitText: "N\xE3o faz ru\xED-do se-n\xE3o com sos-se-go."
+    nSyllables: 10
+  - phrase: "Chove. O c\xE9u dorme. Quando a alma \xE9 vi\xFAva"
+    splitText: "Cho-ve. O c\xE9u dor-me. Quan-do a al-ma \xE9 vi\xFA-va"
+    nSyllables: 14
+  - phrase: "Do que n\xE3o sabe, o sentimento \xE9 cego."
+    splitText: "Do que n\xE3o sa-be, o sen-ti-men-to \xE9 ce-go."
+    nSyllables: 13
+  - phrase: Chove. Meu ser quem sou renego...
+    splitText: Cho-ve. Meu ser quem sou re-ne-go...
+    nSyllables: 9
+  - phrase: "T\xE3o calma \xE9 a chuva que se solta no ar"
+    splitText: "T\xE3o cal-ma \xE9 a chu-va que se sol-ta no ar"
+    nSyllables: 13
+  - phrase: Nem parece de nuvens que parece
+    splitText: Nem pa-re-ce de nu-vens que pa-re-ce
+    nSyllables: 11
+  - phrase: "Que n\xE3o \xE9 chuva, mas um sussurrar"
+    splitText: "Que n\xE3o \xE9 chu-va, mas um sus-sur-rar"
+    nSyllables: 10
+  - phrase: Que de si mesmo, ao sussurrar, se esquece.
+    splitText: Que de si mes-mo, ao sus-sur-rar, se es-que-ce.
+    nSyllables: 13
+  - phrase: Chove. Nada apetece...
+    splitText: Cho-ve. Na-da ape-te-ce...
+    nSyllables: 7
+  - phrase: "N\xE3o paira vento, n\xE3o h\xE1 c\xE9u que eu sinta."
+    splitText: "N\xE3o pai-ra ven-to, n\xE3o h\xE1 c\xE9u que eu sin-ta."
+    nSyllables: 12
+  - phrase: "Chove long\xEDnqua e indistintamente,"
+    splitText: "Cho-ve lon-g\xEDn-qua e in-dis-tin-ta-men-te,"
+    nSyllables: 12
+  - phrase: Como uma coisa certa que nos minta,
+    splitText: Co-mo uma coi-sa cer-ta que nos min-ta,
+    nSyllables: 11
+  - phrase: Como um grande desejo que nos mente.
+    splitText: Co-mo um gran-de de-se-jo que nos men-te.
+    nSyllables: 12
+  - phrase: Chove. Nada em mim sente...
+    splitText: Cho-ve. Na-da em mim sen-te...
+    nSyllables: 8
+  - phrase: Chove ? Nenhuma chuva cai...
+    splitText: Cho-ve ? Ne-nhu-ma chu-va cai...
+    nSyllables: 9
+  - phrase: "Ent\xE3o onde \xE9 que eu sinto um dia"
+    splitText: "En-t\xE3o on-de \xE9 que eu sin-to um dia"
+    nSyllables: 11
+  - phrase: "Em que ru\xEDdo da chuva atrai"
+    splitText: "Em que ru\xED-do da chu-va atrai"
+    nSyllables: 8
+  - phrase: "A minha in\xFAtil agonia ?"
+    splitText: "A mi-nha in\xFA-til ago-nia ?"
+    nSyllables: 8
+  - phrase: "Onde \xE9 que chove, que eu o ou\xE7o ?"
+    splitText: "On-de \xE9 que cho-ve, que eu o ou-\xE7o ?"
+    nSyllables: 12
+  - phrase: "Onde \xE9 que \xE9 triste, \xF3 claro c\xE9u ?"
+    splitText: "On-de \xE9 que \xE9 tris-te, \xF3 cla-ro c\xE9u ?"
+    nSyllables: 12
+  - phrase: "Eu quero sorrir-te, e n\xE3o posso,"
+    splitText: "Eu que-ro sor-rir--te, e n\xE3o pos-so,"
+    nSyllables: 11
+  - phrase: "\xD3 c\xE9u azul, chamar-te meu..."
+    splitText: "\xD3 c\xE9u azul, cha-mar--te meu..."
+    nSyllables: 8
+  - phrase: "E o escuro ru\xEDdo da chuva"
+    splitText: "E o es-cu-ro ru\xED-do da chu-va"
+    nSyllables: 10
+  - phrase: "\xC9 constante em meu pensamento."
+    splitText: "\xC9 cons-tan-te em meu pen-sa-men-to."
+    nSyllables: 10
+  - phrase: "Meu ser \xE9 a invis\xEDvel curva"
+    splitText: "Meu ser \xE9 a in-vi-s\xED-vel cur-va"
+    nSyllables: 10
+  - phrase: "Tra\xE7ada pelo som do vento..."
+    splitText: "Tra-\xE7a-da pe-lo som do ven-to..."
+    nSyllables: 9
+  - phrase: E eis que ante o sol e o azul do dia,
+    splitText: E eis que an-te o sol e o azul do di-a,
+    nSyllables: 13
+  - phrase: Como se a hora me estorvasse,
+    splitText: Co-mo se a ho-ra me es-tor-vas-se,
+    nSyllables: 11
+  - phrase: Eu sofro... E a luz e a sua alegria
+    splitText: Eu so-fro... E a luz e a sua ale-gria
+    nSyllables: 11
+  - phrase: "Cai aos meus p\xE9s como um disfarce."
+    splitText: "Cai aos meus p\xE9s co-mo um dis-far-ce."
+    nSyllables: 10
+  - phrase: Ah, na minha alma sempre chove.
+    splitText: Ah, na mi-nha al-ma sem-pre cho-ve.
+    nSyllables: 10
+  - phrase: "H\xE1 sempre escuro dentro de mim."
+    splitText: "H\xE1 sem-pre es-cu-ro den-tro de mim."
+    nSyllables: 10
+  - phrase: "Se escuro, algu\xE9m dentro de mim ouve"
+    splitText: "Se es-cu-ro, al-gu\xE9m den-tro de mim ou-ve"
+    nSyllables: 12
+  - phrase: A chuva, como a voz de um fim...
+    splitText: A chu-va, co-mo a voz de um fim...
+    nSyllables: 10
+  - phrase: "Os c\xE9us da tua face, e os derradeiros"
+    splitText: "Os c\xE9us da tua fa-ce, e os der-ra-dei-ros"
+    nSyllables: 12
+  - phrase: Tons do poente segredam nas arcadas...
+    splitText: Tons do po-en-te se-gre-dam nas ar-ca-das...
+    nSyllables: 12
+  - phrase: "No claustro seq\xFCestrando a lucidez"
+    splitText: "No claus-tro seq\xFCes-tran-do a lu-ci-dez"
+    nSyllables: 10
+  - phrase: "Um espasmo apagado em \xF3dio \xE0 \xE2nsia"
+    splitText: "Um es-pas-mo apa-ga-do em \xF3dio \xE0 \xE2n-sia"
+    nSyllables: 12
+  - phrase: "P\xF5e dias de ilhas vistas do conv\xE9s"
+    splitText: "P\xF5e di-as de ilhas vis-tas do con-v\xE9s"
+    nSyllables: 10
+  - phrase: "No meu cansa\xE7o perdido entre os gelos,"
+    splitText: "No meu can-sa-\xE7o per-di-do en-tre os ge-los,"
+    nSyllables: 13
+  - phrase: "E a cor do outono \xE9 um funeral de apelos"
+    splitText: "E a cor do ou-to-no \xE9 um fu-ne-ral de ape-los"
+    nSyllables: 15
+  - phrase: "Pela estrada da minha disson\xE2ncia..."
+    splitText: "Pe-la es-tra-da da mi-nha dis-so-n\xE2n-ci-a..."
+    nSyllables: 13
+  - phrase: "Come\xE7a a ir ser dia"
+    splitText: "Co-me-\xE7a a ir ser dia"
+    nSyllables: 7
+  - phrase: "Come\xE7a a ir ser dia,"
+    splitText: "Co-me-\xE7a a ir ser di-a,"
+    nSyllables: 8
+  - phrase: "O c\xE9u negro come\xE7a,"
+    splitText: "O c\xE9u ne-gro co-me-\xE7a,"
+    nSyllables: 7
+  - phrase: Numa menor negrura
+    splitText: Nu-ma me-nor ne-gru-ra
+    nSyllables: 7
+  - phrase: Da sua noite escura,
+    splitText: Da sua noi-te es-cu-ra,
+    nSyllables: 7
+  - phrase: A Ter uma cor fria
+    splitText: A Ter uma cor fria
+    nSyllables: 5
+  - phrase: Onde a negrura cessa.
+    splitText: On-de a ne-gru-ra ces-sa.
+    nSyllables: 8
+  - phrase: Um negro azul-cinzento
+    splitText: Um ne-gro azul--cin-zen-to
+    nSyllables: 8
+  - phrase: Emerge vagamente
+    splitText: Emer-ge va-ga-men-te
+    nSyllables: 6
+  - phrase: De onde o oriente dorme
+    splitText: De on-de o ori-en-te dor-me
+    nSyllables: 9
+  - phrase: Seu tardo sono informe,
+    splitText: Seu tar-do so-no in-for-me,
+    nSyllables: 8
+  - phrase: "E h\xE1 um frio sem vento"
+    splitText: "E h\xE1 um frio sem ven-to"
+    nSyllables: 7
+  - phrase: Que se ouve e mal se sente.
+    splitText: Que se ou-ve e mal se sen-te.
+    nSyllables: 9
+  - phrase: Mas eu, o mal-dormido,
+    splitText: Mas eu, o mal--dor-mi-do,
+    nSyllables: 8
+  - phrase: "N\xE3o sinto noite ou frio,"
+    splitText: "N\xE3o sin-to noi-te ou fri-o,"
+    nSyllables: 8
+  - phrase: Nem sinto vir o dia
+    splitText: Nem sin-to vir o dia
+    nSyllables: 6
+  - phrase: "Da solid\xE3o vazia."
+    splitText: "Da so-li-d\xE3o va-zi-a."
+    nSyllables: 7
+  - phrase: "S\xF3 sinto o indefinido"
+    splitText: "S\xF3 sin-to o in-de-fi-ni-do"
+    nSyllables: 9
+  - phrase: "Do cora\xE7\xE3o vazio."
+    splitText: "Do co-ra-\xE7\xE3o va-zi-o."
+    nSyllables: 7
+  - phrase: "Em v\xE3o o dia chega"
+    splitText: "Em v\xE3o o dia che-ga"
+    nSyllables: 6
+  - phrase: "Quem n\xE3o dorme, a quem"
+    splitText: "Quem n\xE3o dor-me, a quem"
+    nSyllables: 6
+  - phrase: "N\xE3o tem que ter raz\xE3o"
+    splitText: "N\xE3o tem que ter ra-z\xE3o"
+    nSyllables: 6
+  - phrase: "Dentro do cora\xE7\xE3o,"
+    splitText: "Den-tro do co-ra-\xE7\xE3o,"
+    nSyllables: 6
+  - phrase: Que quando vive nega
+    splitText: Que quan-do vi-ve ne-ga
+    nSyllables: 7
+  - phrase: "E quando ama n\xE3o tem."
+    splitText: "E quan-do ama n\xE3o tem."
+    nSyllables: 6
+  - phrase: "Em v\xE3o, em v\xE3o, e o c\xE9u"
+    splitText: "Em v\xE3o, em v\xE3o, e o c\xE9u"
+    nSyllables: 7
+  - phrase: Azula-se de verde
+    splitText: Azu-la--se de ver-de
+    nSyllables: 7
+  - phrase: "Que \xE9 isto que a minha alma sente ?"
+    splitText: "Que \xE9 is-to que a mi-nha al-ma sen-te ?"
+    nSyllables: 13
+  - phrase: "Nem isto, n\xE3o, nem eu,"
+    splitText: "Nem is-to, n\xE3o, nem eu,"
+    nSyllables: 6
+  - phrase: Na noite que se perde.
+    splitText: Na noi-te que se per-de.
+    nSyllables: 7
+  - phrase: "Como a noite \xE9 longa !"
+    splitText: "Co-mo a noi-te \xE9 lon-ga !"
+    nSyllables: 9
+  - phrase: "Toda a noite \xE9 assim..."
+    splitText: "To-da a noi-te \xE9 as-sim..."
+    nSyllables: 8
+  - phrase: Senta-te, ama, perto
+    splitText: Sen-ta--te, ama, per-to
+    nSyllables: 7
+  - phrase: Do leito onde esperto.
+    splitText: Do lei-to on-de es-per-to.
+    nSyllables: 8
+  - phrase: "Vem p'r'ao p\xE9 de mim..."
+    splitText: "Vem p'r'ao p\xE9 de mim..."
+    nSyllables: 5
+  - phrase: Amei tanta coisa...
+    splitText: Amei tan-ta coi-sa...
+    nSyllables: 5
+  - phrase: Hoje nada existe.
+    splitText: Ho-je na-da exis-te.
+    nSyllables: 6
+  - phrase: "Aqui ao p\xE9 da cama"
+    splitText: "Aqui ao p\xE9 da ca-ma"
+    nSyllables: 6
+  - phrase: Canta-me, minha ama,
+    splitText: Can-ta--me, mi-nha ama,
+    nSyllables: 7
+  - phrase: "Uma can\xE7\xE3o triste."
+    splitText: "Uma can-\xE7\xE3o tris-te."
+    nSyllables: 5
+  - phrase: Era uma princesa
+    splitText: Era uma prin-ce-sa
+    nSyllables: 5
+  - phrase: "Que amou... J\xE1 n\xE3o sei..."
+    splitText: "Que amou... J\xE1 n\xE3o sei..."
+    nSyllables: 5
+  - phrase: Como estou esquecido !
+    splitText: Co-mo es-tou es-que-ci-do !
+    nSyllables: 9
+  - phrase: Canta-me ao ouvido
+    splitText: Can-ta--me ao ou-vi-do
+    nSyllables: 8
+  - phrase: E adormecerei...
+    splitText: E ador-me-ce-rei...
+    nSyllables: 5
+  - phrase: "Que \xE9 feito de tudo ?"
+    splitText: "Que \xE9 fei-to de tu-do ?"
+    nSyllables: 8
+  - phrase: Que fiz eu de mim?
+    splitText: Que fiz eu de mim?
+    nSyllables: 5
+  - phrase: Deixa-me dormir,
+    splitText: Dei-xa--me dor-mir,
+    nSyllables: 6
+  - phrase: Dormir a sorrir
+    splitText: Dor-mir a sor-rir
+    nSyllables: 5
+  - phrase: E seja isto o fim.
+    splitText: E se-ja is-to o fim.
+    nSyllables: 7
+  - phrase: "Como in\xFAtil ta\xE7a cheia"
+    splitText: "Co-mo in\xFA-til ta-\xE7a cheia"
+    nSyllables: 7
+  - phrase: "Que ningu\xE9m ergue da mesa,"
+    splitText: "Que nin-gu\xE9m er-gue da me-sa,"
+    nSyllables: 8
+  - phrase: Transborda de dor alheia
+    splitText: Trans-bor-da de dor alheia
+    nSyllables: 6
+  - phrase: "Meu cora\xE7\xE3o sem tristeza."
+    splitText: "Meu co-ra-\xE7\xE3o sem tris-te-za."
+    nSyllables: 8
+  - phrase: "Sonhos de m\xE1goa figura"
+    splitText: "So-nhos de m\xE1-goa fi-gu-ra"
+    nSyllables: 8
+  - phrase: "S\xF3 para Ter que sentir"
+    splitText: "S\xF3 pa-ra Ter que sen-tir"
+    nSyllables: 7
+  - phrase: "E assim n\xE3o tem a amargura"
+    splitText: "E as-sim n\xE3o tem a amar-gu-ra"
+    nSyllables: 9
+  - phrase: Que se temeu a fingir.
+    splitText: Que se te-meu a fin-gir.
+    nSyllables: 7
+  - phrase: "Fic\xE7\xE3o num palco sem t\xE1buas"
+    splitText: "Fic-\xE7\xE3o num pal-co sem t\xE1-bu-as"
+    nSyllables: 9
+  - phrase: Vestida de papel seda
+    splitText: Ves-ti-da de pa-pel se-da
+    nSyllables: 8
+  - phrase: "Mima uma dan\xE7a de m\xE1goas"
+    splitText: "Mi-ma uma dan-\xE7a de m\xE1-go-as"
+    nSyllables: 9
+  - phrase: Para que nada suceda.
+    splitText: Pa-ra que na-da su-ce-da.
+    nSyllables: 8
+  - phrase: Como uma voz de fonte que cessasse
+    splitText: Co-mo uma voz de fon-te que ces-sas-se
+    nSyllables: 11
+  - phrase: "E uns para os outros nossos v\xE3os olhares"
+    splitText: "E uns pa-ra os ou-tros nos-sos v\xE3os olha-res"
+    nSyllables: 12
+  - phrase: "Se admiraram, p'ra al\xE9m dos meus palmares"
+    splitText: "Se ad-mi-ra-ram, p'-ra al\xE9m dos meus pal-ma-res"
+    nSyllables: 13
+  - phrase: "De sonho, a voz que do meu t\xE9dio nasce"
+    splitText: "De so-nho, a voz que do meu t\xE9-dio nas-ce"
+    nSyllables: 12
+  - phrase: "Parou... Apareceu j\xE1 sem disfarce"
+    splitText: "Pa-rou... Apa-re-ceu j\xE1 sem dis-far-ce"
+    nSyllables: 10
+  - phrase: "De m\xFAsica long\xEDnqua, asas nos ares,"
+    splitText: "De m\xFA-si-ca lon-g\xEDn-qua, asas nos ares,"
+    nSyllables: 10
+  - phrase: "O mist\xE9rio silente como os mares,"
+    splitText: "O mis-t\xE9-rio si-len-te co-mo os ma-res,"
+    nSyllables: 12
+  - phrase: Quando morreu o vento e a calma pasce...
+    splitText: Quan-do mor-reu o ven-to e a cal-ma pas-ce...
+    nSyllables: 13
+  - phrase: "A paisagem long\xEDnqua s\xF3 existe"
+    splitText: "A pai-sa-gem lon-g\xEDn-qua s\xF3 exis-te"
+    nSyllables: 10
+  - phrase: "Para haver nela um sil\xEAncio em descida"
+    splitText: "Pa-ra ha-ver ne-la um si-l\xEAn-cio em des-ci-da"
+    nSyllables: 14
+  - phrase: "P'ra o mist\xE9rio, sil\xEAncio a que a hora assiste..."
+    splitText: "P'-ra o mis-t\xE9-ri-o, si-l\xEAn-cio a que a ho-ra as-sis-te..."
+    nSyllables: 18
+  - phrase: E, perto ou longe, grande lago mudo,
+    splitText: E, per-to ou lon-ge, gran-de la-go mu-do,
+    nSyllables: 12
+  - phrase: "O mundo, o informe mundo onde h\xE1 a vida..."
+    splitText: "O mun-do, o in-for-me mun-do on-de h\xE1 a vi-da..."
+    nSyllables: 15
+  - phrase: E Deus, a Grande Ogiva ao fim de tudo...
+    splitText: E Deus, a Gran-de Ogi-va ao fim de tu-do...
+    nSyllables: 12
+  - phrase: Conta a lenda que dormia
+    splitText: Con-ta a len-da que dor-mia
+    nSyllables: 8
+  - phrase: Uma Princesa encantada
+    splitText: Uma Prin-ce-sa en-can-ta-da
+    nSyllables: 8
+  - phrase: "A quem s\xF3 despertaria"
+    splitText: "A quem s\xF3 des-per-ta-ria"
+    nSyllables: 7
+  - phrase: Um Infante, que viria
+    splitText: Um In-fan-te, que vi-ria
+    nSyllables: 7
+  - phrase: "De al\xE9m do muro da estrada."
+    splitText: "De al\xE9m do mu-ro da es-tra-da."
+    nSyllables: 9
+  - phrase: Ele tinha que, tentado,
+    splitText: Ele ti-nha que, ten-ta-do,
+    nSyllables: 7
+  - phrase: Vencer o mal e o bem,
+    splitText: Ven-cer o mal e o bem,
+    nSyllables: 7
+  - phrase: "Antes que, j\xE1 libertado,"
+    splitText: "An-tes que, j\xE1 li-ber-ta-do,"
+    nSyllables: 8
+  - phrase: Deixasse o caminho errado
+    splitText: Dei-xas-se o ca-mi-nho er-ra-do
+    nSyllables: 10
+  - phrase: "Por o que \xE0 Princesa vem."
+    splitText: "Por o que \xE0 Prin-ce-sa vem."
+    nSyllables: 8
+  - phrase: A Princesa Adormecida,
+    splitText: A Prin-ce-sa Ador-me-ci-da,
+    nSyllables: 8
+  - phrase: Se espera, dormindo espera.
+    splitText: Se es-pe-ra, dor-min-do es-pe-ra.
+    nSyllables: 10
+  - phrase: Sonha em morte a sua vida,
+    splitText: So-nha em mor-te a sua vi-da,
+    nSyllables: 9
+  - phrase: E orna-lhe a fronte esquecida,
+    splitText: E or-na--lhe a fron-te es-que-ci-da,
+    nSyllables: 12
+  - phrase: Verde, uma grinalda de hera.
+    splitText: Ver-de, uma gri-nal-da de he-ra.
+    nSyllables: 9
+  - phrase: "Longe o Infante, esfor\xE7ado,"
+    splitText: "Lon-ge o In-fan-te, es-for-\xE7a-do,"
+    nSyllables: 10
+  - phrase: Sem saber que intuito tem,
+    splitText: Sem sa-ber que in-tui-to tem,
+    nSyllables: 8
+  - phrase: Rompe o caminho fadado.
+    splitText: Rom-pe o ca-mi-nho fa-da-do.
+    nSyllables: 9
+  - phrase: "Ele dela \xE9 ignorado."
+    splitText: "Ele de-la \xE9 ig-no-ra-do."
+    nSyllables: 8
+  - phrase: "Ela para ele \xE9 ningu\xE9m."
+    splitText: "Ela pa-ra ele \xE9 nin-gu\xE9m."
+    nSyllables: 7
+  - phrase: Mas cada um cumpre o Destino Ela dormindo encantada,
+    splitText: Mas ca-da um cum-pre o Des-ti-no Ela dor-min-do en-can-ta-da,
+    nSyllables: 18
+  - phrase: Ele buscando-a sem tino
+    splitText: Ele bus-can-do-a sem ti-no
+    nSyllables: 8
+  - phrase: Pelo processo divino
+    splitText: Pe-lo pro-ces-so di-vi-no
+    nSyllables: 8
+  - phrase: Que faz existir a estrada.
+    splitText: Que faz exis-tir a es-tra-da.
+    nSyllables: 8
+  - phrase: E, se bem que seja obscuro
+    splitText: E, se bem que se-ja obs-cu-ro
+    nSyllables: 9
+  - phrase: Tudo pela estrada fora,
+    splitText: Tu-do pe-la es-tra-da fo-ra,
+    nSyllables: 9
+  - phrase: E falso, ele vem seguro,
+    splitText: E fal-so, ele vem se-gu-ro,
+    nSyllables: 8
+  - phrase: E, vencendo estrada e muro,
+    splitText: E, ven-cen-do es-tra-da e mu-ro,
+    nSyllables: 10
+  - phrase: Chega onde em sono ela mora.
+    splitText: Che-ga on-de em so-no ela mo-ra.
+    nSyllables: 10
+  - phrase: E, inda tonto do que houvera,
+    splitText: E, in-da ton-to do que hou-ve-ra,
+    nSyllables: 10
+  - phrase: "\xC3 cabe\xE7a, em maresia,"
+    splitText: "\xC3 ca-be-\xE7a, em ma-re-si-a,"
+    nSyllables: 9
+  - phrase: "Ergue a m\xE3o, e encontra hera,"
+    splitText: "Er-gue a m\xE3o, e en-con-tra he-ra,"
+    nSyllables: 10
+  - phrase: "E v\xEA que ele mesmo era"
+    splitText: "E v\xEA que ele mes-mo era"
+    nSyllables: 7
+  - phrase: A Princesa que dormia.
+    splitText: A Prin-ce-sa que dor-mi-a.
+    nSyllables: 8
+  - phrase: Contemplo o lago mudo
+    splitText: Con-tem-plo o la-go mu-do
+    nSyllables: 8
+  - phrase: Que uma brisa estremece.
+    splitText: Que uma bri-sa es-tre-me-ce.
+    nSyllables: 8
+  - phrase: "N\xE3o sei se penso em tudo"
+    splitText: "N\xE3o sei se pen-so em tu-do"
+    nSyllables: 8
+  - phrase: Ou se tudo me esquece.
+    splitText: Ou se tu-do me es-que-ce.
+    nSyllables: 8
+  - phrase: O lago nada me diz,
+    splitText: O la-go na-da me diz,
+    nSyllables: 7
+  - phrase: "N\xE3o sinto a brisa mex\xEA-lo"
+    splitText: "N\xE3o sin-to a bri-sa me-x\xEA--lo"
+    nSyllables: 10
+  - phrase: "N\xE3o sei se sou feliz"
+    splitText: "N\xE3o sei se sou fe-liz"
+    nSyllables: 6
+  - phrase: "Nem se desejo s\xEA-lo."
+    splitText: "Nem se de-se-jo s\xEA--lo."
+    nSyllables: 8
+  - phrase: "Tr\xEAmulos vincos risonhos"
+    splitText: "Tr\xEA-mu-los vin-cos ri-so-nhos"
+    nSyllables: 8
+  - phrase: "Na \xE1gua adormecida."
+    splitText: "Na \xE1gua ador-me-ci-da."
+    nSyllables: 6
+  - phrase: Por que fiz eu dos sonhos
+    splitText: Por que fiz eu dos so-nhos
+    nSyllables: 7
+  - phrase: "A minha \xFAnica vida?"
+    splitText: "A mi-nha \xFAni-ca vi-da?"
+    nSyllables: 7
+  - phrase: "Contemplo o que n\xE3o vejo"
+    splitText: "Con-tem-plo o que n\xE3o ve-jo"
+    nSyllables: 8
+  - phrase: "Contemplo o que n\xE3o vejo."
+    splitText: "Con-tem-plo o que n\xE3o ve-jo."
+    nSyllables: 8
+  - phrase: "\xC9 tarde, \xE9 quase escuro."
+    splitText: "\xC9 tar-de, \xE9 qua-se es-cu-ro."
+    nSyllables: 9
+  - phrase: E quanto em mim desejo
+    splitText: E quan-to em mim de-se-jo
+    nSyllables: 8
+  - phrase: "Est\xE1 parado ante o muro."
+    splitText: "Es-t\xE1 pa-ra-do an-te o mu-ro."
+    nSyllables: 10
+  - phrase: "Por cima o c\xE9u \xE9 grande;"
+    splitText: "Por ci-ma o c\xE9u \xE9 gran-de;"
+    nSyllables: 8
+  - phrase: "Sinto \xE1rvores al\xE9m;"
+    splitText: "Sin-to \xE1r-vo-res al\xE9m;"
+    nSyllables: 6
+  - phrase: Embora o vento abrande,
+    splitText: Em-bo-ra o ven-to abran-de,
+    nSyllables: 8
+  - phrase: "H\xE1 folhas em vaiv\xE9m."
+    splitText: "H\xE1 fo-lhas em vai-v\xE9m."
+    nSyllables: 6
+  - phrase: "Tudo \xE9 do outro lado,"
+    splitText: "Tu-do \xE9 do ou-tro la-do,"
+    nSyllables: 8
+  - phrase: "No que h\xE1 e no que penso."
+    splitText: "No que h\xE1 e no que pen-so."
+    nSyllables: 8
+  - phrase: "Nem h\xE1 ramo agitado"
+    splitText: "Nem h\xE1 ra-mo agi-ta-do"
+    nSyllables: 7
+  - phrase: "Que o c\xE9u n\xE3o seja imenso."
+    splitText: "Que o c\xE9u n\xE3o se-ja imen-so."
+    nSyllables: 8
+  - phrase: Confunde-se o que existe
+    splitText: Con-fun-de--se o que exis-te
+    nSyllables: 9
+  - phrase: Com o que durmo e sou.
+    splitText: Com o que dur-mo e sou.
+    nSyllables: 7
+  - phrase: "N\xE3o sinto, n\xE3o sou triste."
+    splitText: "N\xE3o sin-to, n\xE3o sou tris-te."
+    nSyllables: 7
+  - phrase: "Mas triste \xE9 o que estou."
+    splitText: "Mas tris-te \xE9 o que es-tou."
+    nSyllables: 8
+  - phrase: "D\xE1 a surpresa de ser"
+    splitText: "D\xE1 a sur-pre-sa de ser"
+    nSyllables: 7
+  - phrase: "D\xE1 a surpresa de ser."
+    splitText: "D\xE1 a sur-pre-sa de ser."
+    nSyllables: 7
+  - phrase: "\xC9 alta, de um louro escuro."
+    splitText: "\xC9 al-ta, de um lou-ro es-cu-ro."
+    nSyllables: 10
+  - phrase: "Faz bem s\xF3 pensar em ver"
+    splitText: "Faz bem s\xF3 pen-sar em ver"
+    nSyllables: 7
+  - phrase: Seu corpo meio maduro.
+    splitText: Seu cor-po meio ma-du-ro.
+    nSyllables: 7
+  - phrase: Seus seios altos parecem
+    splitText: Seus sei-os al-tos pa-re-cem
+    nSyllables: 8
+  - phrase: Se ela tivesse deitada
+    splitText: Se ela ti-ves-se dei-ta-da
+    nSyllables: 8
+  - phrase: Dois montinhos que amanhecem
+    splitText: Dois mon-ti-nhos que ama-nhe-cem
+    nSyllables: 8
+  - phrase: Sem Ter que haver madrugada.
+    splitText: Sem Ter que ha-ver ma-dru-ga-da.
+    nSyllables: 9
+  - phrase: "E a m\xE3o do seu bra\xE7o branco"
+    splitText: "E a m\xE3o do seu bra-\xE7o bran-co"
+    nSyllables: 9
+  - phrase: Assenta em palmo espalhado
+    splitText: As-sen-ta em pal-mo es-pa-lha-do
+    nSyllables: 10
+  - phrase: "Sobre a sali\xEAncia do flanco"
+    splitText: "So-bre a sa-li-\xEAn-cia do flan-co"
+    nSyllables: 10
+  - phrase: Do seu relevo tapado.
+    splitText: Do seu re-le-vo ta-pa-do.
+    nSyllables: 8
+  - phrase: Apetece como um barco.
+    splitText: Ape-te-ce co-mo um bar-co.
+    nSyllables: 8
+  - phrase: Tem qualquer coisa de gomo.
+    splitText: Tem qual-quer coi-sa de go-mo.
+    nSyllables: 8
+  - phrase: "Meu Deus, quando \xE9 que eu embarco?"
+    splitText: "Meu Deus, quan-do \xE9 que eu em-bar-co?"
+    nSyllables: 10
+  - phrase: "\xD3 fome, quando \xE9 que eu como ?"
+    splitText: "\xD3 fo-me, quan-do \xE9 que eu co-mo ?"
+    nSyllables: 11
+  - phrase: "Da minha id\xE9ia do mundo"
+    splitText: "Da mi-nha id\xE9ia do mun-do"
+    nSyllables: 7
+  - phrase: "V\xE1cuo al\xE9m do profundo,"
+    splitText: "V\xE1-cuo al\xE9m do pro-fun-do,"
+    nSyllables: 7
+  - phrase: Sem ter Eu nem Ali...
+    splitText: Sem ter Eu nem Ali...
+    nSyllables: 5
+  - phrase: "V\xE1cuo sem si-pr\xF3prio, caos"
+    splitText: "V\xE1-cuo sem si--pr\xF3-pri-o, ca-os"
+    nSyllables: 10
+  - phrase: De ser pensado como ser...
+    splitText: De ser pen-sa-do co-mo ser...
+    nSyllables: 8
+  - phrase: Escada absoluta sem degraus...
+    splitText: Es-ca-da ab-so-lu-ta sem de-graus...
+    nSyllables: 10
+  - phrase: "Vis\xE3o que se n\xE3o pode ver..."
+    splitText: "Vi-s\xE3o que se n\xE3o po-de ver..."
+    nSyllables: 8
+  - phrase: "Al\xE9m-Deus ! Al\xE9m-Deus! Negra calma..."
+    splitText: "Al\xE9m--Deus ! Al\xE9m--Deus! Ne-gra cal-ma..."
+    nSyllables: 11
+  - phrase: "Clar\xE3o do Desconhecido..."
+    splitText: "Cla-r\xE3o do Des-co-nhe-ci-do..."
+    nSyllables: 8
+  - phrase: "Tudo tem outro sentido, \xF3 alma,"
+    splitText: "Tu-do tem ou-tro sen-ti-do, \xF3 al-ma,"
+    nSyllables: 11
+  - phrase: Mesmo o ter-um-sentido...
+    splitText: Mes-mo o ter-um--sen-ti-do...
+    nSyllables: 9
+  - phrase: "De onde \xE9 quase o horizonte"
+    splitText: "De on-de \xE9 qua-se o ho-ri-zon-te"
+    nSyllables: 11
+  - phrase: "Sobe uma n\xE9voa ligeira"
+    splitText: "So-be uma n\xE9-voa li-gei-ra"
+    nSyllables: 8
+  - phrase: E afaga o pequeno monte
+    splitText: E afa-ga o pe-que-no mon-te
+    nSyllables: 9
+  - phrase: "Que p\xE1ra na dianteira."
+    splitText: "Que p\xE1-ra na di-an-tei-ra."
+    nSyllables: 8
+  - phrase: "E com bra\xE7os de farrapo"
+    splitText: "E com bra-\xE7os de far-ra-po"
+    nSyllables: 8
+  - phrase: "Quase invis\xEDveis e frios,"
+    splitText: "Qua-se in-vi-s\xED-veis e fri-os,"
+    nSyllables: 9
+  - phrase: Faz cair seu ser de trapo
+    splitText: Faz cair seu ser de tra-po
+    nSyllables: 7
+  - phrase: Sobre os contornos macios.
+    splitText: So-bre os con-tor-nos ma-ci-os.
+    nSyllables: 9
+  - phrase: Um pouco de alto medito
+    splitText: Um pou-co de al-to me-di-to
+    nSyllables: 9
+  - phrase: "A n\xE9voa s\xF3 com a ver."
+    splitText: "A n\xE9-voa s\xF3 com a ver."
+    nSyllables: 7
+  - phrase: "A vida? N\xE3o acredito."
+    splitText: "A vi-da? N\xE3o acre-di-to."
+    nSyllables: 7
+  - phrase: "A cren\xE7a? N\xE3o sei viver."
+    splitText: "A cren-\xE7a? N\xE3o sei vi-ver."
+    nSyllables: 7
+  - phrase: "De quem \xE9 o olhar"
+    splitText: "De quem \xE9 o olhar"
+    nSyllables: 5
+  - phrase: Que espreita por meus olhos ?
+    splitText: Que es-prei-ta por meus olhos ?
+    nSyllables: 8
+  - phrase: Quando penso que vejo,
+    splitText: Quan-do pen-so que ve-jo,
+    nSyllables: 7
+  - phrase: Quem continua vendo
+    splitText: Quem con-ti-nua ven-do
+    nSyllables: 6
+  - phrase: Enquanto estou pensando ?
+    splitText: En-quan-to es-tou pen-san-do ?
+    nSyllables: 9
+  - phrase: Por que caminhos seguem,
+    splitText: Por que ca-mi-nhos se-guem,
+    nSyllables: 7
+  - phrase: "N\xE3o os meus tristes passos,"
+    splitText: "N\xE3o os meus tris-tes pas-sos,"
+    nSyllables: 7
+  - phrase: Mas a realidade
+    splitText: Mas a re-a-li-da-de
+    nSyllables: 7
+  - phrase: De eu ter passos comigo ?
+    splitText: De eu ter pas-sos co-mi-go ?
+    nSyllables: 9
+  - phrase: "\xC0s vezes, na penumbra"
+    splitText: "\xC0s ve-zes, na pe-num-bra"
+    nSyllables: 7
+  - phrase: Do meu quarto, quando eu
+    splitText: Do meu quar-to, quan-do eu
+    nSyllables: 7
+  - phrase: "Por mim pr\xF3prio mesmo"
+    splitText: "Por mim pr\xF3-prio mes-mo"
+    nSyllables: 6
+  - phrase: Em alma mal existo,
+    splitText: Em al-ma mal exis-to,
+    nSyllables: 6
+  - phrase: Toma um outro sentido
+    splitText: To-ma um ou-tro sen-ti-do
+    nSyllables: 8
+  - phrase: "Em mim o Universo \xC9 uma n\xF3doa esbatida"
+    splitText: "Em mim o Uni-ver-so \xC9 uma n\xF3-doa es-ba-ti-da"
+    nSyllables: 14
+  - phrase: De eu ser consciente sobre
+    splitText: De eu ser cons-ci-en-te so-bre
+    nSyllables: 9
+  - phrase: "Minha id\xE9ia das coisas."
+    splitText: "Mi-nha id\xE9ia das coi-sas."
+    nSyllables: 6
+  - phrase: Se acenderem as velas
+    splitText: Se acen-de-rem as ve-las
+    nSyllables: 7
+  - phrase: "E n\xE3o houver apenas"
+    splitText: "E n\xE3o hou-ver ape-nas"
+    nSyllables: 6
+  - phrase: "A vaga luz de foraN\xE3o sei que candeeiro"
+    splitText: "A va-ga luz de fo-ra-N\xE3o sei que can-de-ei-ro"
+    nSyllables: 14
+  - phrase: Aceso onde na ruaTerei foscos desejos
+    splitText: Ace-so on-de na ru-a-Te-rei fos-cos de-se-jos
+    nSyllables: 14
+  - phrase: De nunca haver mais nada
+    splitText: De nun-ca ha-ver mais na-da
+    nSyllables: 8
+  - phrase: No Universo e na Vida
+    splitText: No Uni-ver-so e na Vi-da
+    nSyllables: 8
+  - phrase: De que o obscuro momento
+    splitText: De que o obs-cu-ro mo-men-to
+    nSyllables: 9
+  - phrase: "Que \xE9 minha vida agora!"
+    splitText: "Que \xE9 mi-nha vi-da ago-ra!"
+    nSyllables: 8
+  - phrase: Um momento afluente
+    splitText: Um mo-men-to aflu-en-te
+    nSyllables: 7
+  - phrase: Dum rio sempre a ir
+    splitText: Dum rio sem-pre a ir
+    nSyllables: 6
+  - phrase: Esquecer-se de ser,
+    splitText: Es-que-cer--se de ser,
+    nSyllables: 7
+  - phrase: "Espa\xE7o misterioso"
+    splitText: "Es-pa-\xE7o mis-te-ri-o-so"
+    nSyllables: 8
+  - phrase: "Entre espa\xE7os desertos"
+    splitText: "En-tre es-pa-\xE7os de-ser-tos"
+    nSyllables: 8
+  - phrase: "Cujo sentido \xE9 nulo"
+    splitText: "Cu-jo sen-ti-do \xE9 nu-lo"
+    nSyllables: 8
+  - phrase: E sem ser nada a nada.
+    splitText: E sem ser na-da a na-da.
+    nSyllables: 8
+  - phrase: E assim a hora passa
+    splitText: E as-sim a ho-ra pas-sa
+    nSyllables: 8
+  - phrase: Ditosos a quem acena
+    splitText: Di-to-sos a quem ace-na
+    nSyllables: 7
+  - phrase: "Um len\xE7o de despedida !"
+    splitText: "Um len-\xE7o de des-pe-di-da !"
+    nSyllables: 9
+  - phrase: "S\xE3o felizes : t\xEAm pena..."
+    splitText: "S\xE3o fe-li-zes : t\xEAm pe-na..."
+    nSyllables: 8
+  - phrase: Eu sofro sem pena a vida.
+    splitText: Eu so-fro sem pe-na a vi-da.
+    nSyllables: 9
+  - phrase: "D\xF4o-me at\xE9 onde penso,"
+    splitText: "D\xF4o--me at\xE9 on-de pen-so,"
+    nSyllables: 8
+  - phrase: "E a dor \xE9 j\xE1 de pensar,"
+    splitText: "E a dor \xE9 j\xE1 de pen-sar,"
+    nSyllables: 8
+  - phrase: "\xD3rf\xE3o de um sonho suspenso"
+    splitText: "\xD3r-f\xE3o de um so-nho sus-pen-so"
+    nSyllables: 9
+  - phrase: "Pela mar\xE9 a vazar..."
+    splitText: "Pe-la ma-r\xE9 a va-zar..."
+    nSyllables: 7
+  - phrase: "E sobe at\xE9 mim, j\xE1 farto"
+    splitText: "E so-be at\xE9 mim, j\xE1 far-to"
+    nSyllables: 8
+  - phrase: "De improf\xEDcuas agonias,"
+    splitText: "De im-pro-f\xED-cu-as ago-ni-as,"
+    nSyllables: 9
+  - phrase: No cais de onde nunca parto,
+    splitText: No cais de on-de nun-ca par-to,
+    nSyllables: 9
+  - phrase: A maresia dos dias.
+    splitText: A ma-re-sia dos di-as.
+    nSyllables: 7
+  - phrase: Dizem que finjo ou minto
+    splitText: Di-zem que fin-jo ou min-to
+    nSyllables: 8
+  - phrase: "Tudo que escrevo. N\xE3o."
+    splitText: "Tu-do que es-cre-vo. N\xE3o."
+    nSyllables: 7
+  - phrase: Eu simplesmente sinto
+    splitText: Eu sim-ples-men-te sin-to
+    nSyllables: 7
+  - phrase: "Com a imagina\xE7\xE3o."
+    splitText: "Com a ima-gi-na-\xE7\xE3o."
+    nSyllables: 6
+  - phrase: "N\xE3o uso o cora\xE7\xE3o."
+    splitText: "N\xE3o uso o co-ra-\xE7\xE3o."
+    nSyllables: 6
+  - phrase: Tudo o que sonho ou passo,
+    splitText: Tu-do o que so-nho ou pas-so,
+    nSyllables: 9
+  - phrase: O que me falha ou finda,
+    splitText: O que me fa-lha ou fin-da,
+    nSyllables: 8
+  - phrase: "\xC9como que um terra\xE7o"
+    splitText: "\xC9co-mo que um ter-ra-\xE7o"
+    nSyllables: 7
+  - phrase: Sobre outra coisa ainda.
+    splitText: So-bre ou-tra coi-sa ain-da.
+    nSyllables: 8
+  - phrase: "Essa coisa \xE9 que \xE9 linda."
+    splitText: "Es-sa coi-sa \xE9 que \xE9 lin-da."
+    nSyllables: 9
+  - phrase: Por isso escrevo em meio
+    splitText: Por is-so es-cre-vo em meio
+    nSyllables: 8
+  - phrase: "Do que n\xE3o est\xE1 ao p\xE9,"
+    splitText: "Do que n\xE3o es-t\xE1 ao p\xE9,"
+    nSyllables: 7
+  - phrase: Livre do meu enleio,
+    splitText: Li-vre do meu en-lei-o,
+    nSyllables: 7
+  - phrase: "S\xE9rio do que n\xE3o \xE9,"
+    splitText: "S\xE9-rio do que n\xE3o \xE9,"
+    nSyllables: 6
+  - phrase: "Sentir, sinta quem l\xEA !"
+    splitText: "Sen-tir, sin-ta quem l\xEA !"
+    nSyllables: 7
+  - phrase: "N\xE3o dizem ?"
+    splitText: "N\xE3o di-zem ?"
+    nSyllables: 4
+  - phrase: "N\xE3o fazem?"
+    splitText: "N\xE3o fa-zem?"
+    nSyllables: 3
+  - phrase: "Por qu\xEA"
+    splitText: "Por qu\xEA"
+    nSyllables: 2
+  - phrase: Esperar ?
+    splitText: Es-pe-rar ?
+    nSyllables: 4
+  - phrase: "Tudo \xE9"
+    splitText: "Tu-do \xE9"
+    nSyllables: 3
+  - phrase: "Peguei no meu cora\xE7\xE3o"
+    splitText: "Pe-guei no meu co-ra-\xE7\xE3o"
+    nSyllables: 7
+  - phrase: "E pu-lo na minha m\xE3o"
+    splitText: "E pu--lo na mi-nha m\xE3o"
+    nSyllables: 8
+  - phrase: Olhei-o como quem olha
+    splitText: Olhei-o co-mo quem olha
+    nSyllables: 6
+  - phrase: "Gr\xE3os de areia ou uma folha."
+    splitText: "Gr\xE3os de areia ou uma fo-lha."
+    nSyllables: 7
+  - phrase: "Olhei-o p\xE1vido e absorto"
+    splitText: "Olhei-o p\xE1-vi-do e ab-sor-to"
+    nSyllables: 9
+  - phrase: Como quem sabe estar morto;
+    splitText: Co-mo quem sa-be es-tar mor-to;
+    nSyllables: 9
+  - phrase: "Com a alma s\xF3 comovida"
+    splitText: "Com a al-ma s\xF3 co-mo-vi-da"
+    nSyllables: 9
+  - phrase: Do sonho e pouco da vida.
+    splitText: Do so-nho e pou-co da vi-da.
+    nSyllables: 9
+  - phrase: Dorme enquanto eu velo...
+    splitText: Dor-me en-quan-to eu ve-lo...
+    nSyllables: 8
+  - phrase: Deixa-me sonhar...
+    splitText: Dei-xa--me so-nhar...
+    nSyllables: 6
+  - phrase: "Nada em mim \xE9 risonho."
+    splitText: "Na-da em mim \xE9 ri-so-nho."
+    nSyllables: 8
+  - phrase: Quero-te para sonho,
+    splitText: Que-ro--te pa-ra so-nho,
+    nSyllables: 8
+  - phrase: "N\xE3o para te amar."
+    splitText: "N\xE3o pa-ra te amar."
+    nSyllables: 5
+  - phrase: A tua carne calma
+    splitText: A tua car-ne cal-ma
+    nSyllables: 6
+  - phrase: "\xC9 fria em meu querer."
+    splitText: "\xC9 fria em meu que-rer."
+    nSyllables: 6
+  - phrase: "Os meus desejos s\xE3o cansa\xE7os."
+    splitText: "Os meus de-se-jos s\xE3o can-sa-\xE7os."
+    nSyllables: 9
+  - phrase: "Nem quero ter nos bra\xE7os"
+    splitText: "Nem que-ro ter nos bra-\xE7os"
+    nSyllables: 7
+  - phrase: Meu sonho do teu ser.
+    splitText: Meu so-nho do teu ser.
+    nSyllables: 6
+  - phrase: Dorme, dorme, dorme,
+    splitText: Dor-me, dor-me, dor-me,
+    nSyllables: 6
+  - phrase: Vaga em teu sorrir...
+    splitText: Va-ga em teu sor-rir...
+    nSyllables: 6
+  - phrase: "Sonho-te t\xE3o atento"
+    splitText: "So-nho--te t\xE3o aten-to"
+    nSyllables: 7
+  - phrase: "Que o sonho \xE9 encantamento"
+    splitText: "Que o so-nho \xE9 en-can-ta-men-to"
+    nSyllables: 10
+  - phrase: E eu sonho sem sentir.
+    splitText: E eu so-nho sem sen-tir.
+    nSyllables: 7
+  - phrase: "Dorme, que a vida \xE9 nada!"
+    splitText: "Dor-me, que a vi-da \xE9 na-da!"
+    nSyllables: 9
+  - phrase: "Dorme, que tudo \xE9 v\xE3o!"
+    splitText: "Dor-me, que tu-do \xE9 v\xE3o!"
+    nSyllables: 7
+  - phrase: "Se algu\xE9m achou a estrada,"
+    splitText: "Se al-gu\xE9m achou a es-tra-da,"
+    nSyllables: 8
+  - phrase: "Achou-a em confus\xE3o,"
+    splitText: "Achou-a em con-fu-s\xE3o,"
+    nSyllables: 6
+  - phrase: Com a alma enganada.
+    splitText: Com a al-ma en-ga-na-da.
+    nSyllables: 8
+  - phrase: "N\xE3o h\xE1 lugar nem dia"
+    splitText: "N\xE3o h\xE1 lu-gar nem dia"
+    nSyllables: 6
+  - phrase: Para quem quer achar,
+    splitText: Pa-ra quem quer achar,
+    nSyllables: 5
+  - phrase: Nem paz nem alegria
+    splitText: Nem paz nem ale-gria
+    nSyllables: 5
+  - phrase: Para quem, por amar,
+    splitText: Pa-ra quem, por amar,
+    nSyllables: 5
+  - phrase: Em quem ama confia.
+    splitText: Em quem ama con-fi-a.
+    nSyllables: 6
+  - phrase: Melhor entre onde os ramos
+    splitText: Me-lhor en-tre on-de os ra-mos
+    nSyllables: 9
+  - phrase: "Tecem doc\xE9is sem ser"
+    splitText: "Te-cem do-c\xE9is sem ser"
+    nSyllables: 6
+  - phrase: Ficar como ficamos,
+    splitText: Fi-car co-mo fi-ca-mos,
+    nSyllables: 7
+  - phrase: Sem pensar nem querer,
+    splitText: Sem pen-sar nem que-rer,
+    nSyllables: 6
+  - phrase: Dando o que nunca damos.
+    splitText: Dan-do o que nun-ca da-mos.
+    nSyllables: 8
+  - phrase: Dorme sobre o meu seio
+    splitText: Dor-me so-bre o meu seio
+    nSyllables: 7
+  - phrase: Dorme sobre o meu seio,
+    splitText: Dor-me so-bre o meu sei-o,
+    nSyllables: 8
+  - phrase: Sonhando de sonhar...
+    splitText: So-nhan-do de so-nhar...
+    nSyllables: 6
+  - phrase: No teu olhar eu leio
+    splitText: No teu olhar eu leio
+    nSyllables: 5
+  - phrase: "Um l\xFAbrico vagar."
+    splitText: "Um l\xFA-bri-co va-gar."
+    nSyllables: 6
+  - phrase: Dorme no sonho de existir
+    splitText: Dor-me no so-nho de exis-tir
+    nSyllables: 8
+  - phrase: "E na ilus\xE3o de amar."
+    splitText: "E na ilu-s\xE3o de amar."
+    nSyllables: 6
+  - phrase: "Tudo \xE9 nada, e tudo"
+    splitText: "Tu-do \xE9 na-da, e tu-do"
+    nSyllables: 8
+  - phrase: Um sonho finge ser.
+    splitText: Um so-nho fin-ge ser.
+    nSyllables: 6
+  - phrase: "O 'spa\xE7o negro \xE9 mudo."
+    splitText: "O 's-pa-\xE7o ne-gro \xE9 mu-do."
+    nSyllables: 9
+  - phrase: Dorme, e, ao adormecer,
+    splitText: Dor-me, e, ao ador-me-cer,
+    nSyllables: 7
+  - phrase: "Saibas do cora\xE7\xE3o sorrir"
+    splitText: "Sai-bas do co-ra-\xE7\xE3o sor-rir"
+    nSyllables: 8
+  - phrase: Sorrisos de esquecer.
+    splitText: Sor-ri-sos de es-que-cer.
+    nSyllables: 7
+  - phrase: "Sem m\xE1goa nem amor..."
+    splitText: "Sem m\xE1-goa nem amor..."
+    nSyllables: 5
+  - phrase: "O \xEDntimo torpor"
+    splitText: "O \xEDn-ti-mo tor-por"
+    nSyllables: 6
+  - phrase: De quem conhece o nada-ser
+    splitText: De quem co-nhe-ce o na-da--ser
+    nSyllables: 10
+  - phrase: De vida e gozo e dor.
+    splitText: De vi-da e go-zo e dor.
+    nSyllables: 8
+  - phrase: "Do vale \xE0 montanha"
+    splitText: "Do va-le \xE0 mon-ta-nha"
+    nSyllables: 7
+  - phrase: "Do vale \xE0 montanha,"
+    splitText: "Do va-le \xE0 mon-ta-nha,"
+    nSyllables: 7
+  - phrase: Da montanha ao monte, cavalo de sombra,
+    splitText: Da mon-ta-nha ao mon-te, ca-va-lo de som-bra,
+    nSyllables: 13
+  - phrase: Cavaleiro monge,
+    splitText: Ca-va-lei-ro mon-ge,
+    nSyllables: 6
+  - phrase: Pr casas, por prados,
+    splitText: Pr ca-sas, por pra-dos,
+    nSyllables: 6
+  - phrase: Por Quinta e por fonte,
+    splitText: Por Quin-ta e por fon-te,
+    nSyllables: 7
+  - phrase: Caminhais aliados.
+    splitText: Ca-mi-nhais ali-a-dos.
+    nSyllables: 6
+  - phrase: Da montanha ao monte,
+    splitText: Da mon-ta-nha ao mon-te,
+    nSyllables: 7
+  - phrase: Cavalo de sombra,
+    splitText: Ca-va-lo de som-bra,
+    nSyllables: 6
+  - phrase: Por penhascos pretos,
+    splitText: Por pe-nhas-cos pre-tos,
+    nSyllables: 6
+  - phrase: "Atr\xE1s e defronte,"
+    splitText: "Atr\xE1s e de-fron-te,"
+    nSyllables: 5
+  - phrase: Caminhais secretos.
+    splitText: Ca-mi-nhais se-cre-tos.
+    nSyllables: 6
+  - phrase: "Por quanto \xE9 sem fim,"
+    splitText: "Por quan-to \xE9 sem fim,"
+    nSyllables: 6
+  - phrase: "Sem ningu\xE9m que o conte,"
+    splitText: "Sem nin-gu\xE9m que o con-te,"
+    nSyllables: 7
+  - phrase: Caminhais em mim.
+    splitText: Ca-mi-nhais em mim.
+    nSyllables: 5
+  - phrase: "Durmo. Se sonho, ao despertar n\xE3o sei"
+    splitText: "Dur-mo. Se so-nho, ao des-per-tar n\xE3o sei"
+    nSyllables: 11
+  - phrase: Que coisas eu sonhei.
+    splitText: Que coi-sas eu so-nhei.
+    nSyllables: 6
+  - phrase: Durmo. Se durmo sem sonhar, desperto
+    splitText: Dur-mo. Se dur-mo sem so-nhar, des-per-to
+    nSyllables: 11
+  - phrase: "Para um espa\xE7o aberto"
+    splitText: "Pa-ra um es-pa-\xE7o aber-to"
+    nSyllables: 8
+  - phrase: "Que n\xE3o conhe\xE7o, pois que despertei"
+    splitText: "Que n\xE3o co-nhe-\xE7o, pois que des-per-tei"
+    nSyllables: 10
+  - phrase: "Para o que inda n\xE3o sei."
+    splitText: "Pa-ra o que in-da n\xE3o sei."
+    nSyllables: 8
+  - phrase: "Melhor \xE9 nem sonhar nem n\xE3o sonhar"
+    splitText: "Me-lhor \xE9 nem so-nhar nem n\xE3o so-nhar"
+    nSyllables: 10
+  - phrase: E nunca despertar.
+    splitText: E nun-ca des-per-tar.
+    nSyllables: 6
+  - phrase: "\xC9 brando o dia, brando o vento"
+    splitText: "\xC9 bran-do o di-a, bran-do o ven-to"
+    nSyllables: 11
+  - phrase: "\xC9 brando o sol e brando o c\xE9u."
+    splitText: "\xC9 bran-do o sol e bran-do o c\xE9u."
+    nSyllables: 10
+  - phrase: Assim fosse meu pensamento !
+    splitText: As-sim fos-se meu pen-sa-men-to !
+    nSyllables: 10
+  - phrase: Assim fosse eu, assim fosse eu !
+    splitText: As-sim fos-se eu, as-sim fos-se eu !
+    nSyllables: 11
+  - phrase: "Mas entre mim e as brandas gl\xF3rias"
+    splitText: "Mas en-tre mim e as bran-das gl\xF3-ri-as"
+    nSyllables: 11
+  - phrase: "Deste c\xE9u limpo e este ar sem mim"
+    splitText: "Des-te c\xE9u lim-po e es-te ar sem mim"
+    nSyllables: 11
+  - phrase: "Interv\xEAm sonhos e mem\xF3rias..."
+    splitText: "In-ter-v\xEAm so-nhos e me-m\xF3-ri-as..."
+    nSyllables: 10
+  - phrase: Ser eu assim ser eu assim !
+    splitText: Ser eu as-sim ser eu as-sim !
+    nSyllables: 9
+  - phrase: "Ah, o mundo \xE9 quanto n\xF3s trazemos."
+    splitText: "Ah, o mun-do \xE9 quan-to n\xF3s tra-ze-mos."
+    nSyllables: 11
+  - phrase: Existe tudo porque existo.
+    splitText: Exis-te tu-do por-que exis-to.
+    nSyllables: 8
+  - phrase: "H\xE1 porque vemos."
+    splitText: "H\xE1 por-que ve-mos."
+    nSyllables: 5
+  - phrase: "E tudo \xE9 isto, tudo \xE9 isto !"
+    splitText: "E tu-do \xE9 is-to, tu-do \xE9 is-to !"
+    nSyllables: 12
+  - phrase: Ela canta, pobre ceifeira
+    splitText: Ela can-ta, po-bre cei-fei-ra
+    nSyllables: 8
+  - phrase: Ela canta, pobre ceifeira,
+    splitText: Ela can-ta, po-bre cei-fei-ra,
+    nSyllables: 8
+  - phrase: Julgando-se feliz talvez;
+    splitText: Jul-gan-do--se fe-liz tal-vez;
+    nSyllables: 9
+  - phrase: Canta, e ceifa, e a sua voz, cheia
+    splitText: Can-ta, e cei-fa, e a sua voz, cheia
+    nSyllables: 10
+  - phrase: "De alegre e an\xF4nima viuvez,"
+    splitText: "De ale-gre e an\xF4-ni-ma viu-vez,"
+    nSyllables: 9
+  - phrase: Ondula como um canto de ave
+    splitText: On-du-la co-mo um can-to de ave
+    nSyllables: 10
+  - phrase: No ar limpo como um limiar,
+    splitText: No ar lim-po co-mo um li-mi-ar,
+    nSyllables: 10
+  - phrase: "E h\xE1 curvas no enredo suave"
+    splitText: "E h\xE1 cur-vas no en-re-do su-a-ve"
+    nSyllables: 11
+  - phrase: Do som que ela tem a cantar.
+    splitText: Do som que ela tem a can-tar.
+    nSyllables: 8
+  - phrase: Ouvi-la alegra e entristece,
+    splitText: Ou-vi--la ale-gra e en-tris-te-ce,
+    nSyllables: 11
+  - phrase: "Na sua voz h\xE1 o campo e a lida,"
+    splitText: "Na sua voz h\xE1 o cam-po e a li-da,"
+    nSyllables: 11
+  - phrase: E canta como se tivesse
+    splitText: E can-ta co-mo se ti-ves-se
+    nSyllables: 9
+  - phrase: "Mais raz\xF5es pra cantar que a vida."
+    splitText: "Mais ra-z\xF5es pra can-tar que a vi-da."
+    nSyllables: 10
+  - phrase: "Ah, canta, canta sem raz\xE3o !"
+    splitText: "Ah, can-ta, can-ta sem ra-z\xE3o !"
+    nSyllables: 9
+  - phrase: "O que em mim sente 'st\xE1 pensando."
+    splitText: "O que em mim sen-te 's-t\xE1 pen-san-do."
+    nSyllables: 11
+  - phrase: "Derrama no meu cora\xE7\xE3o a tua incerta voz ondeando !"
+    splitText: "Der-ra-ma no meu co-ra-\xE7\xE3o a tua in-cer-ta voz on-de-an-do !"
+    nSyllables: 19
+  - phrase: Ah, poder ser tu, sendo eu !
+    splitText: Ah, po-der ser tu, sen-do eu !
+    nSyllables: 9
+  - phrase: "Ter a tua alegre inconsci\xEAncia,"
+    splitText: "Ter a tua ale-gre in-cons-ci-\xEAn-ci-a,"
+    nSyllables: 11
+  - phrase: "E a consci\xEAncia disso ! \xD3 c\xE9u !"
+    splitText: "E a cons-ci-\xEAn-cia dis-so ! \xD3 c\xE9u !"
+    nSyllables: 12
+  - phrase: "\xD3 campo ! \xD3 can\xE7\xE3o ! A ci\xEAncia"
+    splitText: "\xD3 cam-po ! \xD3 can-\xE7\xE3o ! A ci-\xEAn-cia"
+    nSyllables: 12
+  - phrase: "Pesa tanto e a vida \xE9 t\xE3o breve !"
+    splitText: "Pe-sa tan-to e a vi-da \xE9 t\xE3o bre-ve !"
+    nSyllables: 13
+  - phrase: Entrai por mim dentro ! Tornai
+    splitText: En-trai por mim den-tro ! Tor-nai
+    nSyllables: 9
+  - phrase: Minha alma a vossa sombra leve !
+    splitText: Mi-nha al-ma a vos-sa som-bra le-ve !
+    nSyllables: 12
+  - phrase: Depois, levando-me, passai !
+    splitText: De-pois, le-van-do--me, pas-sai !
+    nSyllables: 10
+  - phrase: "Ela ia, tranq\xFCila pastorinha"
+    splitText: "Ela ia, tranq\xFCi-la pas-to-ri-nha"
+    nSyllables: 8
+  - phrase: "Ela ia, tranq\xFCila pastorinha,"
+    splitText: "Ela ia, tranq\xFCi-la pas-to-ri-nha,"
+    nSyllables: 8
+  - phrase: "Pela estrada da minha imperfei\xE7\xE3o."
+    splitText: "Pe-la es-tra-da da mi-nha im-per-fei-\xE7\xE3o."
+    nSyllables: 12
+  - phrase: "Segui-a, como um gesto de perd\xE3o,"
+    splitText: "Se-gui-a, co-mo um ges-to de per-d\xE3o,"
+    nSyllables: 11
+  - phrase: O seu rebanho, a saudade minha...
+    splitText: O seu re-ba-nho, a sau-da-de mi-nha...
+    nSyllables: 11
+  - phrase: "Em longes terras h\xE1s de ser rainha"
+    splitText: "Em lon-ges ter-ras h\xE1s de ser rai-nha"
+    nSyllables: 10
+  - phrase: "Um dia lhe disseram, mas em v\xE3o..."
+    splitText: "Um dia lhe dis-se-ram, mas em v\xE3o..."
+    nSyllables: 9
+  - phrase: "Seu vulto perde-se na escurid\xE3o..."
+    splitText: "Seu vul-to per-de--se na es-cu-ri-d\xE3o..."
+    nSyllables: 12
+  - phrase: "S\xF3 sua sombra ante meus p\xE9s caminha..."
+    splitText: "S\xF3 sua som-bra an-te meus p\xE9s ca-mi-nha..."
+    nSyllables: 11
+  - phrase: "Deus te d\xEA l\xEDrios em vez desta hora,"
+    splitText: "Deus te d\xEA l\xED-ri-os em vez des-ta ho-ra,"
+    nSyllables: 12
+  - phrase: E em terras longe do que eu hoje sinto
+    splitText: E em ter-ras lon-ge do que eu ho-je sin-to
+    nSyllables: 13
+  - phrase: "Ser\xE1s, rainha n\xE3o, mas s\xF3 pastora _"
+    splitText: "Se-r\xE1s, rai-nha n\xE3o, mas s\xF3 pas-to-ra _"
+    nSyllables: 11
+  - phrase: "S\xF3 sempre a mesma pastorinha a ir,"
+    splitText: "S\xF3 sem-pre a mes-ma pas-to-ri-nha a ir,"
+    nSyllables: 12
+  - phrase: E eu serei teu regresso, esse indistinto
+    splitText: E eu se-rei teu re-gres-so, es-se in-dis-tin-to
+    nSyllables: 14
+  - phrase: Abismo entre o meu sonho e o meu porvir...
+    splitText: Abis-mo en-tre o meu so-nho e o meu por-vir...
+    nSyllables: 13
+  - phrase: "Elas s\xE3o vaporosas"
+    splitText: "Elas s\xE3o va-po-ro-sas"
+    nSyllables: 6
+  - phrase: "Minuete Invis\xEDvel"
+    splitText: "Mi-nu-e-te In-vi-s\xED-vel"
+    nSyllables: 8
+  - phrase: "Elas s\xE3o vaporosas,"
+    splitText: "Elas s\xE3o va-po-ro-sas,"
+    nSyllables: 6
+  - phrase: "P\xE1lidas sombras, as rosas"
+    splitText: "P\xE1-li-das som-bras, as ro-sas"
+    nSyllables: 8
+  - phrase: Nadas da hora lunar...
+    splitText: Na-das da ho-ra lu-nar...
+    nSyllables: 7
+  - phrase: "V\xEAm, a\xE9reas, dan\xE7ar"
+    splitText: "V\xEAm, a\xE9-re-as, dan-\xE7ar"
+    nSyllables: 6
+  - phrase: Com perfumes soltos
+    splitText: Com per-fu-mes sol-tos
+    nSyllables: 6
+  - phrase: Entre os canteiros e os buxos...
+    splitText: En-tre os can-tei-ros e os bu-xos...
+    nSyllables: 10
+  - phrase: Chora no som dos repuxos
+    splitText: Cho-ra no som dos re-pu-xos
+    nSyllables: 8
+  - phrase: "O ritmo que h\xE1 nos seus vultos..."
+    splitText: "O rit-mo que h\xE1 nos seus vul-tos..."
+    nSyllables: 9
+  - phrase: Passam e agitam a brisa...
+    splitText: Pas-sam e agi-tam a bri-sa...
+    nSyllables: 8
+  - phrase: "P\xE1lida, a pompa indecisa"
+    splitText: "P\xE1-li-da, a pom-pa in-de-ci-sa"
+    nSyllables: 10
+  - phrase: "Da sua fl\xE9bil demora"
+    splitText: "Da sua fl\xE9-bil de-mo-ra"
+    nSyllables: 7
+  - phrase: "Paira em aur\xE9ola \xE0 hora..."
+    splitText: "Pai-ra em au-r\xE9o-la \xE0 ho-ra..."
+    nSyllables: 9
+  - phrase: Passam nos ritmos da sombra...
+    splitText: Pas-sam nos rit-mos da som-bra...
+    nSyllables: 8
+  - phrase: "Ora \xE9 uma folha que tomba,"
+    splitText: "Ora \xE9 uma fo-lha que tom-ba,"
+    nSyllables: 8
+  - phrase: Ora uma brisa que treme
+    splitText: Ora uma bri-sa que tre-me
+    nSyllables: 7
+  - phrase: Sua leveza solene...
+    splitText: Sua le-ve-za so-le-ne...
+    nSyllables: 7
+  - phrase: "E assim v\xE3o indo, delindo"
+    splitText: "E as-sim v\xE3o in-do, de-lin-do"
+    nSyllables: 9
+  - phrase: "Seu perfil \xFAnico e lindo,"
+    splitText: "Seu per-fil \xFAni-co e lin-do,"
+    nSyllables: 8
+  - phrase: Seu vulto feito de todas,
+    splitText: Seu vul-to fei-to de to-das,
+    nSyllables: 8
+  - phrase: Nas alamedas, em rodas,
+    splitText: Nas ala-me-das, em ro-das,
+    nSyllables: 7
+  - phrase: "No jardim l\xEDvido e frio..."
+    splitText: "No jar-dim l\xED-vi-do e fri-o..."
+    nSyllables: 9
+  - phrase: Passam sozinhas, a fio,
+    splitText: Pas-sam so-zi-nhas, a fi-o,
+    nSyllables: 8
+  - phrase: Como um fumo indo, a rarear,
+    splitText: Co-mo um fu-mo in-do, a ra-re-ar,
+    nSyllables: 11
+  - phrase: "Pelo ar long\xEDnquo e vazio,"
+    splitText: "Pe-lo ar lon-g\xEDn-quo e va-zi-o,"
+    nSyllables: 10
+  - phrase: Sob o, disperso pelo ar,
+    splitText: Sob o, dis-per-so pe-lo ar,
+    nSyllables: 8
+  - phrase: "P\xE1lido p\xE1lio lunar ..."
+    splitText: "P\xE1-li-do p\xE1-lio lu-nar ..."
+    nSyllables: 8
+  - phrase: Em Busca da Beleza
+    splitText: Em Bus-ca da Be-le-za
+    nSyllables: 7
+  - phrase: "Soam v\xE3os, dolorido epicurista,"
+    splitText: "So-am v\xE3os, do-lo-ri-do epi-cu-ris-ta,"
+    nSyllables: 11
+  - phrase: Os versos teus, que a minha dor despreza;
+    splitText: Os ver-sos teus, que a mi-nha dor des-pre-za;
+    nSyllables: 12
+  - phrase: "J\xE1 tive a alma sem descren\xE7a presa"
+    splitText: "J\xE1 ti-ve a al-ma sem des-cren-\xE7a pre-sa"
+    nSyllables: 12
+  - phrase: Desse teu sonho, que perturba a vista.
+    splitText: Des-se teu so-nho, que per-tur-ba a vis-ta.
+    nSyllables: 12
+  - phrase: "Da Perfei\xE7\xE3o segui em v\xE3 conquista,"
+    splitText: "Da Per-fei-\xE7\xE3o se-gui em v\xE3 con-quis-ta,"
+    nSyllables: 11
+  - phrase: "Mas vi depressa, j\xE1 sem a alma acesa,"
+    splitText: "Mas vi de-pres-sa, j\xE1 sem a al-ma ace-sa,"
+    nSyllables: 12
+  - phrase: "Que a pr\xF3pria id\xE9ia em n\xF3s dessa beleza"
+    splitText: "Que a pr\xF3-pria id\xE9ia em n\xF3s des-sa be-le-za"
+    nSyllables: 12
+  - phrase: "Um infinito de n\xF3s mesmos dista."
+    splitText: "Um in-fi-ni-to de n\xF3s mes-mos dis-ta."
+    nSyllables: 11
+  - phrase: "Nem \xE0 nossa alma definir podemos"
+    splitText: "Nem \xE0 nos-sa al-ma de-fi-nir po-de-mos"
+    nSyllables: 12
+  - phrase: "A Perfei\xE7\xE3o em cuja estrada a vida,"
+    splitText: "A Per-fei-\xE7\xE3o em cu-ja es-tra-da a vi-da,"
+    nSyllables: 13
+  - phrase: "Achando-a int\xE9rmina, a chorar perdemos."
+    splitText: "Achan-do-a in-t\xE9r-mi-na, a cho-rar per-de-mos."
+    nSyllables: 13
+  - phrase: "O mar tem fim, o c\xE9u talvez o tenha,"
+    splitText: "O mar tem fim, o c\xE9u tal-vez o te-nha,"
+    nSyllables: 11
+  - phrase: "Mas n\xE3o a \xE2nsia da Coisa indefinida"
+    splitText: "Mas n\xE3o a \xE2n-sia da Coi-sa in-de-fi-ni-da"
+    nSyllables: 13
+  - phrase: Que o ser indefinida faz tamanha.
+    splitText: Que o ser in-de-fi-ni-da faz ta-ma-nha.
+    nSyllables: 12
+  - phrase: Em horas inda louras, lindas
+    splitText: Em ho-ras in-da lou-ras, lin-das
+    nSyllables: 9
+  - phrase: Clorindas e Belindas, brandas,
+    splitText: Clo-rin-das e Be-lin-das, bran-das,
+    nSyllables: 9
+  - phrase: Brincam no tempo das berlindas,
+    splitText: Brin-cam no tem-po das ber-lin-das,
+    nSyllables: 9
+  - phrase: As vindas vendo das varandas,
+    splitText: As vin-das ven-do das va-ran-das,
+    nSyllables: 9
+  - phrase: De onde ouvem vir a rir as vindas
+    splitText: De on-de ou-vem vir a rir as vin-das
+    nSyllables: 11
+  - phrase: Fitam a fio as frias bandas.
+    splitText: Fi-tam a fio as fri-as ban-das.
+    nSyllables: 9
+  - phrase: "Mas em torno \xE0 tarde se entorna"
+    splitText: "Mas em tor-no \xE0 tar-de se en-tor-na"
+    nSyllables: 11
+  - phrase: A atordoar o ar que arde
+    splitText: A ator-do-ar o ar que ar-de
+    nSyllables: 9
+  - phrase: "Que a eterna tarde j\xE1 n\xE3o torna !"
+    splitText: "Que a eter-na tar-de j\xE1 n\xE3o tor-na !"
+    nSyllables: 11
+  - phrase: E o tom de atoarda todo o alarde
+    splitText: E o tom de ato-ar-da to-do o alar-de
+    nSyllables: 12
+  - phrase: Do adornado ardor transtorna
+    splitText: Do ador-na-do ar-dor trans-tor-na
+    nSyllables: 9
+  - phrase: No ar de torpor da tarda tarde.
+    splitText: No ar de tor-por da tar-da tar-de.
+    nSyllables: 10
+  - phrase: "E h\xE1 nevoentos desencantos"
+    splitText: "E h\xE1 ne-vo-en-tos de-sen-can-tos"
+    nSyllables: 10
+  - phrase: Dos encantos dos pensamentos
+    splitText: Dos en-can-tos dos pen-sa-men-tos
+    nSyllables: 9
+  - phrase: Nos santos lentos dos recantos
+    splitText: Nos san-tos len-tos dos re-can-tos
+    nSyllables: 9
+  - phrase: Dos bentos cantos dos conventos....
+    splitText: Dos ben-tos can-tos dos con-ven-tos....
+    nSyllables: 9
+  - phrase: Prantos de intentos, lentos, tantos
+    splitText: Pran-tos de in-ten-tos, len-tos, tan-tos
+    nSyllables: 10
+  - phrase: Que encantam os atentos ventos.
+    splitText: Que en-can-tam os aten-tos ven-tos.
+    nSyllables: 9
+  - phrase: "Emiss\xE1rio de um rei desconhecido"
+    splitText: "Emis-s\xE1-rio de um rei des-co-nhe-ci-do"
+    nSyllables: 11
+  - phrase: "Emiss\xE1rio de um rei desconhecido,"
+    splitText: "Emis-s\xE1-rio de um rei des-co-nhe-ci-do,"
+    nSyllables: 11
+  - phrase: "Eu cumpro informes instru\xE7\xF5es de al\xE9m,"
+    splitText: "Eu cum-pro in-for-mes ins-tru-\xE7\xF5es de al\xE9m,"
+    nSyllables: 11
+  - phrase: "E as bruscas frases que aos meus l\xE1bios v\xEAm"
+    splitText: "E as brus-cas fra-ses que aos meus l\xE1-bi-os v\xEAm"
+    nSyllables: 13
+  - phrase: "Soam-me a um outro e an\xF4malo sentido..."
+    splitText: "So-am--me a um ou-tro e an\xF4-ma-lo sen-ti-do..."
+    nSyllables: 15
+  - phrase: Inconscientemente me divido
+    splitText: In-cons-ci-en-te-men-te me di-vi-do
+    nSyllables: 11
+  - phrase: "Entre mim e a miss\xE3o que o meu ser tem,"
+    splitText: "En-tre mim e a mis-s\xE3o que o meu ser tem,"
+    nSyllables: 12
+  - phrase: "E a gl\xF3ria do meu Rei d\xE1-me desd\xE9m"
+    splitText: "E a gl\xF3-ria do meu Rei d\xE1--me des-d\xE9m"
+    nSyllables: 12
+  - phrase: Por este humano povo entre quem lido...
+    splitText: Por es-te hu-ma-no po-vo en-tre quem li-do...
+    nSyllables: 13
+  - phrase: "N\xE3o sei se existe o Rei que me mandou."
+    splitText: "N\xE3o sei se exis-te o Rei que me man-dou."
+    nSyllables: 11
+  - phrase: "Minha miss\xE3o ser\xE1 eu a esquecer,"
+    splitText: "Mi-nha mis-s\xE3o se-r\xE1 eu a es-que-cer,"
+    nSyllables: 11
+  - phrase: Meu orgulho o deserto em que em mim estou...
+    splitText: Meu or-gu-lho o de-ser-to em que em mim es-tou...
+    nSyllables: 14
+  - phrase: "Mas h\xE1 ! Eu sinto-me altas tradi\xE7\xF5es"
+    splitText: "Mas h\xE1 ! Eu sin-to--me al-tas tra-di-\xE7\xF5es"
+    nSyllables: 13
+  - phrase: "De antes de tempo e espa\xE7o e vida e ser..."
+    splitText: "De an-tes de tem-po e es-pa-\xE7o e vi-da e ser..."
+    nSyllables: 15
+  - phrase: "J\xE1 viram Deus as minhas sensa\xE7\xF5es..."
+    splitText: "J\xE1 vi-ram Deus as mi-nhas sen-sa-\xE7\xF5es..."
+    nSyllables: 10
+  - phrase: "Em plena vida e viol\xEAncia"
+    splitText: "Em ple-na vi-da e vi-o-l\xEAn-cia"
+    nSyllables: 10
+  - phrase: "De desejo e ambi\xE7\xE3o,"
+    splitText: "De de-se-jo e am-bi-\xE7\xE3o,"
+    nSyllables: 8
+  - phrase: "De repente uma sonol\xEAncia"
+    splitText: "De re-pen-te uma so-no-l\xEAn-cia"
+    nSyllables: 9
+  - phrase: "Cai sobre a minha aus\xEAncia."
+    splitText: "Cai so-bre a mi-nha au-s\xEAn-ci-a."
+    nSyllables: 10
+  - phrase: "Desce ao meu pr\xF3prio cora\xE7\xE3o."
+    splitText: "Des-ce ao meu pr\xF3-prio co-ra-\xE7\xE3o."
+    nSyllables: 9
+  - phrase: "Ser\xE1 que a mente, j\xE1 desperta"
+    splitText: "Se-r\xE1 que a men-te, j\xE1 des-per-ta"
+    nSyllables: 10
+  - phrase: "Da no\xE7\xE3o falsa de viver,"
+    splitText: "Da no-\xE7\xE3o fal-sa de vi-ver,"
+    nSyllables: 8
+  - phrase: "V\xEA que, pela janela aberta,"
+    splitText: "V\xEA que, pe-la ja-ne-la aber-ta,"
+    nSyllables: 9
+  - phrase: "H\xE1 uma paisagem toda incerta"
+    splitText: "H\xE1 uma pai-sa-gem to-da in-cer-ta"
+    nSyllables: 10
+  - phrase: E um sonho todo a apetecer ?
+    splitText: E um so-nho to-do a ape-te-cer ?
+    nSyllables: 11
+  - phrase: "De encontro ao devaneando O que \xE9 ser-rio, e correr?"
+    splitText: "De en-con-tro ao de-va-ne-an-do O que \xE9 ser--ri-o, e cor-rer?"
+    nSyllables: 20
+  - phrase: "Tudo de repente \xE9 oco Mesmo o meu estar a pensar."
+    splitText: "Tu-do de re-pen-te \xE9 oco Mes-mo o meu es-tar a pen-sar."
+    nSyllables: 17
+  - phrase: Tudo - eu e o mundo em redor Fica mais que exterior.
+    splitText: Tu-do - eu e o mun-do em re-dor Fi-ca mais que ex-te-ri-or.
+    nSyllables: 20
+  - phrase: Passou, fora de Quando,
+    splitText: Pas-sou, fo-ra de Quan-do,
+    nSyllables: 7
+  - phrase: "De Porqu\xEA, e de Passando...,"
+    splitText: "De Porqu\xEA, e de Pas-san-do...,"
+    nSyllables: 7
+  - phrase: "Turbilh\xE3o de Ignorado,"
+    splitText: "Tur-bi-lh\xE3o de Ig-no-ra-do,"
+    nSyllables: 8
+  - phrase: Sem ter turbilhonado...,
+    splitText: Sem ter tur-bi-lho-na-do...,
+    nSyllables: 7
+  - phrase: Vasto por fora do Vasto
+    splitText: Vas-to por fo-ra do Vas-to
+    nSyllables: 8
+  - phrase: Sem ser, que a si se assombra...
+    splitText: Sem ser, que a si se as-som-bra...
+    nSyllables: 9
+  - phrase: "O Universo \xE9 o seu rasto..."
+    splitText: "O Uni-ver-so \xE9 o seu ras-to..."
+    nSyllables: 9
+  - phrase: "Deus \xE9 a sua sombra..."
+    splitText: "Deus \xE9 a sua som-bra..."
+    nSyllables: 6
+  - phrase: Brilha uma voz na noute...
+    splitText: Bri-lha uma voz na nou-te...
+    nSyllables: 7
+  - phrase: "Em mim, e a voz: \xD3 mundo,"
+    splitText: "Em mim, e a voz: \xD3 mun-do,"
+    nSyllables: 8
+  - phrase: Mero eco de mim, me inundo
+    splitText: Me-ro eco de mim, me inun-do
+    nSyllables: 8
+  - phrase: Em que para Deus me afundo.
+    splitText: Em que pa-ra Deus me afun-do.
+    nSyllables: 8
+  - phrase: "V\xE1cuo al\xE9m de profundo,"
+    splitText: "V\xE1-cuo al\xE9m de pro-fun-do,"
+    nSyllables: 7
+  - phrase: "Al\xE9m-Deus! Al\xE9m-Deus! Negra calma..."
+    splitText: "Al\xE9m--Deus! Al\xE9m--Deus! Ne-gra cal-ma..."
+    nSyllables: 10
+  - phrase: "Clar\xE3o de Desconhecido..."
+    splitText: "Cla-r\xE3o de Des-co-nhe-ci-do..."
+    nSyllables: 8
+  - phrase: "Entre a \xE1rvore e o v\xEA-la"
+    splitText: "En-tre a \xE1r-vo-re e o v\xEA--la"
+    nSyllables: 11
+  - phrase: "Onde est\xE1 o sonho?"
+    splitText: "On-de es-t\xE1 o so-nho?"
+    nSyllables: 7
+  - phrase: Que arco da ponte mais vela
+    splitText: Que ar-co da pon-te mais ve-la
+    nSyllables: 9
+  - phrase: Deus?... E eu fico tristonho
+    splitText: Deus?... E eu fi-co tris-to-nho
+    nSyllables: 8
+  - phrase: "Por n\xE3o saber se a curva da ponte"
+    splitText: "Por n\xE3o sa-ber se a cur-va da pon-te"
+    nSyllables: 11
+  - phrase: "\xC9 a curva do horizonte..."
+    splitText: "\xC9 a cur-va do ho-ri-zon-te..."
+    nSyllables: 9
+  - phrase: Entre o que vive e a vida
+    splitText: En-tre o que vi-ve e a vi-da
+    nSyllables: 10
+  - phrase: Pra que lado corre o rio?
+    splitText: Pra que la-do cor-re o ri-o?
+    nSyllables: 9
+  - phrase: "\xC1rvore de folhas vestida Entre isso e \xC1rvore h\xE1 fio?"
+    splitText: "\xC1r-vo-re de fo-lhas ves-ti-da En-tre is-so e \xC1r-vo-re h\xE1
+      fi-o?"
+    nSyllables: 20
+  - phrase: Pombas voando - o pombal
+    splitText: Pom-bas vo-an-do - o pom-bal
+    nSyllables: 10
+  - phrase: "Est\xE1-lhes sempre \xE0 direita, ou \xE9 real?"
+    splitText: "Es-t\xE1--lhes sem-pre \xE0 di-rei-ta, ou \xE9 re-al?"
+    nSyllables: 14
+  - phrase: "Deus \xE9 um grande Intervalo,"
+    splitText: "Deus \xE9 um gran-de In-ter-va-lo,"
+    nSyllables: 9
+  - phrase: "Mas entre qu\xEA e qu\xEA?..."
+    splitText: "Mas en-tre qu\xEA e qu\xEA?..."
+    nSyllables: 6
+  - phrase: Entre o que digo e o que calo
+    splitText: En-tre o que di-go e o que ca-lo
+    nSyllables: 11
+  - phrase: "Existo? Quem \xE9 que me v\xEA?"
+    splitText: "Exis-to? Quem \xE9 que me v\xEA?"
+    nSyllables: 7
+  - phrase: Erro-me... E o pombal elevado
+    splitText: Er-ro--me... E o pom-bal ele-va-do
+    nSyllables: 11
+  - phrase: "Est\xE1 em torno na pomba, ou de lado?"
+    splitText: "Es-t\xE1 em tor-no na pom-ba, ou de la-do?"
+    nSyllables: 12
+  - phrase: "Entre o bater rasgado dos pend\xF5es"
+    splitText: "En-tre o ba-ter ras-ga-do dos pen-d\xF5es"
+    nSyllables: 11
+  - phrase: E o cessar dos clarins na tarde alheia,
+    splitText: E o ces-sar dos cla-rins na tar-de alhei-a,
+    nSyllables: 12
+  - phrase: 'A derrota ficou : como uma cheia'
+    splitText: 'A der-ro-ta fi-cou : co-mo uma cheia'
+    nSyllables: 11
+  - phrase: "Do mal cobriu os vagos batalh\xF5es."
+    splitText: "Do mal co-briu os va-gos ba-ta-lh\xF5es."
+    nSyllables: 10
+  - phrase: "Foi em v\xE3o que o Rei louco os seus var\xF5es"
+    splitText: "Foi em v\xE3o que o Rei lou-co os seus va-r\xF5es"
+    nSyllables: 12
+  - phrase: "Trouxe ao prolixo pr\xE9lio, sem id\xE9ia."
+    splitText: "Trou-xe ao pro-li-xo pr\xE9-li-o, sem id\xE9i-a."
+    nSyllables: 12
+  - phrase: "\xC1gua que m\xE3o infiel verteu na areia _"
+    splitText: "\xC1gua que m\xE3o in-fi-el ver-teu na areia _"
+    nSyllables: 11
+  - phrase: "Tudo morreu, sem rastro e sem raz\xF5es."
+    splitText: "Tu-do mor-reu, sem ras-tro e sem ra-z\xF5es."
+    nSyllables: 11
+  - phrase: A noite cobre o campo, que o Destino
+    splitText: A noi-te co-bre o cam-po, que o Des-ti-no
+    nSyllables: 13
+  - phrase: Com a morte tornou abandonado.
+    splitText: Com a mor-te tor-nou aban-do-na-do.
+    nSyllables: 10
+  - phrase: Cessou, com cessar tudo, o desatino.
+    splitText: Ces-sou, com ces-sar tu-do, o de-sa-ti-no.
+    nSyllables: 12
+  - phrase: "S\xF3 no luar que nasce os pend\xF5es rotos"
+    splitText: "S\xF3 no lu-ar que nas-ce os pen-d\xF5es ro-tos"
+    nSyllables: 12
+  - phrase: '''Strelam no absurdo campo desolado'
+    splitText: '''S-tre-lam no ab-sur-do cam-po de-so-la-do'
+    nSyllables: 13
+  - phrase: "Uma derrota her\xE1ldica de ignotos."
+    splitText: "Uma der-ro-ta he-r\xE1l-di-ca de ig-no-tos."
+    nSyllables: 12
+  - phrase: Entre o luar e a folhagem
+    splitText: En-tre o lu-ar e a fo-lha-gem
+    nSyllables: 10
+  - phrase: Entre o luar e a folhagem,
+    splitText: En-tre o lu-ar e a fo-lha-gem,
+    nSyllables: 10
+  - phrase: Entre o sossego e o arvoredo,
+    splitText: En-tre o sos-se-go e o ar-vo-re-do,
+    nSyllables: 12
+  - phrase: Entre o ser noite e haver aragem
+    splitText: En-tre o ser noi-te e ha-ver ara-gem
+    nSyllables: 11
+  - phrase: Passa um segredo.
+    splitText: Pas-sa um se-gre-do.
+    nSyllables: 6
+  - phrase: Segue-o minha alma na passagem.
+    splitText: Se-gue-o mi-nha al-ma na pas-sa-gem.
+    nSyllables: 11
+  - phrase: "T\xEAnue lembran\xE7a ou saudade,"
+    splitText: "T\xEA-nue lem-bran-\xE7a ou sau-da-de,"
+    nSyllables: 9
+  - phrase: "Princ\xEDpio ou fim do que n\xE3o foi,"
+    splitText: "Prin-c\xED-pio ou fim do que n\xE3o foi,"
+    nSyllables: 9
+  - phrase: "N\xE3o tem lugar, n\xE3o tem verdade."
+    splitText: "N\xE3o tem lu-gar, n\xE3o tem ver-da-de."
+    nSyllables: 9
+  - phrase: "Atrai e d\xF3i."
+    splitText: "Atrai e d\xF3i."
+    nSyllables: 3
+  - phrase: Segue-o meu ser em liberdade.
+    splitText: Se-gue-o meu ser em li-ber-da-de.
+    nSyllables: 10
+  - phrase: "Vazio encanto \xE9brio de si,"
+    splitText: "Va-zio en-can-to \xE9brio de si,"
+    nSyllables: 8
+  - phrase: Tristeza ou alegria o traz ?
+    splitText: Tris-te-za ou ale-gria o traz ?
+    nSyllables: 9
+  - phrase: O que sou dele a quem sorri ?
+    splitText: O que sou de-le a quem sor-ri ?
+    nSyllables: 10
+  - phrase: "Nada \xE9 nem faz."
+    splitText: "Na-da \xE9 nem faz."
+    nSyllables: 5
+  - phrase: "S\xF3 de segui-lo me perdi."
+    splitText: "S\xF3 de se-gui--lo me per-di."
+    nSyllables: 9
+  - phrase: Entre o sono e sonho,
+    splitText: En-tre o so-no e so-nho,
+    nSyllables: 8
+  - phrase: Entre mim e o que em mim
+    splitText: En-tre mim e o que em mim
+    nSyllables: 8
+  - phrase: "\xC9 o quem eu me suponho"
+    splitText: "\xC9 o quem eu me su-po-nho"
+    nSyllables: 8
+  - phrase: Corre um rio sem fim.
+    splitText: Cor-re um rio sem fim.
+    nSyllables: 6
+  - phrase: Passou por outras margens,
+    splitText: Pas-sou por ou-tras mar-gens,
+    nSyllables: 7
+  - phrase: "Diversas mais al\xE9m,"
+    splitText: "Di-ver-sas mais al\xE9m,"
+    nSyllables: 5
+  - phrase: "Naquelas v\xE1rias viagens"
+    splitText: "Na-que-las v\xE1-ri-as vi-a-gens"
+    nSyllables: 9
+  - phrase: Que todo o rio tem.
+    splitText: Que to-do o rio tem.
+    nSyllables: 6
+  - phrase: Chegou onde hoje habito
+    splitText: Che-gou on-de ho-je ha-bi-to
+    nSyllables: 9
+  - phrase: A casa que hoje sou.
+    splitText: A ca-sa que ho-je sou.
+    nSyllables: 7
+  - phrase: Passa, se eu me medito;
+    splitText: Pas-sa, se eu me me-di-to;
+    nSyllables: 8
+  - phrase: Se desperto, passou.
+    splitText: Se des-per-to, pas-sou.
+    nSyllables: 6
+  - phrase: E quem me sinto e morre
+    splitText: E quem me sin-to e mor-re
+    nSyllables: 8
+  - phrase: No que me liga a mim
+    splitText: No que me li-ga a mim
+    nSyllables: 7
+  - phrase: "Dorme onde o rio corre \u2014"
+    splitText: "Dor-me on-de o rio cor-re \u2014"
+    nSyllables: 9
+  - phrase: Esse rio sem fim.
+    splitText: Es-se rio sem fim.
+    nSyllables: 5
+  - phrase: Eros e Psique
+    splitText: Eros e Psi-que
+    nSyllables: 4
+  - phrase: "...E assim v\xEAdes, meu Irm\xE3o, que as verdades que vos foram dadas
+      no Grau de"
+    splitText: "...E as-sim v\xEA-des, meu Ir-m\xE3o, que as ver-da-des que vos fo-ram
+      da-das no Grau de"
+    nSyllables: 22
+  - phrase: "Ne\xF3fito, e aquelas que vos foram dadas no Grau de Adepto Menor, s\xE3o,
+      ainda que"
+    splitText: "Ne\xF3-fi-to, e aque-las que vos fo-ram da-das no Grau de Adep-to
+      Me-nor, s\xE3o, ain-da que"
+    nSyllables: 23
+  - phrase: opostas, a mesma verdade.
+    splitText: opos-tas, a mes-ma ver-da-de.
+    nSyllables: 8
+  - phrase: Se espera, dormindo espera,
+    splitText: Se es-pe-ra, dor-min-do es-pe-ra,
+    nSyllables: 10
+  - phrase: Rompe o caminho fadado,
+    splitText: Rom-pe o ca-mi-nho fa-da-do,
+    nSyllables: 9
+  - phrase: "Ele dela \xE9 ignorado,"
+    splitText: "Ele de-la \xE9 ig-no-ra-do,"
+    nSyllables: 8
+  - phrase: Mas cada um cumpre o Destino
+    splitText: Mas ca-da um cum-pre o Des-ti-no
+    nSyllables: 10
+  - phrase: Ela dormindo encantada,
+    splitText: Ela dor-min-do en-can-ta-da,
+    nSyllables: 8
+  - phrase: E vencendo estrada e muro,
+    splitText: E ven-cen-do es-tra-da e mu-ro,
+    nSyllables: 10
+  - phrase: Chega onde em sono ela mora,
+    splitText: Che-ga on-de em so-no ela mo-ra,
+    nSyllables: 10
+  - phrase: "\xC0 cabe\xE7a, em maresia,"
+    splitText: "\xC0 ca-be-\xE7a, em ma-re-si-a,"
+    nSyllables: 9
+  - phrase: "Esque\xE7o-me das horas transviadas"
+    splitText: "Es-que-\xE7o--me das ho-ras trans-vi-a-das"
+    nSyllables: 12
+  - phrase: Passos da Cruz
+    splitText: Pas-sos da Cruz
+    nSyllables: 4
+  - phrase: "O Outono mora m\xE1goas nos outeiros"
+    splitText: "O Ou-to-no mo-ra m\xE1-go-as nos ou-tei-ros"
+    nSyllables: 13
+  - phrase: "E p\xF5e um roxo vago nos ribeiros..."
+    splitText: "E p\xF5e um ro-xo va-go nos ri-bei-ros..."
+    nSyllables: 11
+  - phrase: "H\xF3stia de assombro a alma, e toda estradas..."
+    splitText: "H\xF3s-tia de as-som-bro a al-ma, e to-da es-tra-das..."
+    nSyllables: 15
+  - phrase: Aconteceu-me esta paisagem, fadas
+    splitText: Acon-te-ceu--me es-ta pai-sa-gem, fa-das
+    nSyllables: 12
+  - phrase: "De sepulcros a org\xEDaco... Trigueiros"
+    splitText: "De se-pul-cros a or-g\xEDa-co... Tri-guei-ros"
+    nSyllables: 11
+  - phrase: "No meu cansa\xE7o perdido entre os gelos"
+    splitText: "No meu can-sa-\xE7o per-di-do en-tre os ge-los"
+    nSyllables: 13
+  - phrase: "Esta esp\xE9cie de loucura"
+    splitText: "Es-ta es-p\xE9-cie de lou-cu-ra"
+    nSyllables: 9
+  - phrase: "Que \xE9 pouco chamar talento"
+    splitText: "Que \xE9 pou-co cha-mar ta-len-to"
+    nSyllables: 9
+  - phrase: E que brilha em mim, na escura
+    splitText: E que bri-lha em mim, na es-cu-ra
+    nSyllables: 10
+  - phrase: "Confus\xE3o do pensamento,"
+    splitText: "Con-fu-s\xE3o do pen-sa-men-to,"
+    nSyllables: 8
+  - phrase: "N\xE3o me traz felicidade;"
+    splitText: "N\xE3o me traz fe-li-ci-da-de;"
+    nSyllables: 8
+  - phrase: "Porque, enfim, sempre haver\xE1"
+    splitText: "Por-que, en-fim, sem-pre ha-ve-r\xE1"
+    nSyllables: 9
+  - phrase: Sol ou sombra na cidade.
+    splitText: Sol ou som-bra na ci-da-de.
+    nSyllables: 8
+  - phrase: "Mas em mim n\xE3o sei o que h\xE1"
+    splitText: "Mas em mim n\xE3o sei o que h\xE1"
+    nSyllables: 8
+  - phrase: "Feliz dia para quem \xE9"
+    splitText: "Fe-liz dia pa-ra quem \xE9"
+    nSyllables: 7
+  - phrase: O igual do dia,
+    splitText: O igual do di-a,
+    nSyllables: 5
+  - phrase: "E no exterior azul que v\xEA"
+    splitText: "E no ex-te-ri-or azul que v\xEA"
+    nSyllables: 9
+  - phrase: Simples confia !
+    splitText: Sim-ples con-fia !
+    nSyllables: 5
+  - phrase: "Azul do c\xE9u faz pena a quem"
+    splitText: "Azul do c\xE9u faz pe-na a quem"
+    nSyllables: 8
+  - phrase: "N\xE3o pode ser"
+    splitText: "N\xE3o po-de ser"
+    nSyllables: 4
+  - phrase: "Na alma um azul do c\xE9u tamb\xE9m"
+    splitText: "Na al-ma um azul do c\xE9u tam-b\xE9m"
+    nSyllables: 9
+  - phrase: Com que viver
+    splitText: Com que vi-ver
+    nSyllables: 4
+  - phrase: "Ah, e se o verde com que est\xE3o"
+    splitText: "Ah, e se o ver-de com que es-t\xE3o"
+    nSyllables: 10
+  - phrase: Os montes quedos
+    splitText: Os mon-tes que-dos
+    nSyllables: 5
+  - phrase: "Pudesse haver no cora\xE7\xE3o"
+    splitText: "Pu-des-se ha-ver no co-ra-\xE7\xE3o"
+    nSyllables: 9
+  - phrase: E em seus segredos !
+    splitText: E em seus se-gre-dos !
+    nSyllables: 7
+  - phrase: Mas vejo quem devia estar
+    splitText: Mas ve-jo quem de-via es-tar
+    nSyllables: 8
+  - phrase: Igual do dia
+    splitText: Igual do dia
+    nSyllables: 3
+  - phrase: Insciente e sem querer passar.
+    splitText: Ins-ci-en-te e sem que-rer pas-sar.
+    nSyllables: 10
+  - phrase: Ah, a ironia
+    splitText: Ah, a iro-nia
+    nSyllables: 4
+  - phrase: "De s\xF3 sentir a terra e o c\xE9u"
+    splitText: "De s\xF3 sen-tir a ter-ra e o c\xE9u"
+    nSyllables: 10
+  - phrase: "T\xE3o belo ser"
+    splitText: "T\xE3o be-lo ser"
+    nSyllables: 4
+  - phrase: Quem de si sente que perdeu
+    splitText: Quem de si sen-te que per-deu
+    nSyllables: 8
+  - phrase: "A alma p\u2019ra os ter !"
+    splitText: "A al-ma p\u2019-ra os ter !"
+    nSyllables: 8
+  - phrase: "Flor que n\xE3o dura"
+    splitText: "Flor que n\xE3o du-ra"
+    nSyllables: 5
+  - phrase: Mais do que a sombra dum momento
+    splitText: Mais do que a som-bra dum mo-men-to
+    nSyllables: 10
+  - phrase: Tua frescura
+    splitText: Tua fres-cu-ra
+    nSyllables: 4
+  - phrase: Persiste no meu pensamento.
+    splitText: Per-sis-te no meu pen-sa-men-to.
+    nSyllables: 9
+  - phrase: "N\xE3o te perdi"
+    splitText: "N\xE3o te per-di"
+    nSyllables: 4
+  - phrase: No que sou eu,
+    splitText: No que sou eu,
+    nSyllables: 4
+  - phrase: "S\xF3 nunca mais, \xF3 flor, te vi"
+    splitText: "S\xF3 nun-ca mais, \xF3 flor, te vi"
+    nSyllables: 8
+  - phrase: "Onde n\xE3o sou sen\xE3o a terra e o c\xE9u."
+    splitText: "On-de n\xE3o sou se-n\xE3o a ter-ra e o c\xE9u."
+    nSyllables: 12
+  - phrase: Foi um momento
+    splitText: Foi um mo-men-to
+    nSyllables: 5
+  - phrase: O em que pousaste
+    splitText: O em que pou-sas-te
+    nSyllables: 6
+  - phrase: "Sobre o meu bra\xE7o,"
+    splitText: "So-bre o meu bra-\xE7o,"
+    nSyllables: 6
+  - phrase: Num movimento
+    splitText: Num mo-vi-men-to
+    nSyllables: 5
+  - phrase: "Mais de cansa\xE7o"
+    splitText: "Mais de can-sa-\xE7o"
+    nSyllables: 5
+  - phrase: Que pensamento,
+    splitText: Que pen-sa-men-to,
+    nSyllables: 5
+  - phrase: "A tua m\xE3o"
+    splitText: "A tua m\xE3o"
+    nSyllables: 3
+  - phrase: E a retiraste.
+    splitText: E a re-ti-ras-te.
+    nSyllables: 6
+  - phrase: "Senti ou n\xE3o ?"
+    splitText: "Sen-ti ou n\xE3o ?"
+    nSyllables: 5
+  - phrase: "N\xE3o sei. Mas lembro"
+    splitText: "N\xE3o sei. Mas lem-bro"
+    nSyllables: 5
+  - phrase: E sinto ainda
+    splitText: E sin-to ain-da
+    nSyllables: 5
+  - phrase: "Qualquer mem\xF3ria"
+    splitText: "Qual-quer me-m\xF3-ria"
+    nSyllables: 5
+  - phrase: "Fixa e corp\xF3rea"
+    splitText: "Fi-xa e cor-p\xF3-rea"
+    nSyllables: 6
+  - phrase: Onde pousaste
+    splitText: On-de pou-sas-te
+    nSyllables: 5
+  - phrase: "A m\xE3o que teve"
+    splitText: "A m\xE3o que te-ve"
+    nSyllables: 5
+  - phrase: Qualquer sentido
+    splitText: Qual-quer sen-ti-do
+    nSyllables: 5
+  - phrase: "Mas t\xE3o de leve !..."
+    splitText: "Mas t\xE3o de le-ve !..."
+    nSyllables: 6
+  - phrase: "Tudo isto \xE9 nada,"
+    splitText: "Tu-do is-to \xE9 na-da,"
+    nSyllables: 7
+  - phrase: Mas numa estrada
+    splitText: Mas nu-ma es-tra-da
+    nSyllables: 6
+  - phrase: "Como \xE9 a vida"
+    splitText: "Co-mo \xE9 a vi-da"
+    nSyllables: 6
+  - phrase: "H\xE1 muita coisa"
+    splitText: "H\xE1 mui-ta coi-sa"
+    nSyllables: 5
+  - phrase: Sei eu se quando
+    splitText: Sei eu se quan-do
+    nSyllables: 5
+  - phrase: Senti pousando
+    splitText: Sen-ti pou-san-do
+    nSyllables: 5
+  - phrase: "'Sobre o meu bra\xE7o,"
+    splitText: "'So-bre o meu bra-\xE7o,"
+    nSyllables: 6
+  - phrase: E um pouco, um pouco,
+    splitText: E um pou-co, um pou-co,
+    nSyllables: 7
+  - phrase: "No cora\xE7\xE3o,"
+    splitText: "No co-ra-\xE7\xE3o,"
+    nSyllables: 4
+  - phrase: "N\xE3o houve um ritmo"
+    splitText: "N\xE3o hou-ve um rit-mo"
+    nSyllables: 6
+  - phrase: "Novo no espa\xE7o ?"
+    splitText: "No-vo no es-pa-\xE7o ?"
+    nSyllables: 7
+  - phrase: Como se tu,
+    splitText: Co-mo se tu,
+    nSyllables: 4
+  - phrase: Sem o querer,
+    splitText: Sem o que-rer,
+    nSyllables: 4
+  - phrase: Em mim tocasses
+    splitText: Em mim to-cas-ses
+    nSyllables: 5
+  - phrase: Para dizer
+    splitText: Pa-ra di-zer
+    nSyllables: 4
+  - phrase: "Qualquer mist\xE9rio,"
+    splitText: "Qual-quer mis-t\xE9-ri-o,"
+    nSyllables: 6
+  - phrase: "S\xFAbito e et\xE9reo,"
+    splitText: "S\xFA-bi-to e et\xE9-re-o,"
+    nSyllables: 7
+  - phrase: Que nem soubesses
+    splitText: Que nem sou-bes-ses
+    nSyllables: 5
+  - phrase: Que tinha ser.
+    splitText: Que ti-nha ser.
+    nSyllables: 4
+  - phrase: Assim a brisa
+    splitText: As-sim a bri-sa
+    nSyllables: 5
+  - phrase: Nos ramos diz
+    splitText: Nos ra-mos diz
+    nSyllables: 4
+  - phrase: Sem o saber
+    splitText: Sem o sa-ber
+    nSyllables: 4
+  - phrase: Uma imprecisa
+    splitText: Uma im-pre-ci-sa
+    nSyllables: 5
+  - phrase: Coisa feliz.
+    splitText: Coi-sa fe-liz.
+    nSyllables: 4
+  - phrase: "Fosse eu apenas, n\xE3o sei onde ou como"
+    splitText: "Fos-se eu ape-nas, n\xE3o sei on-de ou co-mo"
+    nSyllables: 12
+  - phrase: "Fosse eu apenas, n\xE3o sei onde ou como,"
+    splitText: "Fos-se eu ape-nas, n\xE3o sei on-de ou co-mo,"
+    nSyllables: 12
+  - phrase: Uma coisa existente sem viver,
+    splitText: Uma coi-sa exis-ten-te sem vi-ver,
+    nSyllables: 9
+  - phrase: Noite de Vida sem amanhecer
+    splitText: Noi-te de Vi-da sem ama-nhe-cer
+    nSyllables: 9
+  - phrase: Entre as sirtes do meu dourado assomo....
+    splitText: En-tre as sir-tes do meu dou-ra-do as-so-mo....
+    nSyllables: 13
+  - phrase: Fada maliciosa ou incerto gnomo
+    splitText: Fa-da ma-li-ci-o-sa ou in-cer-to gno-mo
+    nSyllables: 13
+  - phrase: "Fadado houvesse de n\xE3o pertencer"
+    splitText: "Fa-da-do hou-ves-se de n\xE3o per-ten-cer"
+    nSyllables: 11
+  - phrase: "Meu intuito glor\xEDola com Ter"
+    splitText: "Meu in-tui-to glo-r\xEDo-la com Ter"
+    nSyllables: 9
+  - phrase: "A \xE1rvore do meu uso o \xFAnico pomo..."
+    splitText: "A \xE1r-vo-re do meu uso o \xFAni-co po-mo..."
+    nSyllables: 12
+  - phrase: "Fosse eu uma met\xE1fora somente"
+    splitText: "Fos-se eu uma me-t\xE1-fo-ra so-men-te"
+    nSyllables: 11
+  - phrase: Escrita nalgum livro insubsistente
+    splitText: Es-cri-ta nal-gum li-vro in-sub-sis-ten-te
+    nSyllables: 12
+  - phrase: Dum poeta antigo, de alma em outras gamas,
+    splitText: Dum po-e-ta an-ti-go, de al-ma em ou-tras ga-mas,
+    nSyllables: 15
+  - phrase: "Mas doente, e , num crep\xFAsculo de espadas,"
+    splitText: "Mas do-en-te, e , num cre-p\xFAs-cu-lo de es-pa-das,"
+    nSyllables: 15
+  - phrase: Morrendo entre bandeiras desfraldadas
+    splitText: Mor-ren-do en-tre ban-dei-ras des-fral-da-das
+    nSyllables: 12
+  - phrase: "Na \xFAltima tarde de um imp\xE9rio em chamas..."
+    splitText: "Na \xFAl-ti-ma tar-de de um im-p\xE9-rio em cha-mas..."
+    nSyllables: 14
+  - phrase: Em meus momentos escuros
+    splitText: Em meus mo-men-tos es-cu-ros
+    nSyllables: 8
+  - phrase: "Em que em mim n\xE3o h\xE1 ningu\xE9m,"
+    splitText: "Em que em mim n\xE3o h\xE1 nin-gu\xE9m,"
+    nSyllables: 8
+  - phrase: "E tudo \xE9 n\xE9voas e muros"
+    splitText: "E tu-do \xE9 n\xE9-vo-as e mu-ros"
+    nSyllables: 10
+  - phrase: "Quanto a vida d\xE1 ou tem,"
+    splitText: "Quan-to a vi-da d\xE1 ou tem,"
+    nSyllables: 8
+  - phrase: Se, um instante, erguendo a fronte
+    splitText: Se, um ins-tan-te, er-guen-do a fron-te
+    nSyllables: 11
+  - phrase: De onde em mim sou aterrado,
+    splitText: De on-de em mim sou ater-ra-do,
+    nSyllables: 9
+  - phrase: "Vejo o long\xEDnquo horizonte"
+    splitText: "Ve-jo o lon-g\xEDn-quo ho-ri-zon-te"
+    nSyllables: 10
+  - phrase: Cheio de sol posto ou nado
+    splitText: Cheio de sol pos-to ou na-do
+    nSyllables: 8
+  - phrase: "Revivo, existo, conhe\xE7o,"
+    splitText: "Re-vi-vo, exis-to, co-nhe-\xE7o,"
+    nSyllables: 8
+  - phrase: "E, ainda que seja ilus\xE3o"
+    splitText: "E, ain-da que se-ja ilu-s\xE3o"
+    nSyllables: 8
+  - phrase: "O exterior em que me esque\xE7o,"
+    splitText: "O ex-te-ri-or em que me es-que-\xE7o,"
+    nSyllables: 11
+  - phrase: "Nada mais quero nem pe\xE7o."
+    splitText: "Na-da mais que-ro nem pe-\xE7o."
+    nSyllables: 8
+  - phrase: "Entrego-lhe o cora\xE7\xE3o."
+    splitText: "En-tre-go--lhe o co-ra-\xE7\xE3o."
+    nSyllables: 9
+  - phrase: "F\xFAria nas trevas o vento"
+    splitText: "F\xFA-ria nas tre-vas o ven-to"
+    nSyllables: 8
+  - phrase: Num grande som de alongar,
+    splitText: Num gran-de som de alon-gar,
+    nSyllables: 7
+  - phrase: "N\xE3o h\xE1 no meu pensamento"
+    splitText: "N\xE3o h\xE1 no meu pen-sa-men-to"
+    nSyllables: 8
+  - phrase: "Sen\xE3o n\xE3o poder parar."
+    splitText: "Se-n\xE3o n\xE3o po-der pa-rar."
+    nSyllables: 7
+  - phrase: Parece que a alma tem
+    splitText: Pa-re-ce que a al-ma tem
+    nSyllables: 8
+  - phrase: Treva onde sopre a crescer
+    splitText: Tre-va on-de so-pre a cres-cer
+    nSyllables: 9
+  - phrase: Uma loucura que vem
+    splitText: Uma lou-cu-ra que vem
+    nSyllables: 6
+  - phrase: De querer compreender.
+    splitText: De que-rer com-pre-en-der.
+    nSyllables: 7
+  - phrase: Raiva nas trevas o vento
+    splitText: Rai-va nas tre-vas o ven-to
+    nSyllables: 8
+  - phrase: Sem se poder libertar.
+    splitText: Sem se po-der li-ber-tar.
+    nSyllables: 7
+  - phrase: Estou preso ao meu pensamento
+    splitText: Es-tou pre-so ao meu pen-sa-men-to
+    nSyllables: 10
+  - phrase: Como o vento preso ao ar.
+    splitText: Co-mo o ven-to pre-so ao ar.
+    nSyllables: 9
+  - phrase: Quem me roubou a minha dor antiga,
+    splitText: Quem me rou-bou a mi-nha dor an-ti-ga,
+    nSyllables: 11
+  - phrase: "E s\xF3 a vida me deixou por dor ?"
+    splitText: "E s\xF3 a vi-da me dei-xou por dor ?"
+    nSyllables: 11
+  - phrase: "Quem, entre o inc\xEAndio da alma em que o ser periga,"
+    splitText: "Quem, en-tre o in-c\xEAn-dio da al-ma em que o ser pe-ri-ga,"
+    nSyllables: 17
+  - phrase: "Me deixou s\xF3 no fogo e no torpor ?"
+    splitText: "Me dei-xou s\xF3 no fo-go e no tor-por ?"
+    nSyllables: 12
+  - phrase: Quem fez a fantasia minha amiga,
+    splitText: Quem fez a fan-ta-sia mi-nha ami-ga,
+    nSyllables: 10
+  - phrase: Negando o fruto e emurchecendo a flor ?
+    splitText: Ne-gan-do o fru-to e emur-che-cen-do a flor ?
+    nSyllables: 14
+  - phrase: "Ningu\xE9m ou o Fado, e a fantasia siga"
+    splitText: "Nin-gu\xE9m ou o Fa-do, e a fan-ta-sia si-ga"
+    nSyllables: 13
+  - phrase: A seu infiel e irreal sabor...
+    splitText: A seu in-fi-el e ir-re-al sa-bor...
+    nSyllables: 11
+  - phrase: "Quem me disp\xF4s para o que n\xE3o pudesse ?"
+    splitText: "Quem me disp\xF4s pa-ra o que n\xE3o pu-des-se ?"
+    nSyllables: 12
+  - phrase: "Quem me fadou para o que n\xE3o conhe\xE7o"
+    splitText: "Quem me fa-dou pa-ra o que n\xE3o co-nhe-\xE7o"
+    nSyllables: 12
+  - phrase: "Na teia do real que ningu\xE9m tece ?"
+    splitText: "Na teia do re-al que nin-gu\xE9m te-ce ?"
+    nSyllables: 11
+  - phrase: Quem me arrancou ao sonho que me odiava
+    splitText: Quem me ar-ran-cou ao so-nho que me odi-a-va
+    nSyllables: 13
+  - phrase: "E me deu s\xF3 a vida em que me esque\xE7o,"
+    splitText: "E me deu s\xF3 a vi-da em que me es-que-\xE7o,"
+    nSyllables: 13
+  - phrase: Onde a minha saudade a cor se trava ?
+    splitText: On-de a mi-nha sau-da-de a cor se tra-va ?
+    nSyllables: 14
+  - phrase: Gomes Leal
+    splitText: Go-mes Le-al
+    nSyllables: 4
+  - phrase: "Sangra, sinistro, a alguns o astro ba\xE7o."
+    splitText: "San-gra, si-nis-tro, a al-guns o as-tro ba-\xE7o."
+    nSyllables: 13
+  - phrase: "Seus tr\xEAs an\xE9is irrevers\xEDveis s\xE3o"
+    splitText: "Seus tr\xEAs an\xE9is ir-re-ver-s\xED-veis s\xE3o"
+    nSyllables: 9
+  - phrase: "A desgra\xE7a, a tristeza, a solid\xE3o."
+    splitText: "A des-gra-\xE7a, a tris-te-za, a so-li-d\xE3o."
+    nSyllables: 12
+  - phrase: "Oito luas fatais fitam no espa\xE7o."
+    splitText: "Oi-to lu-as fa-tais fi-tam no es-pa-\xE7o."
+    nSyllables: 12
+  - phrase: "Este, poeta, Apolo em seu rega\xE7o"
+    splitText: "Es-te, po-e-ta, Apo-lo em seu re-ga-\xE7o"
+    nSyllables: 12
+  - phrase: "A Saturno entregou. A pl\xFAmbea m\xE3o"
+    splitText: "A Sa-tur-no en-tre-gou. A pl\xFAm-bea m\xE3o"
+    nSyllables: 11
+  - phrase: "Lhe ergueu ao alto o aflito cora\xE7\xE3o."
+    splitText: "Lhe er-gueu ao al-to o afli-to co-ra-\xE7\xE3o."
+    nSyllables: 12
+  - phrase: E, erguido , o apertou, sangrando lasso.
+    splitText: E, er-gui-do , o aper-tou, san-gran-do las-so.
+    nSyllables: 13
+  - phrase: "In\xFAteis oito luas da loucura"
+    splitText: "In\xFA-teis oi-to lu-as da lou-cu-ra"
+    nSyllables: 10
+  - phrase: "Quando a cintura tr\xEDplice denota"
+    splitText: "Quan-do a cin-tu-ra tr\xED-pli-ce de-no-ta"
+    nSyllables: 12
+  - phrase: "Solid\xE3o e desgra\xE7a e amargura !"
+    splitText: "So-li-d\xE3o e des-gra-\xE7a e amar-gu-ra !"
+    nSyllables: 12
+  - phrase: Mas da noite sem fim um rastro brota,
+    splitText: Mas da noi-te sem fim um ras-tro bro-ta,
+    nSyllables: 11
+  - phrase: "Vest\xEDgios de maligna formosura :"
+    splitText: "Ves-t\xED-gi-os de ma-lig-na for-mo-su-ra :"
+    nSyllables: 13
+  - phrase: "\xC9 a lua al\xE9m de Deus, \xE1lgida e ignota."
+    splitText: "\xC9 a lua al\xE9m de Deus, \xE1l-gi-da e ig-no-ta."
+    nSyllables: 13
+  - phrase: "Grandes mist\xE9rios habitam"
+    splitText: "Gran-des mis-t\xE9-ri-os ha-bi-tam"
+    nSyllables: 9
+  - phrase: O limiar do meu ser,
+    splitText: O li-mi-ar do meu ser,
+    nSyllables: 7
+  - phrase: O limiar onde hesitam
+    splitText: O li-mi-ar on-de he-si-tam
+    nSyllables: 9
+  - phrase: "Grandes p\xE1ssaros que fitam"
+    splitText: "Gran-des p\xE1s-sa-ros que fi-tam"
+    nSyllables: 8
+  - phrase: Meu transpor tardo de os ver.
+    splitText: Meu trans-por tar-do de os ver.
+    nSyllables: 8
+  - phrase: "S\xE3o aves cheias de abismo,"
+    splitText: "S\xE3o aves chei-as de abis-mo,"
+    nSyllables: 7
+  - phrase: "Como nos sonhos as h\xE1."
+    splitText: "Co-mo nos so-nhos as h\xE1."
+    nSyllables: 7
+  - phrase: Hesito se sondo e cismo,
+    splitText: He-si-to se son-do e cis-mo,
+    nSyllables: 9
+  - phrase: "E \xE0 minha alma \xE9 cataclismo"
+    splitText: "E \xE0 mi-nha al-ma \xE9 ca-ta-clis-mo"
+    nSyllables: 11
+  - phrase: "O limiar onde est\xE1."
+    splitText: "O li-mi-ar on-de es-t\xE1."
+    nSyllables: 8
+  - phrase: "Ent\xE3o desperto do sonho"
+    splitText: "En-t\xE3o des-per-to do so-nho"
+    nSyllables: 8
+  - phrase: E sou alegre da luz,
+    splitText: E sou ale-gre da luz,
+    nSyllables: 6
+  - phrase: Inda que em dia tristonho;
+    splitText: In-da que em dia tris-to-nho;
+    nSyllables: 8
+  - phrase: "Porque o limiar \xE9 medonho"
+    splitText: "Por-que o li-mi-ar \xE9 me-do-nho"
+    nSyllables: 10
+  - phrase: "E todo passo \xE9 uma cruz."
+    splitText: "E to-do pas-so \xE9 uma cruz."
+    nSyllables: 8
+  - phrase: "Guia-me a s\xF3 a raz\xE3o"
+    splitText: "Gui-a--me a s\xF3 a ra-z\xE3o"
+    nSyllables: 9
+  - phrase: "Guia-me a s\xF3 a raz\xE3o."
+    splitText: "Gui-a--me a s\xF3 a ra-z\xE3o."
+    nSyllables: 9
+  - phrase: "N\xE3o me deram mais guia."
+    splitText: "N\xE3o me de-ram mais gui-a."
+    nSyllables: 7
+  - phrase: "Alumia-me em v\xE3o ?"
+    splitText: "Alu-mi-a--me em v\xE3o ?"
+    nSyllables: 8
+  - phrase: "S\xF3 ela me alumia."
+    splitText: "S\xF3 ela me alu-mi-a."
+    nSyllables: 6
+  - phrase: Tivesse quem criou
+    splitText: Ti-ves-se quem cri-ou
+    nSyllables: 6
+  - phrase: O mundo desejado
+    splitText: O mun-do de-se-ja-do
+    nSyllables: 7
+  - phrase: Que eu fosse outro que sou,
+    splitText: Que eu fos-se ou-tro que sou,
+    nSyllables: 8
+  - phrase: Ter-me-ia outro criado.
+    splitText: Ter--me-ia ou-tro cri-a-do.
+    nSyllables: 9
+  - phrase: Deu-me olhos para ver.
+    splitText: Deu--me olhos pa-ra ver.
+    nSyllables: 7
+  - phrase: Olho, vejo, acredito.
+    splitText: Olho, ve-jo, acre-di-to.
+    nSyllables: 6
+  - phrase: 'Como ousarei dizer:'
+    splitText: 'Co-mo ou-sa-rei di-zer:'
+    nSyllables: 7
+  - phrase: <<Cego, fora eu bendito >> ?
+    splitText: <<-Ce-go, fo-ra eu ben-di-to >> ?
+    nSyllables: 11
+  - phrase: "Como olhar, a raz\xE3o"
+    splitText: "Co-mo olhar, a ra-z\xE3o"
+    nSyllables: 6
+  - phrase: Deus me deu, para ver
+    splitText: Deus me deu, pa-ra ver
+    nSyllables: 6
+  - phrase: "Para al\xE9m da vis\xE3oOlhar de conhecer."
+    splitText: "Pa-ra al\xE9m da vi-s\xE3o-O-lhar de co-nhe-cer."
+    nSyllables: 12
+  - phrase: "Se ver \xE9 enganar-me,"
+    splitText: "Se ver \xE9 en-ga-nar--me,"
+    nSyllables: 8
+  - phrase: Pensar um descaminho,
+    splitText: Pen-sar um des-ca-mi-nho,
+    nSyllables: 7
+  - phrase: "N\xE3o sei. Deus os quis dar-me"
+    splitText: "N\xE3o sei. Deus os quis dar--me"
+    nSyllables: 8
+  - phrase: Por verdade e caminho.
+    splitText: Por ver-da-de e ca-mi-nho.
+    nSyllables: 8
+  - phrase: Ilumina-se a Igreja por Dentro da Chuva
+    splitText: Ilu-mi-na--se a Igre-ja por Den-tro da Chu-va
+    nSyllables: 14
+  - phrase: Ilumina-se a igreja por dentro da chuva deste dia,
+    splitText: Ilu-mi-na--se a igre-ja por den-tro da chu-va des-te di-a,
+    nSyllables: 18
+  - phrase: "E cada vela que se acende \xE9 mais chuva a bater na vidra\xE7a..."
+    splitText: "E ca-da ve-la que se acen-de \xE9 mais chu-va a ba-ter na vi-dra-\xE7a..."
+    nSyllables: 20
+  - phrase: "Alegra-me ouvir a chuva porque ela \xE9 o templo estar aceso,"
+    splitText: "Ale-gra--me ou-vir a chu-va por-que ela \xE9 o tem-plo es-tar ace-so,"
+    nSyllables: 20
+  - phrase: "E as vidra\xE7as da igreja vistas de fora s\xE3o o som da chuva ouvido
+      por dentro ..."
+    splitText: "E as vi-dra-\xE7as da igre-ja vis-tas de fo-ra s\xE3o o som da chu-va
+      ou-vi-do por den-tro ..."
+    nSyllables: 26
+  - phrase: "O esplendor do altar-mor \xE9 o eu n\xE3o poder quase ver os montes"
+    splitText: "O es-plen-dor do al-tar--mor \xE9 o eu n\xE3o po-der qua-se ver os
+      mon-tes"
+    nSyllables: 21
+  - phrase: "Atrav\xE9s da chuva que \xE9 ouro t\xE3o solene na toalha do altar..."
+    splitText: "Atra-v\xE9s da chu-va que \xE9 ou-ro t\xE3o so-le-ne na to-a-lha do
+      al-tar..."
+    nSyllables: 20
+  - phrase: "Soa o canto do coro, latino e vento a sacudir-me a vidra\xE7a"
+    splitText: "Soa o can-to do co-ro, la-ti-no e ven-to a sa-cu-dir--me a vi-dra-\xE7a"
+    nSyllables: 23
+  - phrase: "E sente-se chiar a \xE1gua no fato de haver coro..."
+    splitText: "E sen-te--se chi-ar a \xE1gua no fa-to de ha-ver co-ro..."
+    nSyllables: 17
+  - phrase: "A missa \xE9 um autom\xF3vel que passa"
+    splitText: "A mis-sa \xE9 um au-to-m\xF3-vel que pas-sa"
+    nSyllables: 12
+  - phrase: "Atrav\xE9s dos fi\xE9is que se ajoelham em hoje ser um dia triste ..."
+    splitText: "Atra-v\xE9s dos fi\xE9is que se ajo-e-lham em ho-je ser um dia tris-te
+      ..."
+    nSyllables: 18
+  - phrase: "S\xFAbito vento sacode em esplendor maior"
+    splitText: "S\xFA-bi-to ven-to sa-co-de em es-plen-dor mai-or"
+    nSyllables: 14
+  - phrase: "A festa da catedral e o ru\xEDdo da chuva absorve tudo"
+    splitText: "A fes-ta da ca-te-dral e o ru\xED-do da chu-va ab-sor-ve tu-do"
+    nSyllables: 19
+  - phrase: "At\xE9 s\xF3 se ouvir a voz do padre \xE1gua perder-se ao longe"
+    splitText: "At\xE9 s\xF3 se ou-vir a voz do pa-dre \xE1gua per-der--se ao lon-ge"
+    nSyllables: 18
+  - phrase: "Com o som de rodas de autom\xF3vel..."
+    splitText: "Com o som de ro-das de au-to-m\xF3-vel..."
+    nSyllables: 11
+  - phrase: E apagam-se as luzes da igreja
+    splitText: E apa-gam--se as lu-zes da igre-ja
+    nSyllables: 11
+  - phrase: Na chuva que cessa ...
+    splitText: Na chu-va que ces-sa ...
+    nSyllables: 7
+  - phrase: Quem te disse ao ouvido esse segredo
+    splitText: Quem te dis-se ao ou-vi-do es-se se-gre-do
+    nSyllables: 13
+  - phrase: "Que raras deusas t\xEAm escutado Aquele amor cheio de cren\xE7a e medo"
+    splitText: "Que ra-ras deu-sas t\xEAm es-cu-ta-do Aque-le amor cheio de cren-\xE7a
+      e me-do"
+    nSyllables: 20
+  - phrase: "Que \xE9 verdadeiro s\xF3 se \xE9 segredado?..."
+    splitText: "Que \xE9 ver-da-dei-ro s\xF3 se \xE9 se-gre-da-do?..."
+    nSyllables: 13
+  - phrase: "Quem te disse t\xE3o cedo?"
+    splitText: "Quem te dis-se t\xE3o ce-do?"
+    nSyllables: 7
+  - phrase: "N\xE3o fui eu, que te n\xE3o ousei diz\xEA-lo."
+    splitText: "N\xE3o fui eu, que te n\xE3o ou-sei di-z\xEA--lo."
+    nSyllables: 12
+  - phrase: "N\xE3o foi um outro, porque n\xE3o sabia."
+    splitText: "N\xE3o foi um ou-tro, por-que n\xE3o sa-bi-a."
+    nSyllables: 11
+  - phrase: "Mas quem ro\xE7ou da testa teu cabelo"
+    splitText: "Mas quem ro-\xE7ou da tes-ta teu ca-be-lo"
+    nSyllables: 11
+  - phrase: E te disse ao ouvido o que sentia?
+    splitText: E te dis-se ao ou-vi-do o que sen-ti-a?
+    nSyllables: 13
+  - phrase: "Seria algu\xE9m, seria?"
+    splitText: "Se-ria al-gu\xE9m, se-ri-a?"
+    nSyllables: 7
+  - phrase: "Ou foi s\xF3 que o sonhaste e eu te o sonhei?"
+    splitText: "Ou foi s\xF3 que o so-nhas-te e eu te o so-nhei?"
+    nSyllables: 14
+  - phrase: "Foi s\xF3 qualquer ci\xFAme meu de ti"
+    splitText: "Foi s\xF3 qual-quer ci\xFA-me meu de ti"
+    nSyllables: 9
+  - phrase: "Que o sup\xF4s dito, porque o n\xE3o direi,"
+    splitText: "Que o sup\xF4s di-to, por-que o n\xE3o di-rei,"
+    nSyllables: 11
+  - phrase: "Que o sup\xF4s feito, porque o s\xF3 fingi"
+    splitText: "Que o sup\xF4s fei-to, por-que o s\xF3 fin-gi"
+    nSyllables: 11
+  - phrase: Em sonhos que nem sei?
+    splitText: Em so-nhos que nem sei?
+    nSyllables: 6
+  - phrase: Seja o que for, quem foi que levemente,
+    splitText: Se-ja o que for, quem foi que le-ve-men-te,
+    nSyllables: 12
+  - phrase: A teu ouvido vagamente atento,
+    splitText: A teu ou-vi-do va-ga-men-te aten-to,
+    nSyllables: 11
+  - phrase: Te falou desse amor em mim presente
+    splitText: Te fa-lou des-se amor em mim pre-sen-te
+    nSyllables: 11
+  - phrase: "Mas que n\xE3o passa do meu pensamento"
+    splitText: "Mas que n\xE3o pas-sa do meu pen-sa-men-to"
+    nSyllables: 11
+  - phrase: "Que anseia e que n\xE3o sente?"
+    splitText: "Que an-seia e que n\xE3o sen-te?"
+    nSyllables: 8
+  - phrase: Foi um desejo que, sem corpo ou boca,
+    splitText: Foi um de-se-jo que, sem cor-po ou bo-ca,
+    nSyllables: 12
+  - phrase: A teus ouvidos de eu sonhar-te disse
+    splitText: A teus ou-vi-dos de eu so-nhar--te dis-se
+    nSyllables: 13
+  - phrase: A frase eterna, imerecida e louca A que as deusas esperam da ledice
+    splitText: A fra-se eter-na, ime-re-ci-da e lou-ca A que as deu-sas es-pe-ram
+      da le-di-ce
+    nSyllables: 24
+  - phrase: Com que o Olimpo se apouca.
+    splitText: Com que o Olim-po se apou-ca.
+    nSyllables: 8
+  - phrase: "\xC9 como que um terra\xE7o"
+    splitText: "\xC9 co-mo que um ter-ra-\xE7o"
+    nSyllables: 8
+  - phrase: "S\xE9rio do que n\xE3o \xE9."
+    splitText: "S\xE9-rio do que n\xE3o \xE9."
+    nSyllables: 6
+  - phrase: "Sentir? Sinta quem l\xEA!"
+    splitText: "Sen-tir? Sin-ta quem l\xEA!"
+    nSyllables: 6
+  - phrase: Ai que prazer
+    splitText: Ai que pra-zer
+    nSyllables: 4
+  - phrase: "N\xE3o cumprir um dever,"
+    splitText: "N\xE3o cum-prir um de-ver,"
+    nSyllables: 6
+  - phrase: Ter um livro para ler
+    splitText: Ter um li-vro pa-ra ler
+    nSyllables: 7
+  - phrase: "E n\xE3o fazer !"
+    splitText: "E n\xE3o fa-zer !"
+    nSyllables: 5
+  - phrase: "Ler \xE9 ma\xE7ada,"
+    splitText: "Ler \xE9 ma-\xE7a-da,"
+    nSyllables: 5
+  - phrase: "Estudar \xE9 nada."
+    splitText: "Es-tu-dar \xE9 na-da."
+    nSyllables: 6
+  - phrase: Sol doira
+    splitText: Sol doi-ra
+    nSyllables: 3
+  - phrase: Sem literatura
+    splitText: Sem li-te-ra-tu-ra
+    nSyllables: 6
+  - phrase: O rio corre, bem ou mal,
+    splitText: O rio cor-re, bem ou mal,
+    nSyllables: 7
+  - phrase: "Sem edi\xE7\xE3o original."
+    splitText: "Sem edi-\xE7\xE3o ori-gi-nal."
+    nSyllables: 6
+  - phrase: E a brisa, essa,
+    splitText: E a bri-sa, es-sa,
+    nSyllables: 6
+  - phrase: "De t\xE3o naturalmente matinal,"
+    splitText: "De t\xE3o na-tu-ral-men-te ma-ti-nal,"
+    nSyllables: 10
+  - phrase: "Como o tempo n\xE3o tem pressa..."
+    splitText: "Co-mo o tem-po n\xE3o tem pres-sa..."
+    nSyllables: 9
+  - phrase: "Livros s\xE3o pap\xE9is pintados com tinta."
+    splitText: "Li-vros s\xE3o pa-p\xE9is pin-ta-dos com tin-ta."
+    nSyllables: 11
+  - phrase: "Estudar \xE9 uma coisa em que est\xE1 indistinta"
+    splitText: "Es-tu-dar \xE9 uma coi-sa em que es-t\xE1 in-dis-tin-ta"
+    nSyllables: 15
+  - phrase: "A distin\xE7\xE3o entre nada e coisa nenhuma."
+    splitText: "A dis-tin-\xE7\xE3o en-tre na-da e coi-sa ne-nhu-ma."
+    nSyllables: 14
+  - phrase: "Quanto \xE9 melhor, quanto h\xE1 bruma,"
+    splitText: "Quan-to \xE9 me-lhor, quan-to h\xE1 bru-ma,"
+    nSyllables: 10
+  - phrase: "Esperar por D.Sebasti\xE3o,"
+    splitText: "Es-pe-rar por D.-Se-bas-ti\xE3o,"
+    nSyllables: 8
+  - phrase: "Quer venha ou n\xE3o !"
+    splitText: "Quer ve-nha ou n\xE3o !"
+    nSyllables: 6
+  - phrase: "Grande \xE9 a poesia, a bondade e as dan\xE7as..."
+    splitText: "Gran-de \xE9 a po-e-si-a, a bon-da-de e as dan-\xE7as..."
+    nSyllables: 16
+  - phrase: "Mas o melhor do mundo s\xE3o as crian\xE7as,"
+    splitText: "Mas o me-lhor do mun-do s\xE3o as cri-an-\xE7as,"
+    nSyllables: 12
+  - phrase: "Flores, m\xFAsica, o luar, e o sol, que peca"
+    splitText: "Flo-res, m\xFA-si-ca, o lu-ar, e o sol, que pe-ca"
+    nSyllables: 14
+  - phrase: "S\xF3 quando, em vez de criar, seca."
+    splitText: "S\xF3 quan-do, em vez de cri-ar, se-ca."
+    nSyllables: 10
+  - phrase: Mais que isto
+    splitText: Mais que is-to
+    nSyllables: 4
+  - phrase: "\xC9 Jesus Cristo,"
+    splitText: "\xC9 Je-sus Cris-to,"
+    nSyllables: 5
+  - phrase: "Que n\xE3o sabia nada de finan\xE7as"
+    splitText: "Que n\xE3o sa-bia na-da de fi-nan-\xE7as"
+    nSyllables: 10
+  - phrase: Nem consta que tivesse biblioteca...
+    splitText: Nem cons-ta que ti-ves-se bi-bli-o-te-ca...
+    nSyllables: 12
+  - phrase: "N\xE3o digas nada!"
+    splitText: "N\xE3o di-gas na-da!"
+    nSyllables: 5
+  - phrase: Nem mesmo a verdade
+    splitText: Nem mes-mo a ver-da-de
+    nSyllables: 7
+  - phrase: "H\xE1 tanta suavidade em nada se dizer"
+    splitText: "H\xE1 tan-ta su-a-vi-da-de em na-da se di-zer"
+    nSyllables: 14
+  - phrase: E tudo se entender Tudo metade
+    splitText: E tu-do se en-ten-der Tu-do me-ta-de
+    nSyllables: 12
+  - phrase: De sentir e de ver...
+    splitText: De sen-tir e de ver...
+    nSyllables: 6
+  - phrase: "N\xE3o digas nada"
+    splitText: "N\xE3o di-gas na-da"
+    nSyllables: 5
+  - phrase: Deixa esquecer
+    splitText: Dei-xa es-que-cer
+    nSyllables: 5
+  - phrase: "Talvez que amanh\xE3"
+    splitText: "Tal-vez que ama-nh\xE3"
+    nSyllables: 5
+  - phrase: Em outra paisagem
+    splitText: Em ou-tra pai-sa-gem
+    nSyllables: 6
+  - phrase: "Digas que foi v\xE3"
+    splitText: "Di-gas que foi v\xE3"
+    nSyllables: 5
+  - phrase: Toda essa viagem
+    splitText: To-da es-sa vi-a-gem
+    nSyllables: 7
+  - phrase: "At\xE9 onde quis"
+    splitText: "At\xE9 on-de quis"
+    nSyllables: 4
+  - phrase: Ser quem me agrada...
+    splitText: Ser quem me agra-da...
+    nSyllables: 5
+  - phrase: Mas ali fui feliz
+    splitText: Mas ali fui fe-liz
+    nSyllables: 5
+  - phrase: "N\xE3o digas nada."
+    splitText: "N\xE3o di-gas na-da."
+    nSyllables: 5
+  - phrase: "N\xE3o: n\xE3o digas nada!"
+    splitText: "N\xE3o: n\xE3o di-gas na-da!"
+    nSyllables: 6
+  - phrase: "Supor o que dir\xE1"
+    splitText: "Su-por o que di-r\xE1"
+    nSyllables: 6
+  - phrase: A tua boca velada
+    splitText: A tua bo-ca ve-la-da
+    nSyllables: 7
+  - phrase: "\xC9 ouvi-lo j\xE1"
+    splitText: "\xC9 ou-vi--lo j\xE1"
+    nSyllables: 6
+  - phrase: "\xC9 ouvi-lo melhor"
+    splitText: "\xC9 ou-vi--lo me-lhor"
+    nSyllables: 7
+  - phrase: Do que o dirias.
+    splitText: Do que o di-ri-as.
+    nSyllables: 6
+  - phrase: "O que \xE9s n\xE3o vem \xE0 flor"
+    splitText: "O que \xE9s n\xE3o vem \xE0 flor"
+    nSyllables: 7
+  - phrase: Das frases e dos dias.
+    splitText: Das fra-ses e dos di-as.
+    nSyllables: 7
+  - phrase: "\xC9s melhor do que tu."
+    splitText: "\xC9s me-lhor do que tu."
+    nSyllables: 6
+  - phrase: "N\xE3o digas nada: s\xEA!"
+    splitText: "N\xE3o di-gas na-da: s\xEA!"
+    nSyllables: 6
+  - phrase: "Gra\xE7a do corpo nu"
+    splitText: "Gra-\xE7a do cor-po nu"
+    nSyllables: 6
+  - phrase: "Que invis\xEDvel se v\xEA."
+    splitText: "Que in-vi-s\xED-vel se v\xEA."
+    nSyllables: 7
+  - phrase: O Andaime
+    splitText: O An-dai-me
+    nSyllables: 4
+  - phrase: O tempo que eu hei sonhado
+    splitText: O tem-po que eu hei so-nha-do
+    nSyllables: 9
+  - phrase: Quantos anos foi de vida!
+    splitText: Quan-tos anos foi de vi-da!
+    nSyllables: 7
+  - phrase: Ah, quanto do meu passado
+    splitText: Ah, quan-to do meu pas-sa-do
+    nSyllables: 8
+  - phrase: "Foi s\xF3 a vida mentida"
+    splitText: "Foi s\xF3 a vi-da men-ti-da"
+    nSyllables: 8
+  - phrase: De um futuro imaginado!
+    splitText: De um fu-tu-ro ima-gi-na-do!
+    nSyllables: 9
+  - phrase: "Aqui \xE0 beira do rio"
+    splitText: "Aqui \xE0 bei-ra do rio"
+    nSyllables: 6
+  - phrase: "Sossego sem ter raz\xE3o."
+    splitText: "Sos-se-go sem ter ra-z\xE3o."
+    nSyllables: 7
+  - phrase: Este seu correr vazio
+    splitText: Es-te seu cor-rer va-zio
+    nSyllables: 7
+  - phrase: "Figura, an\xF4nimo e frio,"
+    splitText: "Fi-gu-ra, an\xF4-ni-mo e fri-o,"
+    nSyllables: 9
+  - phrase: "A vida vivida em v\xE3o."
+    splitText: "A vi-da vi-vi-da em v\xE3o."
+    nSyllables: 8
+  - phrase: "A 'sp'ran\xE7a que pouco alcan\xE7a!"
+    splitText: "A 'sp'-ran-\xE7a que pou-co al-can-\xE7a!"
+    nSyllables: 10
+  - phrase: Que desejo vale o ensejo?
+    splitText: Que de-se-jo va-le o en-se-jo?
+    nSyllables: 10
+  - phrase: "E uma bola de crian\xE7a"
+    splitText: "E uma bo-la de cri-an-\xE7a"
+    nSyllables: 8
+  - phrase: "Sobre mais que minha 's'pran\xE7a,"
+    splitText: "So-bre mais que mi-nha 's'-pran-\xE7a,"
+    nSyllables: 9
+  - phrase: Rola mais que o meu desejo.
+    splitText: Ro-la mais que o meu de-se-jo.
+    nSyllables: 9
+  - phrase: "Ondas do rio, t\xE3o leves"
+    splitText: "On-das do ri-o, t\xE3o le-ves"
+    nSyllables: 8
+  - phrase: "Que n\xE3o sois ondas sequer,"
+    splitText: "Que n\xE3o sois on-das se-quer,"
+    nSyllables: 7
+  - phrase: Horas, dias, anos, breves
+    splitText: Ho-ras, di-as, anos, bre-ves
+    nSyllables: 7
+  - phrase: Passam - verduras ou neves
+    splitText: Pas-sam - ver-du-ras ou ne-ves
+    nSyllables: 10
+  - phrase: Que o mesmo sol faz morrer.
+    splitText: Que o mes-mo sol faz mor-rer.
+    nSyllables: 8
+  - phrase: "Gastei tudo que n\xE3o tinha."
+    splitText: "Gas-tei tu-do que n\xE3o ti-nha."
+    nSyllables: 8
+  - phrase: Sou mais velho do que sou.
+    splitText: Sou mais ve-lho do que sou.
+    nSyllables: 7
+  - phrase: "A ilus\xE3o, que me mantinha,"
+    splitText: "A ilu-s\xE3o, que me man-ti-nha,"
+    nSyllables: 8
+  - phrase: "S\xF3 no palco era rainha:"
+    splitText: "S\xF3 no pal-co era rai-nha:"
+    nSyllables: 7
+  - phrase: Despiu-se, e o reino acabou.
+    splitText: Des-piu--se, e o rei-no aca-bou.
+    nSyllables: 10
+  - phrase: "Leve som das \xE1guas lentas,"
+    splitText: "Le-ve som das \xE1guas len-tas,"
+    nSyllables: 7
+  - phrase: Gulosas da margem ida,
+    splitText: Gu-lo-sas da mar-gem ida,
+    nSyllables: 7
+  - phrase: "Que lembran\xE7as sonolentas"
+    splitText: "Que lem-bran-\xE7as so-no-len-tas"
+    nSyllables: 8
+  - phrase: "De esperan\xE7as nevoentas!"
+    splitText: "De es-pe-ran-\xE7as ne-vo-en-tas!"
+    nSyllables: 9
+  - phrase: Que sonhos o sonho e a vida!
+    splitText: Que so-nhos o so-nho e a vi-da!
+    nSyllables: 10
+  - phrase: Que fiz de mim? Encontrei-me
+    splitText: Que fiz de mim? En-con-trei--me
+    nSyllables: 9
+  - phrase: "Quando estava j\xE1 perdido."
+    splitText: "Quan-do es-ta-va j\xE1 per-di-do."
+    nSyllables: 9
+  - phrase: Impaciente deixei-me
+    splitText: Im-pa-ci-en-te dei-xei--me
+    nSyllables: 9
+  - phrase: Como a um louco que teime
+    splitText: Co-mo a um lou-co que tei-me
+    nSyllables: 9
+  - phrase: No que lhe foi desmentido.
+    splitText: No que lhe foi des-men-ti-do.
+    nSyllables: 8
+  - phrase: "Som morto das \xE1guas mansas"
+    splitText: "Som mor-to das \xE1guas man-sas"
+    nSyllables: 7
+  - phrase: Que correm por ter que ser,
+    splitText: Que cor-rem por ter que ser,
+    nSyllables: 7
+  - phrase: "Leva n\xE3o s\xF3 lembran\xE7as Mortas, porque h\xE3o de morrer."
+    splitText: "Le-va n\xE3o s\xF3 lem-bran-\xE7as Mor-tas, por-que h\xE3o de mor-rer."
+    nSyllables: 15
+  - phrase: "Sou j\xE1 o morto futuro."
+    splitText: "Sou j\xE1 o mor-to fu-tu-ro."
+    nSyllables: 8
+  - phrase: "S\xF3 um sonho me liga a mim O sonho atrasado e obscuro"
+    splitText: "S\xF3 um so-nho me li-ga a mim O so-nho atra-sa-do e obs-cu-ro"
+    nSyllables: 19
+  - phrase: Do que eu devera ser - muro
+    splitText: Do que eu de-ve-ra ser - mu-ro
+    nSyllables: 11
+  - phrase: Do meu deserto jardim.
+    splitText: Do meu de-ser-to jar-dim.
+    nSyllables: 7
+  - phrase: Ondas passadas, levai-me
+    splitText: On-das pas-sa-das, le-vai--me
+    nSyllables: 9
+  - phrase: Para o alvido do mar!
+    splitText: Pa-ra o al-vi-do do mar!
+    nSyllables: 8
+  - phrase: "Ao que n\xE3o serei legai-me,"
+    splitText: "Ao que n\xE3o se-rei le-gai--me,"
+    nSyllables: 9
+  - phrase: Que cerquei com um andaime
+    splitText: Que cer-quei com um an-dai-me
+    nSyllables: 8
+  - phrase: A casa por fabricar.
+    splitText: A ca-sa por fa-bri-car.
+    nSyllables: 7
+  - phrase: O Maestro Sacode a Batuta
+    splitText: O Ma-es-tro Sa-co-de a Ba-tu-ta
+    nSyllables: 11
+  - phrase: O maestro sacode a batuta,
+    splitText: O ma-es-tro sa-co-de a ba-tu-ta,
+    nSyllables: 11
+  - phrase: "A l\xE2nguida e triste a m\xFAsica rompe ..."
+    splitText: "A l\xE2n-gui-da e tris-te a m\xFA-si-ca rom-pe ..."
+    nSyllables: 14
+  - phrase: "Lembra-me a minha inf\xE2ncia, aquele dia"
+    splitText: "Lem-bra--me a mi-nha in-f\xE2n-ci-a, aque-le dia"
+    nSyllables: 14
+  - phrase: "Em que eu brincava ao p\xE9 dum muro de quintal"
+    splitText: "Em que eu brin-ca-va ao p\xE9 dum mu-ro de quin-tal"
+    nSyllables: 14
+  - phrase: Atirando-lhe com, uma bola que tinha dum lado
+    splitText: Ati-ran-do--lhe com, uma bo-la que ti-nha dum la-do
+    nSyllables: 15
+  - phrase: "O deslizar dum c\xE3o verde, e do outro lado"
+    splitText: "O des-li-zar dum c\xE3o ver-de, e do ou-tro la-do"
+    nSyllables: 14
+  - phrase: Um cavalo azul a correr com um jockey amarelo ...
+    splitText: Um ca-va-lo azul a cor-rer com um joc-key ama-re-lo ...
+    nSyllables: 16
+  - phrase: "Prossegue a m\xFAsica, e eis na minha inf\xE2ncia"
+    splitText: "Pros-se-gue a m\xFA-si-ca, e eis na mi-nha in-f\xE2n-cia"
+    nSyllables: 15
+  - phrase: De repente entre mim e o maestro, muro branco,
+    splitText: De re-pen-te en-tre mim e o ma-es-tro, mu-ro bran-co,
+    nSyllables: 16
+  - phrase: "Vai e vem a bola, ora um c\xE3o verde,"
+    splitText: "Vai e vem a bo-la, ora um c\xE3o ver-de,"
+    nSyllables: 11
+  - phrase: Ora um cavalo azul com um jockey amarelo...
+    splitText: Ora um ca-va-lo azul com um joc-key ama-re-lo...
+    nSyllables: 13
+  - phrase: "Todo o teatro \xE9 o meu quintal, a minha inf\xE2ncia"
+    splitText: "To-do o te-a-tro \xE9 o meu quin-tal, a mi-nha in-f\xE2n-cia"
+    nSyllables: 17
+  - phrase: "Est\xE1 em todos os lugares e a bola vem a tocar m\xFAsica,"
+    splitText: "Es-t\xE1 em to-dos os lu-ga-res e a bo-la vem a to-car m\xFA-si-ca,"
+    nSyllables: 20
+  - phrase: "Uma m\xFAsica triste e vaga que passeia no meu quintal"
+    splitText: "Uma m\xFA-si-ca tris-te e va-ga que pas-seia no meu quin-tal"
+    nSyllables: 16
+  - phrase: "Vestida de c\xE3o verde tornando-se jockey amarelo..."
+    splitText: "Ves-ti-da de c\xE3o ver-de tor-nan-do--se joc-key ama-re-lo..."
+    nSyllables: 17
+  - phrase: "T\xE3o r\xE1pida gira a bola entre mim e os m\xFAsicos..."
+    splitText: "T\xE3o r\xE1-pi-da gi-ra a bo-la en-tre mim e os m\xFA-si-cos..."
+    nSyllables: 17
+  - phrase: "Atiro-a de encontra \xE0 minha inf\xE2ncia e ela"
+    splitText: "Ati-ro-a de en-con-tra \xE0 mi-nha in-f\xE2n-cia e ela"
+    nSyllables: 15
+  - phrase: "Atravessa o teatro todo que est\xE1 aos meus p\xE9s"
+    splitText: "Atra-ves-sa o te-a-tro to-do que es-t\xE1 aos meus p\xE9s"
+    nSyllables: 15
+  - phrase: "A brincar com um jockey amarelo. e um c\xE3o verde"
+    splitText: "A brin-car com um joc-key ama-re-lo. e um c\xE3o ver-de"
+    nSyllables: 15
+  - phrase: E um cavalo azul que aparece por cima do muro
+    splitText: E um ca-va-lo azul que apa-re-ce por ci-ma do mu-ro
+    nSyllables: 16
+  - phrase: "Do meu quintal... E a m\xFAsica atira com bolas"
+    splitText: "Do meu quin-tal... E a m\xFA-si-ca ati-ra com bo-las"
+    nSyllables: 14
+  - phrase: "\xC0 minha inf\xE2ncia... E o muro do quintal \xE9 feito de gestos"
+    splitText: "\xC0 mi-nha in-f\xE2n-ci-a... E o mu-ro do quin-tal \xE9 fei-to de
+      ges-tos"
+    nSyllables: 20
+  - phrase: "De batuta e rota\xE7\xF5es confusas de c\xE3es verdes"
+    splitText: "De ba-tu-ta e ro-ta-\xE7\xF5es con-fu-sas de c\xE3es ver-des"
+    nSyllables: 15
+  - phrase: E cavalos azuis e jockeys amarelos ...
+    splitText: E ca-va-los azuis e joc-keys ama-re-los ...
+    nSyllables: 12
+  - phrase: "Todo o teatro \xE9 um muro branco de m\xFAsica"
+    splitText: "To-do o te-a-tro \xE9 um mu-ro bran-co de m\xFA-si-ca"
+    nSyllables: 16
+  - phrase: "Por onde um c\xE3o verde corre atr\xE1s de minha saudade"
+    splitText: "Por on-de um c\xE3o ver-de cor-re atr\xE1s de mi-nha sau-da-de"
+    nSyllables: 16
+  - phrase: "Da minha inf\xE2ncia, cavalo azul com um jockey amarelo..."
+    splitText: "Da mi-nha in-f\xE2n-ci-a, ca-va-lo azul com um joc-key ama-re-lo..."
+    nSyllables: 18
+  - phrase: E dum lado para o outro, da direita para a esquerda,
+    splitText: E dum la-do pa-ra o ou-tro, da di-rei-ta pa-ra a es-quer-da,
+    nSyllables: 19
+  - phrase: "Donde h\xE1 \xE1rvores e entre os ramos ao p\xE9 da copa"
+    splitText: "Don-de h\xE1 \xE1r-vo-res e en-tre os ra-mos ao p\xE9 da co-pa"
+    nSyllables: 17
+  - phrase: "Com orquestras a tocar m\xFAsica,"
+    splitText: "Com or-ques-tras a to-car m\xFA-si-ca,"
+    nSyllables: 10
+  - phrase: "Para onde h\xE1 filas de bolas na loja onde a comprei"
+    splitText: "Pa-ra on-de h\xE1 fi-las de bo-las na lo-ja on-de a com-prei"
+    nSyllables: 18
+  - phrase: "E o homem da loja sorri entre as mem\xF3rias da minha inf\xE2ncia..."
+    splitText: "E o ho-mem da lo-ja sor-ri en-tre as me-m\xF3-ri-as da mi-nha in-f\xE2n-ci-a..."
+    nSyllables: 23
+  - phrase: "E a m\xFAsica cessa como um muro que desaba,"
+    splitText: "E a m\xFA-si-ca ces-sa co-mo um mu-ro que de-sa-ba,"
+    nSyllables: 16
+  - phrase: A bola rola pelo despenhadeiro dos meus sonhos interrompidos,
+    splitText: A bo-la ro-la pe-lo des-pe-nha-dei-ro dos meus so-nhos in-ter-rom-pi-dos,
+    nSyllables: 21
+  - phrase: E do alto dum cavalo azul, o maestro, jockey amarelo tornando-se preto,
+    splitText: E do al-to dum ca-va-lo azul, o ma-es-tro, joc-key ama-re-lo tor-nan-do--se
+      pre-to,
+    nSyllables: 25
+  - phrase: Agradece, pousando a batuta em cima da fuga dum muro,
+    splitText: Agra-de-ce, pou-san-do a ba-tu-ta em ci-ma da fu-ga dum mu-ro,
+    nSyllables: 19
+  - phrase: "E curva-se, sorrindo, com uma bola branca em cima da cabe\xE7a,"
+    splitText: "E cur-va--se, sor-rin-do, com uma bo-la bran-ca em ci-ma da ca-be-\xE7a,"
+    nSyllables: 21
+  - phrase: Bola branca que lhe desaparece pelas costas abaixo...
+    splitText: Bo-la bran-ca que lhe de-sa-pa-re-ce pe-las cos-tas abai-xo...
+    nSyllables: 17
+  - phrase: "O que me d\xF3i n\xE3o \xE9"
+    splitText: "O que me d\xF3i n\xE3o \xE9"
+    nSyllables: 6
+  - phrase: "O que h\xE1 no cora\xE7\xE3o"
+    splitText: "O que h\xE1 no co-ra-\xE7\xE3o"
+    nSyllables: 7
+  - phrase: Mas essas coisas lindas
+    splitText: Mas es-sas coi-sas lin-das
+    nSyllables: 7
+  - phrase: "Que nunca existir\xE3o..."
+    splitText: "Que nun-ca exis-ti-r\xE3o..."
+    nSyllables: 6
+  - phrase: "S\xE3o as formas sem forma"
+    splitText: "S\xE3o as for-mas sem for-ma"
+    nSyllables: 7
+  - phrase: Que passam sem que a dor
+    splitText: Que pas-sam sem que a dor
+    nSyllables: 7
+  - phrase: As possa conhecer
+    splitText: As pos-sa co-nhe-cer
+    nSyllables: 6
+  - phrase: Ou as sonhar o amor.
+    splitText: Ou as so-nhar o amor.
+    nSyllables: 6
+  - phrase: "S\xE3o como se a tristeza"
+    splitText: "S\xE3o co-mo se a tris-te-za"
+    nSyllables: 8
+  - phrase: "Fosse \xE1rvore e, uma a uma,"
+    splitText: "Fos-se \xE1r-vo-re e, uma a uma,"
+    nSyllables: 9
+  - phrase: "Ca\xEDssem suas folhas"
+    splitText: "Ca\xEDs-sem su-as fo-lhas"
+    nSyllables: 6
+  - phrase: "Entre o vest\xEDgio e a bruma."
+    splitText: "En-tre o ves-t\xED-gio e a bru-ma."
+    nSyllables: 10
+  - phrase: "Pobre velha m\xFAsica!"
+    splitText: "Po-bre ve-lha m\xFA-si-ca!"
+    nSyllables: 7
+  - phrase: "N\xE3o sei por que agrado,"
+    splitText: "N\xE3o sei por que agra-do,"
+    nSyllables: 6
+  - phrase: "Enche-se de l\xE1grimas"
+    splitText: "En-che--se de l\xE1-gri-mas"
+    nSyllables: 8
+  - phrase: Meu olhar parado.
+    splitText: Meu olhar pa-ra-do.
+    nSyllables: 5
+  - phrase: Recordo outro ouvir-te,
+    splitText: Re-cor-do ou-tro ou-vir--te,
+    nSyllables: 9
+  - phrase: "N\xE3o sei se te ouvi"
+    splitText: "N\xE3o sei se te ou-vi"
+    nSyllables: 6
+  - phrase: "Nessa minha inf\xE2ncia"
+    splitText: "Nes-sa mi-nha in-f\xE2n-cia"
+    nSyllables: 7
+  - phrase: Que me lembra em ti.
+    splitText: Que me lem-bra em ti.
+    nSyllables: 6
+  - phrase: "Com que \xE2nsia t\xE3o raiva"
+    splitText: "Com que \xE2n-sia t\xE3o rai-va"
+    nSyllables: 7
+  - phrase: Quero aquele outrora!
+    splitText: Que-ro aque-le ou-tro-ra!
+    nSyllables: 7
+  - phrase: "E eu era feliz? N\xE3o sei:"
+    splitText: "E eu era fe-liz? N\xE3o sei:"
+    nSyllables: 7
+  - phrase: Fui-o outrora agora.
+    splitText: Fui-o ou-tro-ra ago-ra.
+    nSyllables: 7
+  - phrase: "P\xF5e-me as m\xE3os nos ombros..."
+    splitText: "P\xF5e--me as m\xE3os nos om-bros..."
+    nSyllables: 8
+  - phrase: Beija-me na fronte...
+    splitText: Bei-ja--me na fron-te...
+    nSyllables: 7
+  - phrase: "Minha vida \xE9 escombros,"
+    splitText: "Mi-nha vi-da \xE9 es-com-bros,"
+    nSyllables: 8
+  - phrase: A minha alma insonte.
+    splitText: A mi-nha al-ma in-son-te.
+    nSyllables: 8
+  - phrase: "Eu n\xE3o sei por qu\xEA,"
+    splitText: "Eu n\xE3o sei por qu\xEA,"
+    nSyllables: 5
+  - phrase: Meu desde onde venho,
+    splitText: Meu des-de on-de ve-nho,
+    nSyllables: 7
+  - phrase: "Sou o ser que v\xEA,"
+    splitText: "Sou o ser que v\xEA,"
+    nSyllables: 5
+  - phrase: "E v\xEA tudo estranho."
+    splitText: "E v\xEA tu-do es-tra-nho."
+    nSyllables: 7
+  - phrase: "P\xF5e a tua m\xE3o"
+    splitText: "P\xF5e a tua m\xE3o"
+    nSyllables: 4
+  - phrase: Sobre o meu cabelo...
+    splitText: So-bre o meu ca-be-lo...
+    nSyllables: 7
+  - phrase: "Tudo \xE9 ilus\xE3o."
+    splitText: "Tu-do \xE9 ilu-s\xE3o."
+    nSyllables: 5
+  - phrase: "Sonhar \xE9 sab\xEA-lo."
+    splitText: "So-nhar \xE9 sa-b\xEA--lo."
+    nSyllables: 7
+  - phrase: "Sonho. N\xE3o sei quem sou."
+    splitText: "So-nho. N\xE3o sei quem sou."
+    nSyllables: 6
+  - phrase: "Sonho. N\xE3o sei quem sou neste momento."
+    splitText: "So-nho. N\xE3o sei quem sou nes-te mo-men-to."
+    nSyllables: 11
+  - phrase: Durmo sentindo-me. Na hora calma
+    splitText: Dur-mo sen-tin-do--me. Na ho-ra cal-ma
+    nSyllables: 12
+  - phrase: Meu pensamento esquece o pensamento,
+    splitText: Meu pen-sa-men-to es-que-ce o pen-sa-men-to,
+    nSyllables: 13
+  - phrase: "Minha alma n\xE3o tem alma."
+    splitText: "Mi-nha al-ma n\xE3o tem al-ma."
+    nSyllables: 8
+  - phrase: "Se existo \xE9 um erro eu o saber. Se acordo"
+    splitText: "Se exis-to \xE9 um er-ro eu o sa-ber. Se acor-do"
+    nSyllables: 14
+  - phrase: "Parece que erro. Sinto que n\xE3o sei."
+    splitText: "Pa-re-ce que er-ro. Sin-to que n\xE3o sei."
+    nSyllables: 11
+  - phrase: Nada quero nem tenho nem recordo.
+    splitText: Na-da que-ro nem te-nho nem re-cor-do.
+    nSyllables: 11
+  - phrase: "N\xE3o tenho ser nem lei."
+    splitText: "N\xE3o te-nho ser nem lei."
+    nSyllables: 6
+  - phrase: "Lapso da consci\xEAncia entre ilus\xF5es,"
+    splitText: "Lap-so da cons-ci-\xEAn-cia en-tre ilu-s\xF5es,"
+    nSyllables: 11
+  - phrase: "Fantasmas me limitam e me cont\xEAm."
+    splitText: "Fan-tas-mas me li-mi-tam e me con-t\xEAm."
+    nSyllables: 11
+  - phrase: "Dorme insciente de alheios cora\xE7\xF5es,"
+    splitText: "Dor-me ins-ci-en-te de alhei-os co-ra-\xE7\xF5es,"
+    nSyllables: 12
+  - phrase: "Cora\xE7\xE3o de ningu\xE9m."
+    splitText: "Co-ra-\xE7\xE3o de nin-gu\xE9m."
+    nSyllables: 6
+  - phrase: "Sorriso aud\xEDvel das folhas"
+    splitText: "Sor-ri-so au-d\xED-vel das fo-lhas"
+    nSyllables: 9
+  - phrase: "N\xE3o \xE9s mais que a brisa ali"
+    splitText: "N\xE3o \xE9s mais que a bri-sa ali"
+    nSyllables: 8
+  - phrase: Se eu te olho e tu me olhas,
+    splitText: Se eu te olho e tu me olhas,
+    nSyllables: 8
+  - phrase: "Quem primeiro \xE9 que sorri?"
+    splitText: "Quem pri-mei-ro \xE9 que sor-ri?"
+    nSyllables: 8
+  - phrase: O primeiro a sorrir ri.
+    splitText: O pri-mei-ro a sor-rir ri.
+    nSyllables: 8
+  - phrase: Ri e olha de repente
+    splitText: Ri e olha de re-pen-te
+    nSyllables: 7
+  - phrase: "Para fins de n\xE3o olhar"
+    splitText: "Pa-ra fins de n\xE3o olhar"
+    nSyllables: 6
+  - phrase: Para onde nas folhas sente
+    splitText: Pa-ra on-de nas fo-lhas sen-te
+    nSyllables: 9
+  - phrase: O som do vento a passar
+    splitText: O som do ven-to a pas-sar
+    nSyllables: 8
+  - phrase: "Tudo \xE9 vento e disfar\xE7ar."
+    splitText: "Tu-do \xE9 ven-to e dis-far-\xE7ar."
+    nSyllables: 9
+  - phrase: Mas o olhar, de estar olhando
+    splitText: Mas o olhar, de es-tar olhan-do
+    nSyllables: 8
+  - phrase: "Onde n\xE3o olha, voltou"
+    splitText: "On-de n\xE3o olha, vol-tou"
+    nSyllables: 6
+  - phrase: E estamos os dois falando
+    splitText: E es-ta-mos os dois fa-lan-do
+    nSyllables: 9
+  - phrase: "O que se n\xE3o conversou"
+    splitText: "O que se n\xE3o con-ver-sou"
+    nSyllables: 7
+  - phrase: "Isto acaba ou come\xE7ou?"
+    splitText: "Is-to aca-ba ou co-me-\xE7ou?"
+    nSyllables: 8
+  - phrase: Tenho Tanto Sentimento
+    splitText: Te-nho Tan-to Sen-ti-men-to
+    nSyllables: 8
+  - phrase: Tenho tanto sentimento
+    splitText: Te-nho tan-to sen-ti-men-to
+    nSyllables: 8
+  - phrase: "Que \xE9 freq\xFCente persuadir-me"
+    splitText: "Que \xE9 freq\xFCen-te per-su-a-dir--me"
+    nSyllables: 10
+  - phrase: De que sou sentimental,
+    splitText: De que sou sen-ti-men-tal,
+    nSyllables: 7
+  - phrase: "Mas reconhe\xE7o, ao medir-me,"
+    splitText: "Mas re-co-nhe-\xE7o, ao me-dir--me,"
+    nSyllables: 10
+  - phrase: "Que tudo isso \xE9 pensamento,"
+    splitText: "Que tu-do is-so \xE9 pen-sa-men-to,"
+    nSyllables: 10
+  - phrase: "Que n\xE3o senti afinal."
+    splitText: "Que n\xE3o sen-ti afi-nal."
+    nSyllables: 6
+  - phrase: Temos, todos que vivemos,
+    splitText: Te-mos, to-dos que vi-ve-mos,
+    nSyllables: 8
+  - phrase: "Uma vida que \xE9 vivida"
+    splitText: "Uma vi-da que \xE9 vi-vi-da"
+    nSyllables: 8
+  - phrase: "E outra vida que \xE9 pensada,"
+    splitText: "E ou-tra vi-da que \xE9 pen-sa-da,"
+    nSyllables: 10
+  - phrase: "E a \xFAnica vida que temos"
+    splitText: "E a \xFAni-ca vi-da que te-mos"
+    nSyllables: 9
+  - phrase: "\xC9 essa que \xE9 dividida"
+    splitText: "\xC9 es-sa que \xE9 di-vi-di-da"
+    nSyllables: 9
+  - phrase: Entre a verdadeira e a errada.
+    splitText: En-tre a ver-da-dei-ra e a er-ra-da.
+    nSyllables: 12
+  - phrase: "Qual por\xE9m \xE9 a verdadeira"
+    splitText: "Qual po-r\xE9m \xE9 a ver-da-dei-ra"
+    nSyllables: 9
+  - phrase: "E qual errada, ningu\xE9m"
+    splitText: "E qual er-ra-da, nin-gu\xE9m"
+    nSyllables: 7
+  - phrase: "Nos saber\xE1 explicar;"
+    splitText: "Nos sa-be-r\xE1 ex-pli-car;"
+    nSyllables: 7
+  - phrase: E vivemos de maneira
+    splitText: E vi-ve-mos de ma-nei-ra
+    nSyllables: 8
+  - phrase: Que a vida que a gente tem
+    splitText: Que a vi-da que a gen-te tem
+    nSyllables: 9
+  - phrase: "\xC9 a que tem que pensar."
+    splitText: "\xC9 a que tem que pen-sar."
+    nSyllables: 7
+  - phrase: Teus olhos entristecem.
+    splitText: Teus olhos en-tris-te-cem.
+    nSyllables: 6
+  - phrase: Teus olhos entristecem
+    splitText: Teus olhos en-tris-te-cem
+    nSyllables: 6
+  - phrase: Nem ouves o que digo.
+    splitText: Nem ou-ves o que di-go.
+    nSyllables: 7
+  - phrase: Dormem, sonham esquecem...
+    splitText: Dor-mem, so-nham es-que-cem...
+    nSyllables: 7
+  - phrase: "N\xE3o me ouves, e prossigo."
+    splitText: "N\xE3o me ou-ves, e pros-si-go."
+    nSyllables: 8
+  - phrase: "Digo o que j\xE1, de triste,"
+    splitText: "Di-go o que j\xE1, de tris-te,"
+    nSyllables: 8
+  - phrase: Te disse tanta vez...
+    splitText: Te dis-se tan-ta vez...
+    nSyllables: 6
+  - phrase: Creio que nunca o ouviste
+    splitText: Creio que nun-ca o ou-vis-te
+    nSyllables: 8
+  - phrase: "De t\xE3o tua que \xE9s."
+    splitText: "De t\xE3o tua que \xE9s."
+    nSyllables: 5
+  - phrase: Olhas-me de repente
+    splitText: Olhas--me de re-pen-te
+    nSyllables: 7
+  - phrase: De um distante impreciso
+    splitText: De um dis-tan-te im-pre-ci-so
+    nSyllables: 9
+  - phrase: Com um olhar ausente.
+    splitText: Com um olhar au-sen-te.
+    nSyllables: 6
+  - phrase: "Come\xE7as um sorriso."
+    splitText: "Co-me-\xE7as um sor-ri-so."
+    nSyllables: 7
+  - phrase: Continuo a falar.
+    splitText: Con-ti-nuo a fa-lar.
+    nSyllables: 6
+  - phrase: Continuas ouvindo
+    splitText: Con-ti-nu-as ou-vin-do
+    nSyllables: 7
+  - phrase: "O que est\xE1s a pensar,"
+    splitText: "O que es-t\xE1s a pen-sar,"
+    nSyllables: 7
+  - phrase: "J\xE1 quase n\xE3o sorrindo."
+    splitText: "J\xE1 qua-se n\xE3o sor-rin-do."
+    nSyllables: 7
+  - phrase: "At\xE9 que neste ocioso"
+    splitText: "At\xE9 que nes-te oci-o-so"
+    nSyllables: 7
+  - phrase: "Sumir da tarde f\xFAtil,"
+    splitText: "Su-mir da tar-de f\xFA-til,"
+    nSyllables: 7
+  - phrase: Se esfolha silencioso
+    splitText: Se es-fo-lha si-len-ci-o-so
+    nSyllables: 9
+  - phrase: "O teu sorriso in\xFAtil."
+    splitText: "O teu sor-ri-so in\xFA-til."
+    nSyllables: 7
+  - phrase: Tomamos a Vila depois de um Intenso Bombardeamento
+    splitText: To-ma-mos a Vi-la de-pois de um In-ten-so Bom-bar-de-a-men-to
+    nSyllables: 19
+  - phrase: "A crian\xE7a loura"
+    splitText: "A cri-an-\xE7a lou-ra"
+    nSyllables: 6
+  - phrase: Jaz no meio da rua.
+    splitText: Jaz no meio da ru-a.
+    nSyllables: 6
+  - phrase: Tem as tripas de fora
+    splitText: Tem as tri-pas de fo-ra
+    nSyllables: 7
+  - phrase: E por uma corda sua
+    splitText: E por uma cor-da sua
+    nSyllables: 6
+  - phrase: Um comboio que ignora.
+    splitText: Um com-boio que ig-no-ra.
+    nSyllables: 7
+  - phrase: "A cara est\xE1 um feixe"
+    splitText: "A ca-ra es-t\xE1 um fei-xe"
+    nSyllables: 8
+  - phrase: De sangue e de nada.
+    splitText: De san-gue e de na-da.
+    nSyllables: 7
+  - phrase: Luz um pequeno peixe
+    splitText: Luz um pe-que-no pei-xe
+    nSyllables: 7
+  - phrase: "\u2014 Dos que b\xF3iam nas banheiras \u2014"
+    splitText: "\u2014 Dos que b\xF3i-am nas ba-nhei-ras \u2014"
+    nSyllables: 10
+  - phrase: "\xC0 beira da estrada."
+    splitText: "\xC0 bei-ra da es-tra-da."
+    nSyllables: 7
+  - phrase: Cai sobre a estrada o escuro.
+    splitText: Cai so-bre a es-tra-da o es-cu-ro.
+    nSyllables: 11
+  - phrase: Longe, ainda uma luz doura
+    splitText: Lon-ge, ain-da uma luz dou-ra
+    nSyllables: 8
+  - phrase: "A cria\xE7\xE3o do futuro..."
+    splitText: "A cri-a-\xE7\xE3o do fu-tu-ro..."
+    nSyllables: 8
+  - phrase: "E o da crian\xE7a loura?"
+    splitText: "E o da cri-an-\xE7a lou-ra?"
+    nSyllables: 8
+  - phrase: Vaga, no azul amplo solta
+    splitText: Va-ga, no azul am-plo sol-ta
+    nSyllables: 8
+  - phrase: Vaga, no azul amplo solta,
+    splitText: Va-ga, no azul am-plo sol-ta,
+    nSyllables: 8
+  - phrase: Vai uma nuvem errando.
+    splitText: Vai uma nu-vem er-ran-do.
+    nSyllables: 7
+  - phrase: "O meu passado n\xE3o volta."
+    splitText: "O meu pas-sa-do n\xE3o vol-ta."
+    nSyllables: 8
+  - phrase: "N\xE3o \xE9 o que estou chorando."
+    splitText: "N\xE3o \xE9 o que es-tou cho-ran-do."
+    nSyllables: 9
+  - phrase: "O que choro \xE9 diferente."
+    splitText: "O que cho-ro \xE9 di-fe-ren-te."
+    nSyllables: 9
+  - phrase: Entra mais na alma da alma.
+    splitText: En-tra mais na al-ma da al-ma.
+    nSyllables: 9
+  - phrase: "Mas como, no c\xE9u sem gente,"
+    splitText: "Mas co-mo, no c\xE9u sem gen-te,"
+    nSyllables: 8
+  - phrase: A nuvem flutua calma.
+    splitText: A nu-vem flu-tua cal-ma.
+    nSyllables: 7
+  - phrase: E isto lembra uma tristeza
+    splitText: E is-to lem-bra uma tris-te-za
+    nSyllables: 9
+  - phrase: "E a lembran\xE7a \xE9 que entristece,"
+    splitText: "E a lem-bran-\xE7a \xE9 que en-tris-te-ce,"
+    nSyllables: 11
+  - phrase: "Dou \xE0 saudade a riqueza"
+    splitText: "Dou \xE0 sau-da-de a ri-que-za"
+    nSyllables: 9
+  - phrase: "De emo\xE7\xE3o que a hora tece."
+    splitText: "De emo-\xE7\xE3o que a ho-ra te-ce."
+    nSyllables: 9
+  - phrase: Mas, em verdade, o que chora
+    splitText: Mas, em ver-da-de, o que cho-ra
+    nSyllables: 9
+  - phrase: Na minha amarga ansiedade
+    splitText: Na mi-nha amar-ga an-si-e-da-de
+    nSyllables: 10
+  - phrase: Mais alto que a nuvem mora,
+    splitText: Mais al-to que a nu-vem mo-ra,
+    nSyllables: 9
+  - phrase: "Est\xE1 para al\xE9m da saudade."
+    splitText: "Es-t\xE1 pa-ra al\xE9m da sau-da-de."
+    nSyllables: 9
+  - phrase: "N\xE3o sei o que \xE9 nem consinto"
+    splitText: "N\xE3o sei o que \xE9 nem con-sin-to"
+    nSyllables: 9
+  - phrase: "\xC0 alma que o saiba bem."
+    splitText: "\xC0 al-ma que o sai-ba bem."
+    nSyllables: 8
+  - phrase: Visto da dor com que minto
+    splitText: Vis-to da dor com que min-to
+    nSyllables: 8
+  - phrase: Dor que a minha alma tem.
+    splitText: Dor que a mi-nha al-ma tem.
+    nSyllables: 8

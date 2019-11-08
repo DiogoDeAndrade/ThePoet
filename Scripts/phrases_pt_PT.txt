@@ -1,0 +1,1585 @@
+("A lâm-pa-da ace-sa", 6)A lâmpada acesa
+("Ou-trem a acen-deu", 5)Outrem a acendeu
+("Bai-xa uma be-le-za", 6)Baixa uma beleza
+("So-bre o chão que é meu.", 7)Sobre o chão que é meu.
+("No quar-to de-ser-to", 6)No quarto deserto
+("Sal-vo o meu so-nhar,", 6)Salvo o meu sonhar,
+("Faz no chão in-cer-to", 6)Faz no chão incerto
+("Um cír-cu-lo a on-de-ar.", 8)Um círculo a ondear.
+("E en-tre a som-bra e a luz", 9)E entre a sombra e a luz
+("Que os-ci-la no chão", 6)Que oscila no chão
+("Meu so-nho con-duz", 5)Meu sonho conduz
+("Mi-nha ina-ten-ção.", 5)Minha inatenção.
+("Bem sei ... Era dia", 5)Bem sei ... Era dia
+("E lon-ge de aqui...", 5)E longe de aqui...
+("Quan-to me sor-ria", 5)Quanto me sorria
+("O que nun-ca vi!", 5)O que nunca vi!
+("E no quar-to si-len-te", 7)E no quarto silente
+("Com a luz a on-de-ar", 7)Com a luz a ondear
+("Dei-xei va-ga-men-te", 6)Deixei vagamente
+("Até de so-nhar...", 4)Até de sonhar...
+("To-ma--me, ó noi-te eter-na, nos teus bra-ços", 13)Toma-me, ó noite eterna, nos teus braços
+("E cha-ma--me teu fi-lho.", 8)E chama-me teu filho.
+("Eu sou um rei", 4)Eu sou um rei
+("que vo-lun-ta-ri-a-men-te aban-do-nei", 11)que voluntariamente abandonei
+("O meu tro-no de so-nhos e can-sa-ços.", 11)O meu trono de sonhos e cansaços.
+("Mi-nha es-pa-da, pe-sa-da a bra-ços las-sos,", 13)Minha espada, pesada a braços lassos,
+("Em mão vi-ris e cal-mas en-tre-guei;", 10)Em mão viris e calmas entreguei;
+("E meu ce-tro e co-roa — eu os dei-xei", 12)E meu cetro e coroa — eu os deixei
+("Na an-te-câ-ma-ra, fei-tos em pe-da-ços", 12)Na antecâmara, feitos em pedaços
+("Mi-nha co-ta de ma-lha, tão inú-til,", 10)Minha cota de malha, tão inútil,
+("Mi-nhas es-po-ras de um ti-nir tão fú-til,", 12)Minhas esporas de um tinir tão fútil,
+("Dei-xei-as pe-la fria es-ca-da-ri-a.", 11)Deixei-as pela fria escadaria.
+("Des-pi a re-a-le-za, cor-po e al-ma,", 12)Despi a realeza, corpo e alma,
+("E re-gres-sei à noi-te an-ti-ga e cal-ma", 13)E regressei à noite antiga e calma
+("Co-mo a pai-sa-gem ao mor-rer do di-a.", 12)Como a paisagem ao morrer do dia.
+("Olho o Te-jo, e de tal ar-te", 9)Olho o Tejo, e de tal arte
+("Que me es-que-ce olhar olhan-do,", 8)Que me esquece olhar olhando,
+("E sú-bi-to is-to me ba-te", 9)E súbito isto me bate
+("De en-con-tro ao de-va-ne-an-do —", 11)De encontro ao devaneando —
+("O que é sé-ri-o, e cor-rer?", 9)O que é sério, e correr?
+("O que é es-tá--lo eu a ver?", 10)O que é está-lo eu a ver?
+("Sin-to de re-pen-te pou-co,", 8)Sinto de repente pouco,
+("Vá-cu-o, o mo-men-to, o lu-gar.", 10)Vácuo, o momento, o lugar.
+("Tu-do de re-pen-te é oco —", 9)Tudo de repente é oco —
+("Mes-mo o meu es-tar a pen-sar.", 9)Mesmo o meu estar a pensar.
+("Tu-do — eu e o mun-do em re-dor —", 12)Tudo — eu e o mundo em redor —
+("Fi-ca mais que ex-te-ri-or.", 8)Fica mais que exterior.
+("Per-de tu-do o ser, fi-car,", 8)Perde tudo o ser, ficar,
+("E do pen-sar se me so-me.", 8)E do pensar se me some.
+("Fi-co sem po-der li-gar", 7)Fico sem poder ligar
+("Ser, idéi-a, al-ma de no-me", 8)Ser, idéia, alma de nome
+("A mim, à ter-ra e aos céus...", 8)A mim, à terra e aos céus...
+("E sú-bi-to en-con-tro Deus.", 8)E súbito encontro Deus.
+("A Gran-de Es-fin-ge do Egi-to", 9)A Grande Esfinge do Egito
+("A Gran-de Es-fin-ge do Egi-to so-nha por es-te pa-pel den-tro...", 18)A Grande Esfinge do Egito sonha por este papel dentro...
+("Es-cre-vo — e ela apa-re-ce--me atra-vés da mi-nha mão trans-pa-ren-te", 21)Escrevo — e ela aparece-me através da minha mão transparente
+("E ao can-to do pa-pel er-guem--se as pi-râ-mi-des...", 16)E ao canto do papel erguem-se as pirâmides...
+("Es-cre-vo — per-tur-bo--me de ver o bi-co da mi-nha pe-na", 19)Escrevo — perturbo-me de ver o bico da minha pena
+("Ser o per-fil do rei Quéops ...", 8)Ser o perfil do rei Quéops ...
+("De re-pen-te pa-ro...", 6)De repente paro...
+("Es-cu-re-ceu tu-do... Caio por um abis-mo fei-to de tem-po...", 16)Escureceu tudo... Caio por um abismo feito de tempo...
+("Es-tou so-ter-ra-do sob as pi-râ-mi-des a es-cre-ver ver-sos à luz cla-ra des-te", 24)Estou soterrado sob as pirâmides a escrever versos à luz clara deste
+("E to-do o Egi-to me es-ma-ga de al-to atra-vés dos tra-ços que fa-ço com", 22)E todo o Egito me esmaga de alto através dos traços que faço com
+("a pe-na...", 3)a pena...
+("Ou-ço a Es-fin-ge rir por den-tro", 10)Ouço a Esfinge rir por dentro
+("O som da mi-nha pe-na a cor-rer no pa-pel...", 13)O som da minha pena a correr no papel...
+("Atra-ves-sa o eu não po-der vê--la uma mão enor-me,", 15)Atravessa o eu não poder vê-la uma mão enorme,
+("Var-re tu-do pa-ra o can-to do te-to que fi-ca por de-trás de mim,", 20)Varre tudo para o canto do teto que fica por detrás de mim,
+("E so-bre o pa-pel on-de es-cre-vo, en-tre ele e a pe-na que es-cre-ve", 22)E sobre o papel onde escrevo, entre ele e a pena que escreve
+("Jaz o ca-dá-ver do rei Quéops, olhan-do--me com olhos mui-to aber-tos,", 18)Jaz o cadáver do rei Quéops, olhando-me com olhos muito abertos,
+("E en-tre os nos-sos olha-res que se cru-zam cor-re o Ni-lo", 17)E entre os nossos olhares que se cruzam corre o Nilo
+("E uma ale-gria de bar-cos em-ban-dei-ra-dos er-ra", 14)E uma alegria de barcos embandeirados erra
+("Nu-ma di-a-go-nal di-fu-sa", 9)Numa diagonal difusa
+("En-tre mim e o que eu pen-so...", 9)Entre mim e o que eu penso...
+("Fu-ne-rais do rei Quéops em ou-ro ve-lho e Mim! ...", 14)Funerais do rei Quéops em ouro velho e Mim! ...
+("A mi-nha vi-da é um bar-co aban-do-na-do", 13)A minha vida é um barco abandonado
+("In-fi-el, no er-mo por-to, ao seu des-ti-no.", 13)Infiel, no ermo porto, ao seu destino.
+("Por que não er-gue fer-ro e se-gue o ati-no", 13)Por que não ergue ferro e segue o atino
+("De na-ve-gar, ca-sa-do com o seu fa-do ?", 13)De navegar, casado com o seu fado ?
+("Ah! fal-ta quem o lan-ce ao mar, e ala-do", 12)Ah! falta quem o lance ao mar, e alado
+("Tor-ne seu vul-to em ve-las; pe-re-gri-no", 12)Torne seu vulto em velas; peregrino
+("Fres-cor de afas-ta-men-to, no di-vi-no", 11)Frescor de afastamento, no divino
+("Am-ple-xo da ma-nhã, pu-ro e sal-ga-do.", 12)Amplexo da manhã, puro e salgado.
+("Mor-to cor-po da ação sem von-ta-de", 10)Morto corpo da ação sem vontade
+("Que o vi-va, vul-to es-té-ril de vi-ver,", 12)Que o viva, vulto estéril de viver,
+("Boi-an-do à to-na inú-til da sau-da-de.", 12)Boiando à tona inútil da saudade.
+("Os li-mos es-ver-dei-am tua qui-lha,", 10)Os limos esverdeiam tua quilha,
+("O ven-to em-ba-la--te sem te mo-ver,", 12)O vento embala-te sem te mover,
+("E é pa-ra além do mar a an-si-a-da Ilha.", 13)E é para além do mar a ansiada Ilha.
+("A mor-te che-ga ce-do", 7)A morte chega cedo
+("A mor-te che-ga ce-do,", 7)A morte chega cedo,
+("Pois bre-ve é to-da vi-da", 8)Pois breve é toda vida
+("O ins-tan-te é o ar-re-me-do", 10)O instante é o arremedo
+("De uma coi-sa per-di-da.", 7)De uma coisa perdida.
+("O amor foi co-me-ça-do,", 7)O amor foi começado,
+("O ide-al não aca-bou,", 6)O ideal não acabou,
+("E quem te-nha al-can-ça-do", 8)E quem tenha alcançado
+("Não sa-be o que al-can-çou.", 8)Não sabe o que alcançou.
+("E tu-do is-to a mor-te", 8)E tudo isto a morte
+("Ris-ca por não es-tar cer-to", 8)Risca por não estar certo
+("No ca-der-no da sor-te", 7)No caderno da sorte
+("Que Deus dei-xou aber-to.", 6)Que Deus deixou aberto.
+("An-dei lé-guas de som-bra", 7)Andei léguas de sombra
+("Den-tro em meu pen-sa-men-to.", 8)Dentro em meu pensamento.
+("Flo-res-ceu às aves-sas", 6)Floresceu às avessas
+("Meu ócio com sem--ne-xo,", 7)Meu ócio com sem-nexo,
+("E apa-ga-ram--se as lâm-pa-das", 10)E apagaram-se as lâmpadas
+("Na al-co-va cam-ba-le-an-te.", 9)Na alcova cambaleante.
+("Tu-do pres-tes se vol-ve", 7)Tudo prestes se volve
+("Um de-ser-to ma-cio", 6)Um deserto macio
+("Vis-to pe-lo meu ta-to", 7)Visto pelo meu tato
+("Dos ve-lu-dos da al-co-va,", 8)Dos veludos da alcova,
+("Não pe-la mi-nha vis-ta.", 7)Não pela minha vista.
+("Há um oá-sis no In-cer-to", 8)Há um oásis no Incerto
+("E, co-mo uma sus-pei-ta", 7)E, como uma suspeita
+("De luz por não-há--frin-chas,", 8)De luz por não-há-frinchas,
+("Pas-sa uma ca-ra-va-na.", 7)Passa uma caravana.
+("Es-que-ce--me de sú-bi-to", 9)Esquece-me de súbito
+("Co-mo é o es-pa-ço, e o tem-po", 11)Como é o espaço, e o tempo
+("Em vez de ho-ri-zon-tal", 7)Em vez de horizontal
+("É ver-ti-cal.", 4)É vertical.
+("A al-co-va", 4)A alcova
+("Des-ce não se por on-de", 7)Desce não se por onde
+("Até não me en-con-trar.", 6)Até não me encontrar.
+("As-cen-de um le-ve fu-mo", 8)Ascende um leve fumo
+("Das mi-nhas sen-sa-ções.", 6)Das minhas sensações.
+("Dei-xo de me in-cluir", 6)Deixo de me incluir
+("Den-tro de mim. Não há", 6)Dentro de mim. Não há
+("Cá--den-tro nem lá--fo-ra.", 9)Cá-dentro nem lá-fora.
+("E o de-ser-to es-tá ago-ra", 9)E o deserto está agora
+("Vi-ra-do pa-ra bai-xo.", 7)Virado para baixo.
+("A no-ção de mo-ver--me", 8)A noção de mover-me
+("Es-que-ceu--se do meu no-me.", 9)Esqueceu-se do meu nome.
+("Na al-ma meu cor-po pe-sa--me.", 10)Na alma meu corpo pesa-me.
+("Sin-to--me um re-pos-tei-ro", 9)Sinto-me um reposteiro
+("Pen-du-ra-do na sa-la", 7)Pendurado na sala
+("On-de jaz al-guém mor-to.", 7)Onde jaz alguém morto.
+("Qual-quer coi-sa caiu", 5)Qualquer coisa caiu
+("E ti-niu no in-fi-ni-to.", 8)E tiniu no infinito.
+("Ao lon-ge, ao lu-ar", 6)Ao longe, ao luar
+("Ao lon-ge, ao lu-ar,", 6)Ao longe, ao luar,
+("No rio uma ve-la,", 5)No rio uma vela,
+("Se-re-na a pas-sar,", 6)Serena a passar,
+("Que é que me re-ve-la ?", 8)Que é que me revela ?
+("Não sei, mas meu ser", 5)Não sei, mas meu ser
+("Tor-nou--se--me es-tra-nho,", 9)Tornou-se-me estranho,
+("E eu so-nho sem ver", 6)E eu sonho sem ver
+("Os so-nhos que te-nho.", 6)Os sonhos que tenho.
+("Que an-gús-tia me en-la-ça ?", 9)Que angústia me enlaça ?
+("Que amor não se ex-pli-ca ?", 8)Que amor não se explica ?
+("É a ve-la que pas-sa", 7)É a vela que passa
+("Na noi-te que fi-ca.", 6)Na noite que fica.
+("Aqui on-de se es-pe-ra", 7)Aqui onde se espera
+("Sos-se-go, só sos-se-go", 7)Sossego, só sossego
+("Is-so que ou-tro-ra era,", 7)Isso que outrora era,
+("Aqui on-de, dor-min-do,", 6)Aqui onde, dormindo,
+("Se sen-te a noi-te vin-do,", 8)Se sente a noite vindo,
+("E na-da im-por-ta-ria", 7)E nada importaria
+("Que fos-se an-tes o di-a,", 8)Que fosse antes o dia,
+("Aqui, aqui es-ta-rei", 5)Aqui, aqui estarei
+("Co-mo no exí-lio um rei,", 7)Como no exílio um rei,
+("Go-zan-do da ven-tu-ra", 7)Gozando da ventura
+("De não ter a amar-gu-ra", 7)De não ter a amargura
+("De rei-nar, mas guar-dan-do", 7)De reinar, mas guardando
+("O no-me ve-ne-ran-do...", 7)O nome venerando...
+("Que mais quer quem des-can-sa", 7)Que mais quer quem descansa
+("Da dor e da es-pe-ran-ça,", 8)Da dor e da esperança,
+("Que ter a ne-ga-ção", 6)Que ter a negação
+("De to-do o co-ra-ção ?", 8)De todo o coração ?
+("As ho-ras pe-la ala-me-da", 8)As horas pela alameda
+("Ar-ras-tam ves-tes de se-da,", 8)Arrastam vestes de seda,
+("Ves-tes de se-da so-nha-da", 8)Vestes de seda sonhada
+("Pe-la ala-me-da alon-ga-da", 8)Pela alameda alongada
+("Sob o azu-lar do lu-ar...", 7)Sob o azular do luar...
+("E ou-ve--se no ar a ex-pi-rar A ex-pi-rar mas nun-ca ex-pi-ra Uma flau-ta que de-li-ra,", 28)E ouve-se no ar a expirar A expirar mas nunca expira Uma flauta que delira,
+("Que é mais a idéia de ou-vi--la", 10)Que é mais a idéia de ouvi-la
+("Que ou-vi--la qua-se tranqüi-la", 9)Que ouvi-la quase tranqüila
+("Pe-lo ar a on-de-ar e a ir...", 10)Pelo ar a ondear e a ir...
+("Si-lên-cio a tre-me-lu-zir...", 8)Silêncio a tremeluzir...
+("As mi-nhas An-si-e-da-des", 8)As minhas Ansiedades
+("As mi-nhas an-si-e-da-des ca-em", 10)As minhas ansiedades caem
+("Por uma es-ca-da abai-xo.", 7)Por uma escada abaixo.
+("Os meus de-se-jos ba-lou-çam--se", 10)Os meus desejos balouçam-se
+("Em meio de um jar-dim ver-ti-cal.", 9)Em meio de um jardim vertical.
+("Na Mú-mia a po-si-ção é ab-so-lu-ta-men-te exa-ta.", 16)Na Múmia a posição é absolutamente exata.
+("Mú-si-ca lon-gín-qua,", 6)Música longínqua,
+("Mú-si-ca ex-ces-si-va-men-te lon-gín-qua,", 12)Música excessivamente longínqua,
+("Pa-ra que a Vi-da pas-se", 8)Para que a Vida passe
+("E co-lher es-que-ça aos ges-tos.", 9)E colher esqueça aos gestos.
+("As-sim, sem na-da fei-to e o por fa-zer", 12)Assim, sem nada feito e o por fazer
+("Mal pen-sa-do, ou so-nha-do sem pen-sar,", 11)Mal pensado, ou sonhado sem pensar,
+("Ve-jo os meus di-as nu-los de-cor-rer,", 11)Vejo os meus dias nulos decorrer,
+("E o can-sa-ço de na-da me au-men-tar.", 12)E o cansaço de nada me aumentar.
+("Per-du-ra, sim, co-mo uma mo-ci-da-de", 11)Perdura, sim, como uma mocidade
+("Que a si mes-ma se so-bre-vi-ve, a es-pe-ran-ça,", 15)Que a si mesma se sobrevive, a esperança,
+("Mas a mes-ma es-pe-ran-ça o té-dio in-va-de,", 14)Mas a mesma esperança o tédio invade,
+("E a mes-ma fal-sa mo-ci-da-de can-sa.", 12)E a mesma falsa mocidade cansa.
+("Tê-nue pas-sar das ho-ras sem pro-vei-to,", 11)Tênue passar das horas sem proveito,
+("Le-ve cor-rer dos di-as sem ação,", 9)Leve correr dos dias sem ação,
+("Co-mo a quem com saú-de jaz no lei-to", 11)Como a quem com saúde jaz no leito
+("Ou quem sem-pre se atra-sa sem ra-zão.", 10)Ou quem sempre se atrasa sem razão.
+("Va-dio sem an-dar, meu ser iner-te", 9)Vadio sem andar, meu ser inerte
+("Con-tem-pla--me, que es-que-ço de que-rer,", 12)Contempla-me, que esqueço de querer,
+("E a tar-de ex-te-ri-or seu té-dio ver-te", 13)E a tarde exterior seu tédio verte
+("So-bre quem na-da fez e na-da que-re.", 11)Sobre quem nada fez e nada quere.
+("Inú-til vi-da, pos-ta a um can-to e ida", 12)Inútil vida, posta a um canto e ida
+("Sem que al-guém ne-la fos-se, nau sem mar,", 11)Sem que alguém nela fosse, nau sem mar,
+("Obra so-len-te-men-te por ser li-da,", 10)Obra solentemente por ser lida,
+("Ah, dei-xem--se so-nhar sem es-pe-rar!", 11)Ah, deixem-se sonhar sem esperar!
+("As tu-as mãos ter-mi-nam em se-gre-do", 11)As tuas mãos terminam em segredo
+("As tu-as mãos ter-mi-nam em se-gre-do.", 11)As tuas mãos terminam em segredo.
+("Os teus olhos são ne-gros e ma-ci-os", 10)Os teus olhos são negros e macios
+("Cris-to na cruz os teus sei-os es-gui-os", 11)Cristo na cruz os teus seios esguios
+("E o teu per-fil prin-ce-sas no de-gre-do...", 12)E o teu perfil princesas no degredo...
+("En-tre bu-xos e ao pé de ban-cos fri-os", 12)Entre buxos e ao pé de bancos frios
+("Nas en-tre-vis-tas ala-me-das, que-do", 10)Nas entrevistas alamedas, quedo
+("O ven-do põe o seu ar-ras-ta-do me-do", 12)O vendo põe o seu arrastado medo
+("Sau-do-so o lon-ges ve-las de na-vi-os.", 12)Saudoso o longes velas de navios.
+("Mas quan-do o mar su-bir na praia e for", 11)Mas quando o mar subir na praia e for
+("Ar-ra-sar os cas-te-los que na areia", 10)Arrasar os castelos que na areia
+("As cri-an-ças dei-xa-ram, meu amor,", 9)As crianças deixaram, meu amor,
+("Se-rá o ha-ver cais num mar dis-tan-te...", 11)Será o haver cais num mar distante...
+("Po-bre do rei pai das prin-ce-sas fei-as", 11)Pobre do rei pai das princesas feias
+("No seu cas-te-lo à ro-sa do Le-van-te !", 13)No seu castelo à rosa do Levante !
+("Às ve-zes en-tre a tor-men-ta", 9)Às vezes entre a tormenta
+("Às ve-zes en-tre a tor-men-ta,", 9)Às vezes entre a tormenta,
+("quan-do já ume-de-ceu,", 6)quando já umedeceu,
+("raia uma nes-ga no céu,", 6)raia uma nesga no céu,
+("com que a al-ma se ali-men-ta.", 9)com que a alma se alimenta.
+("E às ve-zes en-tre o tor-por", 9)E às vezes entre o torpor
+("que não é tor-men-ta da al-ma,", 9)que não é tormenta da alma,
+("raia uma es-pé-cie de cal-ma", 8)raia uma espécie de calma
+("que não co-nhe-ce o lan-gor.", 8)que não conhece o langor.
+("E, quer num quer nou-tro ca-so,", 8)E, quer num quer noutro caso,
+("co-mo o mal fei-to es-tá fei-to,", 10)como o mal feito está feito,
+("res-tam os ver-sos que dei-to,", 8)restam os versos que deito,
+("vi-nho no co-po do aca-so.", 8)vinho no copo do acaso.
+("Por-que ver-da-dei-ra-men-te", 8)Porque verdadeiramente
+("sen-tir é tão com-pli-ca-do", 8)sentir é tão complicado
+("que só an-dan-do en-ga-na-do", 9)que só andando enganado
+("é que se crê que se sen-te.", 8)é que se crê que se sente.
+("So-fre-mos? Os ver-sos pe-cam.", 8)Sofremos? Os versos pecam.
+("Men-ti-mos? Os ver-sos fa-lham.", 8)Mentimos? Os versos falham.
+("E tu-do é chu-vas que or-va-lham", 10)E tudo é chuvas que orvalham
+("fo-lhas caí-das que se-cam.", 7)folhas caídas que secam.
+("Atra-ves-sa es-ta pai-sa-gem o meu so-nho", 12)Atravessa esta paisagem o meu sonho
+("Atra-ves-sa es-ta pai-sa-gem o meu so-nho dum por-to in-fi-ni-to", 19)Atravessa esta paisagem o meu sonho dum porto infinito
+("E a cor das flo-res é trans-pa-ren-te de as ve-las de gran-des na-vi-os", 21)E a cor das flores é transparente de as velas de grandes navios
+("Que lar-gam do cais ar-ras-tan-do nas águas por som-bra", 14)Que largam do cais arrastando nas águas por sombra
+("Os vul-tos ao sol da-que-las ár-vo-res an-ti-gas...", 14)Os vultos ao sol daquelas árvores antigas...
+("O por-to que so-nho é som-brio e pá-li-do", 13)O porto que sonho é sombrio e pálido
+("E es-ta pai-sa-gem é cheia de sol des-te la-do...", 14)E esta paisagem é cheia de sol deste lado...
+("Mas no meu es-pí-ri-to o sol des-te dia é por-to som-brio", 17)Mas no meu espírito o sol deste dia é porto sombrio
+("E os na-vi-os que sa-em do por-to são es-tas ár-vo-res ao sol...", 19)E os navios que saem do porto são estas árvores ao sol...
+("Li-ber-to em du-plo, aban-do-nei--me da pai-sa-gem abai-xo...", 17)Liberto em duplo, abandonei-me da paisagem abaixo...
+("O vul-to do cais é a es-tra-da ní-ti-da e cal-ma", 16)O vulto do cais é a estrada nítida e calma
+("Que se le-van-ta e se er-gue co-mo um mu-ro,", 14)Que se levanta e se ergue como um muro,
+("E os na-vi-os pas-sam por den-tro dos tron-cos das ár-vo-res", 17)E os navios passam por dentro dos troncos das árvores
+("Com uma ho-ri-zon-ta-li-da-de ver-ti-cal,", 12)Com uma horizontalidade vertical,
+("E dei-xam cair amar-ras na água pe-las fo-lhas uma a uma den-tro...", 17)E deixam cair amarras na água pelas folhas uma a uma dentro...
+("Não sei quem me so-nho...", 6)Não sei quem me sonho...
+("Sú-bi-to to-da a água do mar do por-to é trans-pa-ren-te", 17)Súbito toda a água do mar do porto é transparente
+("E ve-jo no fun-do, co-mo uma es-tam-pa enor-me que lá es-ti-ves-se", 20)E vejo no fundo, como uma estampa enorme que lá estivesse
+("Es-ta pai-sa-gem to-da, ren-que de ár-vo-re, es-tra-da a ar-der em aque-le", 22)Esta paisagem toda, renque de árvore, estrada a arder em aquele
+("E a som-bra du-ma nau mais an-ti-ga que o por-to que pas-sa", 18)E a sombra duma nau mais antiga que o porto que passa
+("En-tre o meu so-nho do por-to e o meu ver es-ta pai-sa-gem", 18)Entre o meu sonho do porto e o meu ver esta paisagem
+("E che-ga ao pé de mim, e en-tra por mim den-tro,", 14)E chega ao pé de mim, e entra por mim dentro,
+("E pas-sa pa-ra o ou-tro la-do da mi-nha al-ma...", 15)E passa para o outro lado da minha alma...
+("O po-e-ta é um fin-gi-dor.", 9)O poeta é um fingidor.
+("Fin-ge tão com-ple-ta-men-te", 8)Finge tão completamente
+("Que che-ga a fin-gir que é dor", 9)Que chega a fingir que é dor
+("A dor que de-ve-ras sen-te.", 8)A dor que deveras sente.
+("E os que lêem o que es-cre-ve,", 9)E os que lêem o que escreve,
+("Na dor li-da sen-tem bem,", 7)Na dor lida sentem bem,
+("Não as du-as que ele te-ve,", 8)Não as duas que ele teve,
+("Mas só a que eles não têm.", 7)Mas só a que eles não têm.
+("E as-sim nas ca-lhas de ro-da", 9)E assim nas calhas de roda
+("Gi-ra, a en-tre-ter a ra-zão,", 9)Gira, a entreter a razão,
+("Es-se com-boio de cor-da", 7)Esse comboio de corda
+("Que se cha-ma co-ra-ção.", 7)Que se chama coração.
+("Azul, ou ver-de, ou ro-xo quan-do o sol", 11)Azul, ou verde, ou roxo quando o sol
+("O dou-ra fal-sa-men-te de ver-me-lho,", 11)O doura falsamente de vermelho,
+("O mar é ás-pe-ro, ca-su-al ou mo-le,", 12)O mar é áspero, casual ou mole,
+("É uma vez abis-mo e ou-tra es-pe-lho.", 11)É uma vez abismo e outra espelho.
+("Evo-co por-que sin-to ve-lho", 8)Evoco porque sinto velho
+("O que em mim que-re-ria mais que o mar", 11)O que em mim quereria mais que o mar
+("Já que na-da ali há por des-ven-dar.", 10)Já que nada ali há por desvendar.
+("Os gran-des ca-pi-tães e os ma-ri-nhei-ros", 12)Os grandes capitães e os marinheiros
+("Com que fi-ze-ram a na-ve-ga-ção,", 10)Com que fizeram a navegação,
+("Ja-zem lon-gín-quos, lú-gu-bres par-cei-ros", 11)Jazem longínquos, lúgubres parceiros
+("Do nos-so es-que-ci-men-to e in-gra-ti-dão.", 13)Do nosso esquecimento e ingratidão.
+("Só o mar às ve-zes, quan-do são", 9)Só o mar às vezes, quando são
+("Gran-des as on-das e é de-ve-ras mar", 11)Grandes as ondas e é deveras mar
+("Pa-re-ce in-cer-ta-men-te re-cor-dar.", 11)Parece incertamente recordar.
+("Mas so-nho... O mar é água, é água nu-a,", 11)Mas sonho... O mar é água, é água nua,
+("Ser-va do obs-cu-ro ím-pe-to dis-tan-te", 12)Serva do obscuro ímpeto distante
+("Que, co-mo a po-e-si-a, vem da lua", 11)Que, como a poesia, vem da lua
+("Que uma vez o aba-te ou-tra o le-van-ta.", 12)Que uma vez o abate outra o levanta.
+("Mas, por mais que des-can-te", 7)Mas, por mais que descante
+("So-bre a ig-no-rân-cia na-tu-ral do mar,", 12)Sobre a ignorância natural do mar,
+("Pres-sin-to-o, va-san-te, a mur-mu-rar.", 11)Pressinto-o, vasante, a murmurar.
+("Quem sa-be o que é a al-ma ? Quem co-nhe-ce", 14)Quem sabe o que é a alma ? Quem conhece
+("Que al-ma há nas coi-sas que pa-re-cem mor-tas.", 13)Que alma há nas coisas que parecem mortas.
+("Quan-to em ter-ra ou em na-da nun-ca es-que-ce.", 14)Quanto em terra ou em nada nunca esquece.
+("Quem sa-be se no es-pa-ço vá-cuo há por-tas?", 13)Quem sabe se no espaço vácuo há portas?
+("O so-nho que me exor-tas", 7)O sonho que me exortas
+("A me-di-tar as-sim a voz do mar,", 10)A meditar assim a voz do mar,
+("En-si-na--me a sa-ber--te me-di-tar.", 13)Ensina-me a saber-te meditar.
+("Ca-pi-tães, con-tra-mes-tres - to-dos nau-tas", 13)Capitães, contramestres - todos nautas
+("Da des-co-ber-ta in-fi-el de ca-da dia", 12)Da descoberta infiel de cada dia
+("Aca-so vos cha-mou de igo-no-tas flau-tas", 11)Acaso vos chamou de igonotas flautas
+("A va-ga e im-pos-sí-vel me-lo-di-a.", 12)A vaga e impossível melodia.
+("Aca-so o vos-so ou-vi-do ou-via", 10)Acaso o vosso ouvido ouvia
+("Qual-quer coi-sa do mar sem ser o mar", 10)Qualquer coisa do mar sem ser o mar
+("Se-rei-as só de ou-vir e não de achar?", 11)Sereias só de ouvir e não de achar?
+("Qeum atrás de in-tér-mi-nos oce-a-nos", 10)Qeum atrás de intérminos oceanos
+("Vos cha-mou à dis-tân-cia ou quem", 9)Vos chamou à distância ou quem
+("Sa-be que há nos co-ra-ções hu-ma-nos", 11)Sabe que há nos corações humanos
+("Não só uma ân-sia na-tu-ral de bem", 10)Não só uma ânsia natural de bem
+("Mas, mais va-ga, mais su-til tam-bém", 9)Mas, mais vaga, mais sutil também
+("Uma coi-sa que quer o som do mar", 9)Uma coisa que quer o som do mar
+("E o es-tar lon-ge de tu-do e não pa-rar.", 13)E o estar longe de tudo e não parar.
+("Se as-sim é e se vós e o mar imen-so", 12)Se assim é e se vós e o mar imenso
+("Sois qual-quer coi-sa, vós por o sen-tir", 10)Sois qualquer coisa, vós por o sentir
+("E o mar por o ser, dis-to que pen-so;", 11)E o mar por o ser, disto que penso;
+("Se no fun-do ig-no-ra-do do exis-tir", 11)Se no fundo ignorado do existir
+("Há mais al-ma que a que po-de vir", 10)Há mais alma que a que pode vir
+("À to-na vã de nós, co-mo à do mar", 11)À tona vã de nós, como à do mar
+("Fa-zei--me li-vre, en-fim , de o ig-no-rar.", 14)Fazei-me livre, enfim , de o ignorar.
+("Dai--me uma al-ma trans-pos-ta de ar-go-nau-ta,", 14)Dai-me uma alma transposta de argonauta,
+("Fa-zei que eu te-nha, co-mo o ca-pi-tão", 12)Fazei que eu tenha, como o capitão
+("Ou o con-tra-mes-tre, ou-vi-dos pa-ra a flau-ta", 14)Ou o contramestre, ouvidos para a flauta
+("Que cha-ma ao lon-ge o nos-so co-ra-ção,", 12)Que chama ao longe o nosso coração,
+("Fa-zei--me ou-vir , co-mo a um per-dão,", 13)Fazei-me ouvir , como a um perdão,
+("Nu-ma re-mi-nis-cên-cia de en-si-nar,", 11)Numa reminiscência de ensinar,
+("O an-ti-go por-tu-guês que fa-la o mar!", 12)O antigo português que fala o mar!
+("Ba-la-das de uma ou-tra ter-ra", 9)Baladas de uma outra terra
+("Ba-la-das de uma ou-tra ter-ra, ali-a-das", 12)Baladas de uma outra terra, aliadas
+("Às sau-da-des das fa-das, ama-das por gno-mos idos,", 13)Às saudades das fadas, amadas por gnomos idos,
+("Re-ti-nem lí-vi-das ain-da aos ou-vi-dos", 12)Retinem lívidas ainda aos ouvidos
+("Dos lu-a-res das al-tas noi-tes ala-das...", 11)Dos luares das altas noites aladas...
+("Pe-los ca-nais bar-cas er-ra-das", 9)Pelos canais barcas erradas
+("Se-gre-dam--se ru-mos des-cri-dos...", 10)Segredam-se rumos descridos...
+("E tres-lou-ca-das ou ca-sa-das com o som das ba-la-das,", 16)E tresloucadas ou casadas com o som das baladas,
+("As fa-das são be-las e as es-tre-las", 11)As fadas são belas e as estrelas
+("São de-las... Ei--las alhe-a-das...", 9)São delas... Ei-las alheadas...
+("E sao fu-mos os ru-mos das bar-cas so-nha-das,", 13)E sao fumos os rumos das barcas sonhadas,
+("Nos ca-nais fa-tais iguais de er-ra-das,", 10)Nos canais fatais iguais de erradas,
+("As bar-cas par-cas das fa-das,", 8)As barcas parcas das fadas,
+("Das fa-das ala-das e hi-e-mais", 9)Das fadas aladas e hiemais
+("E ca-la-das...", 4)E caladas...
+("To-a-das afas-ta-das, ir-re-ais, de ba-la-das...", 13)Toadas afastadas, irreais, de baladas...
+("Ba-te a luz no ci-mo...", 7)Bate a luz no cimo...
+("Ba-te a luz no ci-mo", 7)Bate a luz no cimo
+("Da mon-ta-nha, vê...", 5)Da montanha, vê...
+("Sem que-rer eu cis-mo", 6)Sem querer eu cismo
+("Mas não sei em quê....", 5)Mas não sei em quê....
+("Não sei que per-di", 5)Não sei que perdi
+("Ou que não achei...", 4)Ou que não achei...
+("Vi-da que vi-vi,", 5)Vida que vivi,
+("Que mal eu a amei !...", 6)Que mal eu a amei !...
+("Ho-je que-ro tan-to", 6)Hoje quero tanto
+("Que o não pos-so ter,", 6)Que o não posso ter,
+("De ma-nhã há o pran-to", 7)De manhã há o pranto
+("E ao anoi-te-cer...", 5)E ao anoitecer...
+("To-ma-ra eu ter jei-to", 7)Tomara eu ter jeito
+("Pa-ra ser fe-liz...", 5)Para ser feliz...
+("Co-mo o mun-do é es-trei-to,", 9)Como o mundo é estreito,
+("E o pou-co que eu quis !", 8)E o pouco que eu quis !
+("Vai mor-ren-do a luz", 6)Vai morrendo a luz
+("No al-to da mon-ta-nha...", 7)No alto da montanha...
+("Co-mo um rio a flux", 6)Como um rio a flux
+("A mi-nha al-ma ba-nha,", 7)A minha alma banha,
+("Mas não me aca-ri-nha,", 6)Mas não me acarinha,
+("Não me acal-ma na-da...", 6)Não me acalma nada...
+("Po-bre cri-an-ci-nha", 6)Pobre criancinha
+("Per-di-da na es-tra-da !...", 8)Perdida na estrada !...
+("Bri-lha uma Voz na Nou-te...", 7)Brilha uma Voz na Noute...
+("Bri-lha uma voz na nou-te", 7)Brilha uma voz na noute
+("De den-tro de Fo-ra ou-vi-a...", 9)De dentro de Fora ouvi-a...
+("Ó Uni-ver-so, eu sou--te...", 8)Ó Universo, eu sou-te...
+("Oh, o hor-ror da ale-gria", 7)Oh, o horror da alegria
+("Des-te pa-vor, do ar-cho-te", 8)Deste pavor, do archote
+("Se apa-gar, que me gui-a!", 7)Se apagar, que me guia!
+("Cin-zas de idéia e de no-me", 8)Cinzas de idéia e de nome
+("Em mim, e a voz:Ó mun-do,", 7)Em mim, e a voz:Ó mundo,
+("Ser-men-te em ti eu sou--me...", 9)Sermente em ti eu sou-me...
+("Me-ro eco de-mim, me inun-do", 8)Mero eco demim, me inundo
+("De on-das de ne-gro lu-me", 8)De ondas de negro lume
+("Em que pra Deus me afun-do.", 7)Em que pra Deus me afundo.
+("Sil-fos ou gno-mos to-cam?...", 7)Silfos ou gnomos tocam?...
+("Ro-çam nos pi-nhei-rais", 6)Roçam nos pinheirais
+("Som-bras e ba-fos le-ves", 7)Sombras e bafos leves
+("De rit-mos mu-si-cais.", 6)De ritmos musicais.
+("On-du-lam co-mo em vol-tas", 8)Ondulam como em voltas
+("De es-tra-das não sei on-de", 8)De estradas não sei onde
+("Ou co-mo al-guém que en-tre ár-vo-res", 11)Ou como alguém que entre árvores
+("Ora se mos-tra ou es-con-de.", 8)Ora se mostra ou esconde.
+("For-ma lon-gín-qua e in-cer-ta", 9)Forma longínqua e incerta
+("Do que eu nun-ca te-rei...", 7)Do que eu nunca terei...
+("Mal oi-ço e qua-se cho-ro.", 8)Mal oiço e quase choro.
+("Por que cho-ro não sei.", 6)Por que choro não sei.
+("Tão tê-nue me-lo-dia", 6)Tão tênue melodia
+("Que mal sei se ela exis-te", 7)Que mal sei se ela existe
+("Ou se é só o cre-pús-cu-lo,", 9)Ou se é só o crepúsculo,
+("Os pi-nhais e eu es-tar tris-te.", 9)Os pinhais e eu estar triste.
+("Mas ces-sa, co-mo uma bri-sa", 8)Mas cessa, como uma brisa
+("Es-que-ce a for-ma aos seus ais;", 9)Esquece a forma aos seus ais;
+("E ago-ra não há mais mú-si-ca", 9)E agora não há mais música
+("Do que a dos pi-nhei-rais.", 7)Do que a dos pinheirais.
+("Can-sa Sen-tir Quan-do se Pen-sa", 9)Cansa Sentir Quando se Pensa
+("Can-sa sen-tir quan-do se pen-sa.", 9)Cansa sentir quando se pensa.
+("No ar da noi-te a ma-dru-gar", 9)No ar da noite a madrugar
+("Há uma so-li-dão imen-sa", 7)Há uma solidão imensa
+("Que tem por cor-po o frio do ar.", 9)Que tem por corpo o frio do ar.
+("Nes-te mo-men-to in-so-ne e tris-te", 11)Neste momento insone e triste
+("Em que não sei quem hei de ser,", 8)Em que não sei quem hei de ser,
+("Pe-sa--me o in-for-me re-al que exis-te", 13)Pesa-me o informe real que existe
+("Na noi-te an-tes de ama-nhe-cer.", 9)Na noite antes de amanhecer.
+("Tu-do is-to me pa-re-ce tu-do.", 10)Tudo isto me parece tudo.
+("E é uma noi-te a ter um fim", 9)E é uma noite a ter um fim
+("Um ne-gro as-tral si-lên-cio sur-do", 10)Um negro astral silêncio surdo
+("E não po-der vi-ver as-sim.", 8)E não poder viver assim.
+("Mas noi-te, fri-o, ne-gror sem fim,", 9)Mas noite, frio, negror sem fim,
+("Mun-do mu-do, si-lên-cio mu-do Ah, na-da é is-to, na-da é as-sim!", 20)Mundo mudo, silêncio mudo Ah, nada é isto, nada é assim!
+("Cer-ca de gran-des mu-ros quem te so-nhas", 11)Cerca de grandes muros quem te sonhas
+("Cer-ca de gran-des mu-ros quem te so-nhas.", 11)Cerca de grandes muros quem te sonhas.
+("De-pois, on-de é vi-sí-vel o jar-dim", 11)Depois, onde é visível o jardim
+("Atra-vés do por-tão de gra-de da-da,", 10)Através do portão de grade dada,
+("Põe quan-tas flo-res são as mais ri-so-nhas,", 11)Põe quantas flores são as mais risonhas,
+("Pa-ra que te co-nhe-çam só as-sim.", 10)Para que te conheçam só assim.
+("On-de nin-guém o vir não po-nhas na-da.", 11)Onde ninguém o vir não ponhas nada.
+("Fa-ze can-tei-ros co-mo os que ou-tros têm,", 12)Faze canteiros como os que outros têm,
+("On-de os olha-res pos-sam en-tre-ver", 10)Onde os olhares possam entrever
+("O teu jar-dim com lho vais mos-trar.", 9)O teu jardim com lho vais mostrar.
+("Mas on-de és teu, e nun-ca o vê nin-guém,", 12)Mas onde és teu, e nunca o vê ninguém,
+("Dei-xa as flo-res que vêm do chão cres-cer", 11)Deixa as flores que vêm do chão crescer
+("E dei-xa as er-vas na-tu-rais me-drar.", 11)E deixa as ervas naturais medrar.
+("Fa-ze de ti um du-plo ser guar-da-do;", 11)Faze de ti um duplo ser guardado;
+("E que nin-guém, que ve-ja e fi-te, pos-sa", 12)E que ninguém, que veja e fite, possa
+("Sa-ber mais que um jar-dim de quem tu és Um jar-dim os-ten-si-vo e re-ser-va-do,", 23)Saber mais que um jardim de quem tu és Um jardim ostensivo e reservado,
+("Por trás do qual a flor na-ti-va ro-ça", 11)Por trás do qual a flor nativa roça
+("A er-va tão po-bre que nem tu a vês...", 11)A erva tão pobre que nem tu a vês...
+("Ces-sa o teu can-to!", 6)Cessa o teu canto!
+("Ces-sa, que, en-quan-to", 6)Cessa, que, enquanto
+("O ou-vi, ou-via", 5)O ouvi, ouvia
+("Uma ou-tra voz", 4)Uma outra voz
+("Com que vin-do", 4)Com que vindo
+("Nos in-ters-tí-ci-os", 6)Nos interstícios
+("Do bran-do en-can-to", 6)Do brando encanto
+("Com que o teu can-to", 6)Com que o teu canto
+("Vi-nha até nós.", 4)Vinha até nós.
+("Ou-vi--te e ou-vi-a", 8)Ouvi-te e ouvi-a
+("No mes-mo tem-po", 5)No mesmo tempo
+("E di-fe-ren-tes", 5)E diferentes
+("Jun-tas can-tar.", 4)Juntas cantar.
+("E a me-lo-dia", 5)E a melodia
+("Que não ha-vi-a.", 5)Que não havia.
+("Se ago-ra a lem-bro,", 6)Se agora a lembro,
+("Faz--me cho-rar.", 5)Faz-me chorar.
+("Cho-ve. É dia de Na-tal", 7)Chove. É dia de Natal
+("Cho-ve. É dia de Na-tal.", 7)Chove. É dia de Natal.
+("Lá pa-ra o Nor-te é me-lhor:", 9)Lá para o Norte é melhor:
+("Há a ne-ve que faz mal,", 7)Há a neve que faz mal,
+("E o frio que ain-da é pi-or.", 9)E o frio que ainda é pior.
+("E to-da a gen-te é con-ten-te", 10)E toda a gente é contente
+("Por-que é dia de o fi-car.", 8)Porque é dia de o ficar.
+("Cho-ve no Na-tal pre-sen-te.", 8)Chove no Natal presente.
+("An-tes is-so que ne-var.", 7)Antes isso que nevar.
+("Pois ape-sar de ser es-se", 7)Pois apesar de ser esse
+("O Na-tal da con-ven-ção,", 7)O Natal da convenção,
+("Quan-do o cor-po me ar-re-fe-ce", 10)Quando o corpo me arrefece
+("Te-nho o frio e Na-tal não.", 8)Tenho o frio e Natal não.
+("Dei-xo sen-tir a quem qua-dra", 8)Deixo sentir a quem quadra
+("E o Na-tal a quem o fez,", 8)E o Natal a quem o fez,
+("Pois se es-cre-vo ain-da ou-tra qua-dra", 11)Pois se escrevo ainda outra quadra
+("Fi-co ge-la-do dos pés.", 7)Fico gelado dos pés.
+("Cho-ve. Há si-lên-ci-o, por-que a mes-ma chu-va", 14)Chove. Há silêncio, porque a mesma chuva
+("Não faz ruí-do se-não com sos-se-go.", 10)Não faz ruído senão com sossego.
+("Cho-ve. O céu dor-me. Quan-do a al-ma é viú-va", 14)Chove. O céu dorme. Quando a alma é viúva
+("Do que não sa-be, o sen-ti-men-to é ce-go.", 13)Do que não sabe, o sentimento é cego.
+("Cho-ve. Meu ser quem sou re-ne-go...", 9)Chove. Meu ser quem sou renego...
+("Tão cal-ma é a chu-va que se sol-ta no ar", 13)Tão calma é a chuva que se solta no ar
+("Nem pa-re-ce de nu-vens que pa-re-ce", 11)Nem parece de nuvens que parece
+("Que não é chu-va, mas um sus-sur-rar", 10)Que não é chuva, mas um sussurrar
+("Que de si mes-mo, ao sus-sur-rar, se es-que-ce.", 13)Que de si mesmo, ao sussurrar, se esquece.
+("Cho-ve. Na-da ape-te-ce...", 7)Chove. Nada apetece...
+("Não pai-ra ven-to, não há céu que eu sin-ta.", 12)Não paira vento, não há céu que eu sinta.
+("Cho-ve lon-gín-qua e in-dis-tin-ta-men-te,", 12)Chove longínqua e indistintamente,
+("Co-mo uma coi-sa cer-ta que nos min-ta,", 11)Como uma coisa certa que nos minta,
+("Co-mo um gran-de de-se-jo que nos men-te.", 12)Como um grande desejo que nos mente.
+("Cho-ve. Na-da em mim sen-te...", 8)Chove. Nada em mim sente...
+("Cho-ve ? Ne-nhu-ma chu-va cai...", 9)Chove ? Nenhuma chuva cai...
+("En-tão on-de é que eu sin-to um dia", 11)Então onde é que eu sinto um dia
+("Em que ruí-do da chu-va atrai", 8)Em que ruído da chuva atrai
+("A mi-nha inú-til ago-nia ?", 8)A minha inútil agonia ?
+("On-de é que cho-ve, que eu o ou-ço ?", 12)Onde é que chove, que eu o ouço ?
+("On-de é que é tris-te, ó cla-ro céu ?", 12)Onde é que é triste, ó claro céu ?
+("Eu que-ro sor-rir--te, e não pos-so,", 11)Eu quero sorrir-te, e não posso,
+("Ó céu azul, cha-mar--te meu...", 8)Ó céu azul, chamar-te meu...
+("E o es-cu-ro ruí-do da chu-va", 10)E o escuro ruído da chuva
+("É cons-tan-te em meu pen-sa-men-to.", 10)É constante em meu pensamento.
+("Meu ser é a in-vi-sí-vel cur-va", 10)Meu ser é a invisível curva
+("Tra-ça-da pe-lo som do ven-to...", 9)Traçada pelo som do vento...
+("E eis que an-te o sol e o azul do di-a,", 13)E eis que ante o sol e o azul do dia,
+("Co-mo se a ho-ra me es-tor-vas-se,", 11)Como se a hora me estorvasse,
+("Eu so-fro... E a luz e a sua ale-gria", 11)Eu sofro... E a luz e a sua alegria
+("Cai aos meus pés co-mo um dis-far-ce.", 10)Cai aos meus pés como um disfarce.
+("Ah, na mi-nha al-ma sem-pre cho-ve.", 10)Ah, na minha alma sempre chove.
+("Há sem-pre es-cu-ro den-tro de mim.", 10)Há sempre escuro dentro de mim.
+("Se es-cu-ro, al-guém den-tro de mim ou-ve", 12)Se escuro, alguém dentro de mim ouve
+("A chu-va, co-mo a voz de um fim...", 10)A chuva, como a voz de um fim...
+("Os céus da tua fa-ce, e os der-ra-dei-ros", 12)Os céus da tua face, e os derradeiros
+("Tons do po-en-te se-gre-dam nas ar-ca-das...", 12)Tons do poente segredam nas arcadas...
+("No claus-tro seqües-tran-do a lu-ci-dez", 10)No claustro seqüestrando a lucidez
+("Um es-pas-mo apa-ga-do em ódio à ân-sia", 12)Um espasmo apagado em ódio à ânsia
+("Põe di-as de ilhas vis-tas do con-vés", 10)Põe dias de ilhas vistas do convés
+("No meu can-sa-ço per-di-do en-tre os ge-los,", 13)No meu cansaço perdido entre os gelos,
+("E a cor do ou-to-no é um fu-ne-ral de ape-los", 15)E a cor do outono é um funeral de apelos
+("Pe-la es-tra-da da mi-nha dis-so-nân-ci-a...", 13)Pela estrada da minha dissonância...
+("Co-me-ça a ir ser dia", 7)Começa a ir ser dia
+("Co-me-ça a ir ser di-a,", 8)Começa a ir ser dia,
+("O céu ne-gro co-me-ça,", 7)O céu negro começa,
+("Nu-ma me-nor ne-gru-ra", 7)Numa menor negrura
+("Da sua noi-te es-cu-ra,", 7)Da sua noite escura,
+("A Ter uma cor fria", 5)A Ter uma cor fria
+("On-de a ne-gru-ra ces-sa.", 8)Onde a negrura cessa.
+("Um ne-gro azul--cin-zen-to", 8)Um negro azul-cinzento
+("Emer-ge va-ga-men-te", 6)Emerge vagamente
+("De on-de o ori-en-te dor-me", 9)De onde o oriente dorme
+("Seu tar-do so-no in-for-me,", 8)Seu tardo sono informe,
+("E há um frio sem ven-to", 7)E há um frio sem vento
+("Que se ou-ve e mal se sen-te.", 9)Que se ouve e mal se sente.
+("Mas eu, o mal--dor-mi-do,", 8)Mas eu, o mal-dormido,
+("Não sin-to noi-te ou fri-o,", 8)Não sinto noite ou frio,
+("Nem sin-to vir o dia", 6)Nem sinto vir o dia
+("Da so-li-dão va-zi-a.", 7)Da solidão vazia.
+("Só sin-to o in-de-fi-ni-do", 9)Só sinto o indefinido
+("Do co-ra-ção va-zi-o.", 7)Do coração vazio.
+("Em vão o dia che-ga", 6)Em vão o dia chega
+("Quem não dor-me, a quem", 6)Quem não dorme, a quem
+("Não tem que ter ra-zão", 6)Não tem que ter razão
+("Den-tro do co-ra-ção,", 6)Dentro do coração,
+("Que quan-do vi-ve ne-ga", 7)Que quando vive nega
+("E quan-do ama não tem.", 6)E quando ama não tem.
+("Em vão, em vão, e o céu", 7)Em vão, em vão, e o céu
+("Azu-la--se de ver-de", 7)Azula-se de verde
+("Que é is-to que a mi-nha al-ma sen-te ?", 13)Que é isto que a minha alma sente ?
+("Nem is-to, não, nem eu,", 6)Nem isto, não, nem eu,
+("Na noi-te que se per-de.", 7)Na noite que se perde.
+("Co-mo a noi-te é lon-ga !", 9)Como a noite é longa !
+("To-da a noi-te é as-sim...", 8)Toda a noite é assim...
+("Sen-ta--te, ama, per-to", 7)Senta-te, ama, perto
+("Do lei-to on-de es-per-to.", 8)Do leito onde esperto.
+("Vem p'r'ao pé de mim...", 5)Vem p'r'ao pé de mim...
+("Amei tan-ta coi-sa...", 5)Amei tanta coisa...
+("Ho-je na-da exis-te.", 6)Hoje nada existe.
+("Aqui ao pé da ca-ma", 6)Aqui ao pé da cama
+("Can-ta--me, mi-nha ama,", 7)Canta-me, minha ama,
+("Uma can-ção tris-te.", 5)Uma canção triste.
+("Era uma prin-ce-sa", 5)Era uma princesa
+("Que amou... Já não sei...", 5)Que amou... Já não sei...
+("Co-mo es-tou es-que-ci-do !", 9)Como estou esquecido !
+("Can-ta--me ao ou-vi-do", 8)Canta-me ao ouvido
+("E ador-me-ce-rei...", 5)E adormecerei...
+("Que é fei-to de tu-do ?", 8)Que é feito de tudo ?
+("Que fiz eu de mim?", 5)Que fiz eu de mim?
+("Dei-xa--me dor-mir,", 6)Deixa-me dormir,
+("Dor-mir a sor-rir", 5)Dormir a sorrir
+("E se-ja is-to o fim.", 7)E seja isto o fim.
+("Co-mo inú-til ta-ça cheia", 7)Como inútil taça cheia
+("Que nin-guém er-gue da me-sa,", 8)Que ninguém ergue da mesa,
+("Trans-bor-da de dor alheia", 6)Transborda de dor alheia
+("Meu co-ra-ção sem tris-te-za.", 8)Meu coração sem tristeza.
+("So-nhos de má-goa fi-gu-ra", 8)Sonhos de mágoa figura
+("Só pa-ra Ter que sen-tir", 7)Só para Ter que sentir
+("E as-sim não tem a amar-gu-ra", 9)E assim não tem a amargura
+("Que se te-meu a fin-gir.", 7)Que se temeu a fingir.
+("Fic-ção num pal-co sem tá-bu-as", 9)Ficção num palco sem tábuas
+("Ves-ti-da de pa-pel se-da", 8)Vestida de papel seda
+("Mi-ma uma dan-ça de má-go-as", 9)Mima uma dança de mágoas
+("Pa-ra que na-da su-ce-da.", 8)Para que nada suceda.
+("Co-mo uma voz de fon-te que ces-sas-se", 11)Como uma voz de fonte que cessasse
+("E uns pa-ra os ou-tros nos-sos vãos olha-res", 12)E uns para os outros nossos vãos olhares
+("Se ad-mi-ra-ram, p'-ra além dos meus pal-ma-res", 13)Se admiraram, p'ra além dos meus palmares
+("De so-nho, a voz que do meu té-dio nas-ce", 12)De sonho, a voz que do meu tédio nasce
+("Pa-rou... Apa-re-ceu já sem dis-far-ce", 10)Parou... Apareceu já sem disfarce
+("De mú-si-ca lon-gín-qua, asas nos ares,", 10)De música longínqua, asas nos ares,
+("O mis-té-rio si-len-te co-mo os ma-res,", 12)O mistério silente como os mares,
+("Quan-do mor-reu o ven-to e a cal-ma pas-ce...", 13)Quando morreu o vento e a calma pasce...
+("A pai-sa-gem lon-gín-qua só exis-te", 10)A paisagem longínqua só existe
+("Pa-ra ha-ver ne-la um si-lên-cio em des-ci-da", 14)Para haver nela um silêncio em descida
+("P'-ra o mis-té-ri-o, si-lên-cio a que a ho-ra as-sis-te...", 18)P'ra o mistério, silêncio a que a hora assiste...
+("E, per-to ou lon-ge, gran-de la-go mu-do,", 12)E, perto ou longe, grande lago mudo,
+("O mun-do, o in-for-me mun-do on-de há a vi-da...", 15)O mundo, o informe mundo onde há a vida...
+("E Deus, a Gran-de Ogi-va ao fim de tu-do...", 12)E Deus, a Grande Ogiva ao fim de tudo...
+("Con-ta a len-da que dor-mia", 8)Conta a lenda que dormia
+("Uma Prin-ce-sa en-can-ta-da", 8)Uma Princesa encantada
+("A quem só des-per-ta-ria", 7)A quem só despertaria
+("Um In-fan-te, que vi-ria", 7)Um Infante, que viria
+("De além do mu-ro da es-tra-da.", 9)De além do muro da estrada.
+("Ele ti-nha que, ten-ta-do,", 7)Ele tinha que, tentado,
+("Ven-cer o mal e o bem,", 7)Vencer o mal e o bem,
+("An-tes que, já li-ber-ta-do,", 8)Antes que, já libertado,
+("Dei-xas-se o ca-mi-nho er-ra-do", 10)Deixasse o caminho errado
+("Por o que à Prin-ce-sa vem.", 8)Por o que à Princesa vem.
+("A Prin-ce-sa Ador-me-ci-da,", 8)A Princesa Adormecida,
+("Se es-pe-ra, dor-min-do es-pe-ra.", 10)Se espera, dormindo espera.
+("So-nha em mor-te a sua vi-da,", 9)Sonha em morte a sua vida,
+("E or-na--lhe a fron-te es-que-ci-da,", 12)E orna-lhe a fronte esquecida,
+("Ver-de, uma gri-nal-da de he-ra.", 9)Verde, uma grinalda de hera.
+("Lon-ge o In-fan-te, es-for-ça-do,", 10)Longe o Infante, esforçado,
+("Sem sa-ber que in-tui-to tem,", 8)Sem saber que intuito tem,
+("Rom-pe o ca-mi-nho fa-da-do.", 9)Rompe o caminho fadado.
+("Ele de-la é ig-no-ra-do.", 8)Ele dela é ignorado.
+("Ela pa-ra ele é nin-guém.", 7)Ela para ele é ninguém.
+("Mas ca-da um cum-pre o Des-ti-no Ela dor-min-do en-can-ta-da,", 18)Mas cada um cumpre o Destino Ela dormindo encantada,
+("Ele bus-can-do-a sem ti-no", 8)Ele buscando-a sem tino
+("Pe-lo pro-ces-so di-vi-no", 8)Pelo processo divino
+("Que faz exis-tir a es-tra-da.", 8)Que faz existir a estrada.
+("E, se bem que se-ja obs-cu-ro", 9)E, se bem que seja obscuro
+("Tu-do pe-la es-tra-da fo-ra,", 9)Tudo pela estrada fora,
+("E fal-so, ele vem se-gu-ro,", 8)E falso, ele vem seguro,
+("E, ven-cen-do es-tra-da e mu-ro,", 10)E, vencendo estrada e muro,
+("Che-ga on-de em so-no ela mo-ra.", 10)Chega onde em sono ela mora.
+("E, in-da ton-to do que hou-ve-ra,", 10)E, inda tonto do que houvera,
+("Ã ca-be-ça, em ma-re-si-a,", 9)Ã cabeça, em maresia,
+("Er-gue a mão, e en-con-tra he-ra,", 10)Ergue a mão, e encontra hera,
+("E vê que ele mes-mo era", 7)E vê que ele mesmo era
+("A Prin-ce-sa que dor-mi-a.", 8)A Princesa que dormia.
+("Con-tem-plo o la-go mu-do", 8)Contemplo o lago mudo
+("Que uma bri-sa es-tre-me-ce.", 8)Que uma brisa estremece.
+("Não sei se pen-so em tu-do", 8)Não sei se penso em tudo
+("Ou se tu-do me es-que-ce.", 8)Ou se tudo me esquece.
+("O la-go na-da me diz,", 7)O lago nada me diz,
+("Não sin-to a bri-sa me-xê--lo", 10)Não sinto a brisa mexê-lo
+("Não sei se sou fe-liz", 6)Não sei se sou feliz
+("Nem se de-se-jo sê--lo.", 8)Nem se desejo sê-lo.
+("Trê-mu-los vin-cos ri-so-nhos", 8)Trêmulos vincos risonhos
+("Na água ador-me-ci-da.", 6)Na água adormecida.
+("Por que fiz eu dos so-nhos", 7)Por que fiz eu dos sonhos
+("A mi-nha úni-ca vi-da?", 7)A minha única vida?
+("Con-tem-plo o que não ve-jo", 8)Contemplo o que não vejo
+("Con-tem-plo o que não ve-jo.", 8)Contemplo o que não vejo.
+("É tar-de, é qua-se es-cu-ro.", 9)É tarde, é quase escuro.
+("E quan-to em mim de-se-jo", 8)E quanto em mim desejo
+("Es-tá pa-ra-do an-te o mu-ro.", 10)Está parado ante o muro.
+("Por ci-ma o céu é gran-de;", 8)Por cima o céu é grande;
+("Sin-to ár-vo-res além;", 6)Sinto árvores além;
+("Em-bo-ra o ven-to abran-de,", 8)Embora o vento abrande,
+("Há fo-lhas em vai-vém.", 6)Há folhas em vaivém.
+("Tu-do é do ou-tro la-do,", 8)Tudo é do outro lado,
+("No que há e no que pen-so.", 8)No que há e no que penso.
+("Nem há ra-mo agi-ta-do", 7)Nem há ramo agitado
+("Que o céu não se-ja imen-so.", 8)Que o céu não seja imenso.
+("Con-fun-de--se o que exis-te", 9)Confunde-se o que existe
+("Com o que dur-mo e sou.", 7)Com o que durmo e sou.
+("Não sin-to, não sou tris-te.", 7)Não sinto, não sou triste.
+("Mas tris-te é o que es-tou.", 8)Mas triste é o que estou.
+("Dá a sur-pre-sa de ser", 7)Dá a surpresa de ser
+("Dá a sur-pre-sa de ser.", 7)Dá a surpresa de ser.
+("É al-ta, de um lou-ro es-cu-ro.", 10)É alta, de um louro escuro.
+("Faz bem só pen-sar em ver", 7)Faz bem só pensar em ver
+("Seu cor-po meio ma-du-ro.", 7)Seu corpo meio maduro.
+("Seus sei-os al-tos pa-re-cem", 8)Seus seios altos parecem
+("Se ela ti-ves-se dei-ta-da", 8)Se ela tivesse deitada
+("Dois mon-ti-nhos que ama-nhe-cem", 8)Dois montinhos que amanhecem
+("Sem Ter que ha-ver ma-dru-ga-da.", 9)Sem Ter que haver madrugada.
+("E a mão do seu bra-ço bran-co", 9)E a mão do seu braço branco
+("As-sen-ta em pal-mo es-pa-lha-do", 10)Assenta em palmo espalhado
+("So-bre a sa-li-ên-cia do flan-co", 10)Sobre a saliência do flanco
+("Do seu re-le-vo ta-pa-do.", 8)Do seu relevo tapado.
+("Ape-te-ce co-mo um bar-co.", 8)Apetece como um barco.
+("Tem qual-quer coi-sa de go-mo.", 8)Tem qualquer coisa de gomo.
+("Meu Deus, quan-do é que eu em-bar-co?", 10)Meu Deus, quando é que eu embarco?
+("Ó fo-me, quan-do é que eu co-mo ?", 11)Ó fome, quando é que eu como ?
+("Da mi-nha idéia do mun-do", 7)Da minha idéia do mundo
+("Vá-cuo além do pro-fun-do,", 7)Vácuo além do profundo,
+("Sem ter Eu nem Ali...", 5)Sem ter Eu nem Ali...
+("Vá-cuo sem si--pró-pri-o, ca-os", 10)Vácuo sem si-próprio, caos
+("De ser pen-sa-do co-mo ser...", 8)De ser pensado como ser...
+("Es-ca-da ab-so-lu-ta sem de-graus...", 10)Escada absoluta sem degraus...
+("Vi-são que se não po-de ver...", 8)Visão que se não pode ver...
+("Além--Deus ! Além--Deus! Ne-gra cal-ma...", 11)Além-Deus ! Além-Deus! Negra calma...
+("Cla-rão do Des-co-nhe-ci-do...", 8)Clarão do Desconhecido...
+("Tu-do tem ou-tro sen-ti-do, ó al-ma,", 11)Tudo tem outro sentido, ó alma,
+("Mes-mo o ter-um--sen-ti-do...", 9)Mesmo o ter-um-sentido...
+("De on-de é qua-se o ho-ri-zon-te", 11)De onde é quase o horizonte
+("So-be uma né-voa li-gei-ra", 8)Sobe uma névoa ligeira
+("E afa-ga o pe-que-no mon-te", 9)E afaga o pequeno monte
+("Que pá-ra na di-an-tei-ra.", 8)Que pára na dianteira.
+("E com bra-ços de far-ra-po", 8)E com braços de farrapo
+("Qua-se in-vi-sí-veis e fri-os,", 9)Quase invisíveis e frios,
+("Faz cair seu ser de tra-po", 7)Faz cair seu ser de trapo
+("So-bre os con-tor-nos ma-ci-os.", 9)Sobre os contornos macios.
+("Um pou-co de al-to me-di-to", 9)Um pouco de alto medito
+("A né-voa só com a ver.", 7)A névoa só com a ver.
+("A vi-da? Não acre-di-to.", 7)A vida? Não acredito.
+("A cren-ça? Não sei vi-ver.", 7)A crença? Não sei viver.
+("De quem é o olhar", 5)De quem é o olhar
+("Que es-prei-ta por meus olhos ?", 8)Que espreita por meus olhos ?
+("Quan-do pen-so que ve-jo,", 7)Quando penso que vejo,
+("Quem con-ti-nua ven-do", 6)Quem continua vendo
+("En-quan-to es-tou pen-san-do ?", 9)Enquanto estou pensando ?
+("Por que ca-mi-nhos se-guem,", 7)Por que caminhos seguem,
+("Não os meus tris-tes pas-sos,", 7)Não os meus tristes passos,
+("Mas a re-a-li-da-de", 7)Mas a realidade
+("De eu ter pas-sos co-mi-go ?", 9)De eu ter passos comigo ?
+("Às ve-zes, na pe-num-bra", 7)Às vezes, na penumbra
+("Do meu quar-to, quan-do eu", 7)Do meu quarto, quando eu
+("Por mim pró-prio mes-mo", 6)Por mim próprio mesmo
+("Em al-ma mal exis-to,", 6)Em alma mal existo,
+("To-ma um ou-tro sen-ti-do", 8)Toma um outro sentido
+("Em mim o Uni-ver-so É uma nó-doa es-ba-ti-da", 14)Em mim o Universo É uma nódoa esbatida
+("De eu ser cons-ci-en-te so-bre", 9)De eu ser consciente sobre
+("Mi-nha idéia das coi-sas.", 6)Minha idéia das coisas.
+("Se acen-de-rem as ve-las", 7)Se acenderem as velas
+("E não hou-ver ape-nas", 6)E não houver apenas
+("A va-ga luz de fo-ra-Não sei que can-de-ei-ro", 14)A vaga luz de foraNão sei que candeeiro
+("Ace-so on-de na ru-a-Te-rei fos-cos de-se-jos", 14)Aceso onde na ruaTerei foscos desejos
+("De nun-ca ha-ver mais na-da", 8)De nunca haver mais nada
+("No Uni-ver-so e na Vi-da", 8)No Universo e na Vida
+("De que o obs-cu-ro mo-men-to", 9)De que o obscuro momento
+("Que é mi-nha vi-da ago-ra!", 8)Que é minha vida agora!
+("Um mo-men-to aflu-en-te", 7)Um momento afluente
+("Dum rio sem-pre a ir", 6)Dum rio sempre a ir
+("Es-que-cer--se de ser,", 7)Esquecer-se de ser,
+("Es-pa-ço mis-te-ri-o-so", 8)Espaço misterioso
+("En-tre es-pa-ços de-ser-tos", 8)Entre espaços desertos
+("Cu-jo sen-ti-do é nu-lo", 8)Cujo sentido é nulo
+("E sem ser na-da a na-da.", 8)E sem ser nada a nada.
+("E as-sim a ho-ra pas-sa", 8)E assim a hora passa
+("Di-to-sos a quem ace-na", 7)Ditosos a quem acena
+("Um len-ço de des-pe-di-da !", 9)Um lenço de despedida !
+("São fe-li-zes : têm pe-na...", 8)São felizes : têm pena...
+("Eu so-fro sem pe-na a vi-da.", 9)Eu sofro sem pena a vida.
+("Dôo--me até on-de pen-so,", 8)Dôo-me até onde penso,
+("E a dor é já de pen-sar,", 8)E a dor é já de pensar,
+("Ór-fão de um so-nho sus-pen-so", 9)Órfão de um sonho suspenso
+("Pe-la ma-ré a va-zar...", 7)Pela maré a vazar...
+("E so-be até mim, já far-to", 8)E sobe até mim, já farto
+("De im-pro-fí-cu-as ago-ni-as,", 9)De improfícuas agonias,
+("No cais de on-de nun-ca par-to,", 9)No cais de onde nunca parto,
+("A ma-re-sia dos di-as.", 7)A maresia dos dias.
+("Di-zem que fin-jo ou min-to", 8)Dizem que finjo ou minto
+("Tu-do que es-cre-vo. Não.", 7)Tudo que escrevo. Não.
+("Eu sim-ples-men-te sin-to", 7)Eu simplesmente sinto
+("Com a ima-gi-na-ção.", 6)Com a imaginação.
+("Não uso o co-ra-ção.", 6)Não uso o coração.
+("Tu-do o que so-nho ou pas-so,", 9)Tudo o que sonho ou passo,
+("O que me fa-lha ou fin-da,", 8)O que me falha ou finda,
+("Éco-mo que um ter-ra-ço", 7)Écomo que um terraço
+("So-bre ou-tra coi-sa ain-da.", 8)Sobre outra coisa ainda.
+("Es-sa coi-sa é que é lin-da.", 9)Essa coisa é que é linda.
+("Por is-so es-cre-vo em meio", 8)Por isso escrevo em meio
+("Do que não es-tá ao pé,", 7)Do que não está ao pé,
+("Li-vre do meu en-lei-o,", 7)Livre do meu enleio,
+("Sé-rio do que não é,", 6)Sério do que não é,
+("Sen-tir, sin-ta quem lê !", 7)Sentir, sinta quem lê !
+("Não di-zem ?", 4)Não dizem ?
+("Não fa-zem?", 3)Não fazem?
+("Por quê", 2)Por quê
+("Es-pe-rar ?", 4)Esperar ?
+("Tu-do é", 3)Tudo é
+("Pe-guei no meu co-ra-ção", 7)Peguei no meu coração
+("E pu--lo na mi-nha mão", 8)E pu-lo na minha mão
+("Olhei-o co-mo quem olha", 6)Olhei-o como quem olha
+("Grãos de areia ou uma fo-lha.", 7)Grãos de areia ou uma folha.
+("Olhei-o pá-vi-do e ab-sor-to", 9)Olhei-o pávido e absorto
+("Co-mo quem sa-be es-tar mor-to;", 9)Como quem sabe estar morto;
+("Com a al-ma só co-mo-vi-da", 9)Com a alma só comovida
+("Do so-nho e pou-co da vi-da.", 9)Do sonho e pouco da vida.
+("Dor-me en-quan-to eu ve-lo...", 8)Dorme enquanto eu velo...
+("Dei-xa--me so-nhar...", 6)Deixa-me sonhar...
+("Na-da em mim é ri-so-nho.", 8)Nada em mim é risonho.
+("Que-ro--te pa-ra so-nho,", 8)Quero-te para sonho,
+("Não pa-ra te amar.", 5)Não para te amar.
+("A tua car-ne cal-ma", 6)A tua carne calma
+("É fria em meu que-rer.", 6)É fria em meu querer.
+("Os meus de-se-jos são can-sa-ços.", 9)Os meus desejos são cansaços.
+("Nem que-ro ter nos bra-ços", 7)Nem quero ter nos braços
+("Meu so-nho do teu ser.", 6)Meu sonho do teu ser.
+("Dor-me, dor-me, dor-me,", 6)Dorme, dorme, dorme,
+("Va-ga em teu sor-rir...", 6)Vaga em teu sorrir...
+("So-nho--te tão aten-to", 7)Sonho-te tão atento
+("Que o so-nho é en-can-ta-men-to", 10)Que o sonho é encantamento
+("E eu so-nho sem sen-tir.", 7)E eu sonho sem sentir.
+("Dor-me, que a vi-da é na-da!", 9)Dorme, que a vida é nada!
+("Dor-me, que tu-do é vão!", 7)Dorme, que tudo é vão!
+("Se al-guém achou a es-tra-da,", 8)Se alguém achou a estrada,
+("Achou-a em con-fu-são,", 6)Achou-a em confusão,
+("Com a al-ma en-ga-na-da.", 8)Com a alma enganada.
+("Não há lu-gar nem dia", 6)Não há lugar nem dia
+("Pa-ra quem quer achar,", 5)Para quem quer achar,
+("Nem paz nem ale-gria", 5)Nem paz nem alegria
+("Pa-ra quem, por amar,", 5)Para quem, por amar,
+("Em quem ama con-fi-a.", 6)Em quem ama confia.
+("Me-lhor en-tre on-de os ra-mos", 9)Melhor entre onde os ramos
+("Te-cem do-céis sem ser", 6)Tecem docéis sem ser
+("Fi-car co-mo fi-ca-mos,", 7)Ficar como ficamos,
+("Sem pen-sar nem que-rer,", 6)Sem pensar nem querer,
+("Dan-do o que nun-ca da-mos.", 8)Dando o que nunca damos.
+("Dor-me so-bre o meu seio", 7)Dorme sobre o meu seio
+("Dor-me so-bre o meu sei-o,", 8)Dorme sobre o meu seio,
+("So-nhan-do de so-nhar...", 6)Sonhando de sonhar...
+("No teu olhar eu leio", 5)No teu olhar eu leio
+("Um lú-bri-co va-gar.", 6)Um lúbrico vagar.
+("Dor-me no so-nho de exis-tir", 8)Dorme no sonho de existir
+("E na ilu-são de amar.", 6)E na ilusão de amar.
+("Tu-do é na-da, e tu-do", 8)Tudo é nada, e tudo
+("Um so-nho fin-ge ser.", 6)Um sonho finge ser.
+("O 's-pa-ço ne-gro é mu-do.", 9)O 'spaço negro é mudo.
+("Dor-me, e, ao ador-me-cer,", 7)Dorme, e, ao adormecer,
+("Sai-bas do co-ra-ção sor-rir", 8)Saibas do coração sorrir
+("Sor-ri-sos de es-que-cer.", 7)Sorrisos de esquecer.
+("Sem má-goa nem amor...", 5)Sem mágoa nem amor...
+("O ín-ti-mo tor-por", 6)O íntimo torpor
+("De quem co-nhe-ce o na-da--ser", 10)De quem conhece o nada-ser
+("De vi-da e go-zo e dor.", 8)De vida e gozo e dor.
+("Do va-le à mon-ta-nha", 7)Do vale à montanha
+("Do va-le à mon-ta-nha,", 7)Do vale à montanha,
+("Da mon-ta-nha ao mon-te, ca-va-lo de som-bra,", 13)Da montanha ao monte, cavalo de sombra,
+("Ca-va-lei-ro mon-ge,", 6)Cavaleiro monge,
+("Pr ca-sas, por pra-dos,", 6)Pr casas, por prados,
+("Por Quin-ta e por fon-te,", 7)Por Quinta e por fonte,
+("Ca-mi-nhais ali-a-dos.", 6)Caminhais aliados.
+("Da mon-ta-nha ao mon-te,", 7)Da montanha ao monte,
+("Ca-va-lo de som-bra,", 6)Cavalo de sombra,
+("Por pe-nhas-cos pre-tos,", 6)Por penhascos pretos,
+("Atrás e de-fron-te,", 5)Atrás e defronte,
+("Ca-mi-nhais se-cre-tos.", 6)Caminhais secretos.
+("Por quan-to é sem fim,", 6)Por quanto é sem fim,
+("Sem nin-guém que o con-te,", 7)Sem ninguém que o conte,
+("Ca-mi-nhais em mim.", 5)Caminhais em mim.
+("Dur-mo. Se so-nho, ao des-per-tar não sei", 11)Durmo. Se sonho, ao despertar não sei
+("Que coi-sas eu so-nhei.", 6)Que coisas eu sonhei.
+("Dur-mo. Se dur-mo sem so-nhar, des-per-to", 11)Durmo. Se durmo sem sonhar, desperto
+("Pa-ra um es-pa-ço aber-to", 8)Para um espaço aberto
+("Que não co-nhe-ço, pois que des-per-tei", 10)Que não conheço, pois que despertei
+("Pa-ra o que in-da não sei.", 8)Para o que inda não sei.
+("Me-lhor é nem so-nhar nem não so-nhar", 10)Melhor é nem sonhar nem não sonhar
+("E nun-ca des-per-tar.", 6)E nunca despertar.
+("É bran-do o di-a, bran-do o ven-to", 11)É brando o dia, brando o vento
+("É bran-do o sol e bran-do o céu.", 10)É brando o sol e brando o céu.
+("As-sim fos-se meu pen-sa-men-to !", 10)Assim fosse meu pensamento !
+("As-sim fos-se eu, as-sim fos-se eu !", 11)Assim fosse eu, assim fosse eu !
+("Mas en-tre mim e as bran-das gló-ri-as", 11)Mas entre mim e as brandas glórias
+("Des-te céu lim-po e es-te ar sem mim", 11)Deste céu limpo e este ar sem mim
+("In-ter-vêm so-nhos e me-mó-ri-as...", 10)Intervêm sonhos e memórias...
+("Ser eu as-sim ser eu as-sim !", 9)Ser eu assim ser eu assim !
+("Ah, o mun-do é quan-to nós tra-ze-mos.", 11)Ah, o mundo é quanto nós trazemos.
+("Exis-te tu-do por-que exis-to.", 8)Existe tudo porque existo.
+("Há por-que ve-mos.", 5)Há porque vemos.
+("E tu-do é is-to, tu-do é is-to !", 12)E tudo é isto, tudo é isto !
+("Ela can-ta, po-bre cei-fei-ra", 8)Ela canta, pobre ceifeira
+("Ela can-ta, po-bre cei-fei-ra,", 8)Ela canta, pobre ceifeira,
+("Jul-gan-do--se fe-liz tal-vez;", 9)Julgando-se feliz talvez;
+("Can-ta, e cei-fa, e a sua voz, cheia", 10)Canta, e ceifa, e a sua voz, cheia
+("De ale-gre e anô-ni-ma viu-vez,", 9)De alegre e anônima viuvez,
+("On-du-la co-mo um can-to de ave", 10)Ondula como um canto de ave
+("No ar lim-po co-mo um li-mi-ar,", 10)No ar limpo como um limiar,
+("E há cur-vas no en-re-do su-a-ve", 11)E há curvas no enredo suave
+("Do som que ela tem a can-tar.", 8)Do som que ela tem a cantar.
+("Ou-vi--la ale-gra e en-tris-te-ce,", 11)Ouvi-la alegra e entristece,
+("Na sua voz há o cam-po e a li-da,", 11)Na sua voz há o campo e a lida,
+("E can-ta co-mo se ti-ves-se", 9)E canta como se tivesse
+("Mais ra-zões pra can-tar que a vi-da.", 10)Mais razões pra cantar que a vida.
+("Ah, can-ta, can-ta sem ra-zão !", 9)Ah, canta, canta sem razão !
+("O que em mim sen-te 's-tá pen-san-do.", 11)O que em mim sente 'stá pensando.
+("Der-ra-ma no meu co-ra-ção a tua in-cer-ta voz on-de-an-do !", 19)Derrama no meu coração a tua incerta voz ondeando !
+("Ah, po-der ser tu, sen-do eu !", 9)Ah, poder ser tu, sendo eu !
+("Ter a tua ale-gre in-cons-ci-ên-ci-a,", 11)Ter a tua alegre inconsciência,
+("E a cons-ci-ên-cia dis-so ! Ó céu !", 12)E a consciência disso ! Ó céu !
+("Ó cam-po ! Ó can-ção ! A ci-ên-cia", 12)Ó campo ! Ó canção ! A ciência
+("Pe-sa tan-to e a vi-da é tão bre-ve !", 13)Pesa tanto e a vida é tão breve !
+("En-trai por mim den-tro ! Tor-nai", 9)Entrai por mim dentro ! Tornai
+("Mi-nha al-ma a vos-sa som-bra le-ve !", 12)Minha alma a vossa sombra leve !
+("De-pois, le-van-do--me, pas-sai !", 10)Depois, levando-me, passai !
+("Ela ia, tranqüi-la pas-to-ri-nha", 8)Ela ia, tranqüila pastorinha
+("Ela ia, tranqüi-la pas-to-ri-nha,", 8)Ela ia, tranqüila pastorinha,
+("Pe-la es-tra-da da mi-nha im-per-fei-ção.", 12)Pela estrada da minha imperfeição.
+("Se-gui-a, co-mo um ges-to de per-dão,", 11)Segui-a, como um gesto de perdão,
+("O seu re-ba-nho, a sau-da-de mi-nha...", 11)O seu rebanho, a saudade minha...
+("Em lon-ges ter-ras hás de ser rai-nha", 10)Em longes terras hás de ser rainha
+("Um dia lhe dis-se-ram, mas em vão...", 9)Um dia lhe disseram, mas em vão...
+("Seu vul-to per-de--se na es-cu-ri-dão...", 12)Seu vulto perde-se na escuridão...
+("Só sua som-bra an-te meus pés ca-mi-nha...", 11)Só sua sombra ante meus pés caminha...
+("Deus te dê lí-ri-os em vez des-ta ho-ra,", 12)Deus te dê lírios em vez desta hora,
+("E em ter-ras lon-ge do que eu ho-je sin-to", 13)E em terras longe do que eu hoje sinto
+("Se-rás, rai-nha não, mas só pas-to-ra _", 11)Serás, rainha não, mas só pastora _
+("Só sem-pre a mes-ma pas-to-ri-nha a ir,", 12)Só sempre a mesma pastorinha a ir,
+("E eu se-rei teu re-gres-so, es-se in-dis-tin-to", 14)E eu serei teu regresso, esse indistinto
+("Abis-mo en-tre o meu so-nho e o meu por-vir...", 13)Abismo entre o meu sonho e o meu porvir...
+("Elas são va-po-ro-sas", 6)Elas são vaporosas
+("Mi-nu-e-te In-vi-sí-vel", 8)Minuete Invisível
+("Elas são va-po-ro-sas,", 6)Elas são vaporosas,
+("Pá-li-das som-bras, as ro-sas", 8)Pálidas sombras, as rosas
+("Na-das da ho-ra lu-nar...", 7)Nadas da hora lunar...
+("Vêm, aé-re-as, dan-çar", 6)Vêm, aéreas, dançar
+("Com per-fu-mes sol-tos", 6)Com perfumes soltos
+("En-tre os can-tei-ros e os bu-xos...", 10)Entre os canteiros e os buxos...
+("Cho-ra no som dos re-pu-xos", 8)Chora no som dos repuxos
+("O rit-mo que há nos seus vul-tos...", 9)O ritmo que há nos seus vultos...
+("Pas-sam e agi-tam a bri-sa...", 8)Passam e agitam a brisa...
+("Pá-li-da, a pom-pa in-de-ci-sa", 10)Pálida, a pompa indecisa
+("Da sua flé-bil de-mo-ra", 7)Da sua flébil demora
+("Pai-ra em au-réo-la à ho-ra...", 9)Paira em auréola à hora...
+("Pas-sam nos rit-mos da som-bra...", 8)Passam nos ritmos da sombra...
+("Ora é uma fo-lha que tom-ba,", 8)Ora é uma folha que tomba,
+("Ora uma bri-sa que tre-me", 7)Ora uma brisa que treme
+("Sua le-ve-za so-le-ne...", 7)Sua leveza solene...
+("E as-sim vão in-do, de-lin-do", 9)E assim vão indo, delindo
+("Seu per-fil úni-co e lin-do,", 8)Seu perfil único e lindo,
+("Seu vul-to fei-to de to-das,", 8)Seu vulto feito de todas,
+("Nas ala-me-das, em ro-das,", 7)Nas alamedas, em rodas,
+("No jar-dim lí-vi-do e fri-o...", 9)No jardim lívido e frio...
+("Pas-sam so-zi-nhas, a fi-o,", 8)Passam sozinhas, a fio,
+("Co-mo um fu-mo in-do, a ra-re-ar,", 11)Como um fumo indo, a rarear,
+("Pe-lo ar lon-gín-quo e va-zi-o,", 10)Pelo ar longínquo e vazio,
+("Sob o, dis-per-so pe-lo ar,", 8)Sob o, disperso pelo ar,
+("Pá-li-do pá-lio lu-nar ...", 8)Pálido pálio lunar ...
+("Em Bus-ca da Be-le-za", 7)Em Busca da Beleza
+("So-am vãos, do-lo-ri-do epi-cu-ris-ta,", 11)Soam vãos, dolorido epicurista,
+("Os ver-sos teus, que a mi-nha dor des-pre-za;", 12)Os versos teus, que a minha dor despreza;
+("Já ti-ve a al-ma sem des-cren-ça pre-sa", 12)Já tive a alma sem descrença presa
+("Des-se teu so-nho, que per-tur-ba a vis-ta.", 12)Desse teu sonho, que perturba a vista.
+("Da Per-fei-ção se-gui em vã con-quis-ta,", 11)Da Perfeição segui em vã conquista,
+("Mas vi de-pres-sa, já sem a al-ma ace-sa,", 12)Mas vi depressa, já sem a alma acesa,
+("Que a pró-pria idéia em nós des-sa be-le-za", 12)Que a própria idéia em nós dessa beleza
+("Um in-fi-ni-to de nós mes-mos dis-ta.", 11)Um infinito de nós mesmos dista.
+("Nem à nos-sa al-ma de-fi-nir po-de-mos", 12)Nem à nossa alma definir podemos
+("A Per-fei-ção em cu-ja es-tra-da a vi-da,", 13)A Perfeição em cuja estrada a vida,
+("Achan-do-a in-tér-mi-na, a cho-rar per-de-mos.", 13)Achando-a intérmina, a chorar perdemos.
+("O mar tem fim, o céu tal-vez o te-nha,", 11)O mar tem fim, o céu talvez o tenha,
+("Mas não a ân-sia da Coi-sa in-de-fi-ni-da", 13)Mas não a ânsia da Coisa indefinida
+("Que o ser in-de-fi-ni-da faz ta-ma-nha.", 12)Que o ser indefinida faz tamanha.
+("Em ho-ras in-da lou-ras, lin-das", 9)Em horas inda louras, lindas
+("Clo-rin-das e Be-lin-das, bran-das,", 9)Clorindas e Belindas, brandas,
+("Brin-cam no tem-po das ber-lin-das,", 9)Brincam no tempo das berlindas,
+("As vin-das ven-do das va-ran-das,", 9)As vindas vendo das varandas,
+("De on-de ou-vem vir a rir as vin-das", 11)De onde ouvem vir a rir as vindas
+("Fi-tam a fio as fri-as ban-das.", 9)Fitam a fio as frias bandas.
+("Mas em tor-no à tar-de se en-tor-na", 11)Mas em torno à tarde se entorna
+("A ator-do-ar o ar que ar-de", 9)A atordoar o ar que arde
+("Que a eter-na tar-de já não tor-na !", 11)Que a eterna tarde já não torna !
+("E o tom de ato-ar-da to-do o alar-de", 12)E o tom de atoarda todo o alarde
+("Do ador-na-do ar-dor trans-tor-na", 9)Do adornado ardor transtorna
+("No ar de tor-por da tar-da tar-de.", 10)No ar de torpor da tarda tarde.
+("E há ne-vo-en-tos de-sen-can-tos", 10)E há nevoentos desencantos
+("Dos en-can-tos dos pen-sa-men-tos", 9)Dos encantos dos pensamentos
+("Nos san-tos len-tos dos re-can-tos", 9)Nos santos lentos dos recantos
+("Dos ben-tos can-tos dos con-ven-tos....", 9)Dos bentos cantos dos conventos....
+("Pran-tos de in-ten-tos, len-tos, tan-tos", 10)Prantos de intentos, lentos, tantos
+("Que en-can-tam os aten-tos ven-tos.", 9)Que encantam os atentos ventos.
+("Emis-sá-rio de um rei des-co-nhe-ci-do", 11)Emissário de um rei desconhecido
+("Emis-sá-rio de um rei des-co-nhe-ci-do,", 11)Emissário de um rei desconhecido,
+("Eu cum-pro in-for-mes ins-tru-ções de além,", 11)Eu cumpro informes instruções de além,
+("E as brus-cas fra-ses que aos meus lá-bi-os vêm", 13)E as bruscas frases que aos meus lábios vêm
+("So-am--me a um ou-tro e anô-ma-lo sen-ti-do...", 15)Soam-me a um outro e anômalo sentido...
+("In-cons-ci-en-te-men-te me di-vi-do", 11)Inconscientemente me divido
+("En-tre mim e a mis-são que o meu ser tem,", 12)Entre mim e a missão que o meu ser tem,
+("E a gló-ria do meu Rei dá--me des-dém", 12)E a glória do meu Rei dá-me desdém
+("Por es-te hu-ma-no po-vo en-tre quem li-do...", 13)Por este humano povo entre quem lido...
+("Não sei se exis-te o Rei que me man-dou.", 11)Não sei se existe o Rei que me mandou.
+("Mi-nha mis-são se-rá eu a es-que-cer,", 11)Minha missão será eu a esquecer,
+("Meu or-gu-lho o de-ser-to em que em mim es-tou...", 14)Meu orgulho o deserto em que em mim estou...
+("Mas há ! Eu sin-to--me al-tas tra-di-ções", 13)Mas há ! Eu sinto-me altas tradições
+("De an-tes de tem-po e es-pa-ço e vi-da e ser...", 15)De antes de tempo e espaço e vida e ser...
+("Já vi-ram Deus as mi-nhas sen-sa-ções...", 10)Já viram Deus as minhas sensações...
+("Em ple-na vi-da e vi-o-lên-cia", 10)Em plena vida e violência
+("De de-se-jo e am-bi-ção,", 8)De desejo e ambição,
+("De re-pen-te uma so-no-lên-cia", 9)De repente uma sonolência
+("Cai so-bre a mi-nha au-sên-ci-a.", 10)Cai sobre a minha ausência.
+("Des-ce ao meu pró-prio co-ra-ção.", 9)Desce ao meu próprio coração.
+("Se-rá que a men-te, já des-per-ta", 10)Será que a mente, já desperta
+("Da no-ção fal-sa de vi-ver,", 8)Da noção falsa de viver,
+("Vê que, pe-la ja-ne-la aber-ta,", 9)Vê que, pela janela aberta,
+("Há uma pai-sa-gem to-da in-cer-ta", 10)Há uma paisagem toda incerta
+("E um so-nho to-do a ape-te-cer ?", 11)E um sonho todo a apetecer ?
+("De en-con-tro ao de-va-ne-an-do O que é ser--ri-o, e cor-rer?", 20)De encontro ao devaneando O que é ser-rio, e correr?
+("Tu-do de re-pen-te é oco Mes-mo o meu es-tar a pen-sar.", 17)Tudo de repente é oco Mesmo o meu estar a pensar.
+("Tu-do - eu e o mun-do em re-dor Fi-ca mais que ex-te-ri-or.", 20)Tudo - eu e o mundo em redor Fica mais que exterior.
+("Pas-sou, fo-ra de Quan-do,", 7)Passou, fora de Quando,
+("De Porquê, e de Pas-san-do...,", 7)De Porquê, e de Passando...,
+("Tur-bi-lhão de Ig-no-ra-do,", 8)Turbilhão de Ignorado,
+("Sem ter tur-bi-lho-na-do...,", 7)Sem ter turbilhonado...,
+("Vas-to por fo-ra do Vas-to", 8)Vasto por fora do Vasto
+("Sem ser, que a si se as-som-bra...", 9)Sem ser, que a si se assombra...
+("O Uni-ver-so é o seu ras-to...", 9)O Universo é o seu rasto...
+("Deus é a sua som-bra...", 6)Deus é a sua sombra...
+("Bri-lha uma voz na nou-te...", 7)Brilha uma voz na noute...
+("Em mim, e a voz: Ó mun-do,", 8)Em mim, e a voz: Ó mundo,
+("Me-ro eco de mim, me inun-do", 8)Mero eco de mim, me inundo
+("Em que pa-ra Deus me afun-do.", 8)Em que para Deus me afundo.
+("Vá-cuo além de pro-fun-do,", 7)Vácuo além de profundo,
+("Além--Deus! Além--Deus! Ne-gra cal-ma...", 10)Além-Deus! Além-Deus! Negra calma...
+("Cla-rão de Des-co-nhe-ci-do...", 8)Clarão de Desconhecido...
+("En-tre a ár-vo-re e o vê--la", 11)Entre a árvore e o vê-la
+("On-de es-tá o so-nho?", 7)Onde está o sonho?
+("Que ar-co da pon-te mais ve-la", 9)Que arco da ponte mais vela
+("Deus?... E eu fi-co tris-to-nho", 8)Deus?... E eu fico tristonho
+("Por não sa-ber se a cur-va da pon-te", 11)Por não saber se a curva da ponte
+("É a cur-va do ho-ri-zon-te...", 9)É a curva do horizonte...
+("En-tre o que vi-ve e a vi-da", 10)Entre o que vive e a vida
+("Pra que la-do cor-re o ri-o?", 9)Pra que lado corre o rio?
+("Ár-vo-re de fo-lhas ves-ti-da En-tre is-so e Ár-vo-re há fi-o?", 20)Árvore de folhas vestida Entre isso e Árvore há fio?
+("Pom-bas vo-an-do - o pom-bal", 10)Pombas voando - o pombal
+("Es-tá--lhes sem-pre à di-rei-ta, ou é re-al?", 14)Está-lhes sempre à direita, ou é real?
+("Deus é um gran-de In-ter-va-lo,", 9)Deus é um grande Intervalo,
+("Mas en-tre quê e quê?...", 6)Mas entre quê e quê?...
+("En-tre o que di-go e o que ca-lo", 11)Entre o que digo e o que calo
+("Exis-to? Quem é que me vê?", 7)Existo? Quem é que me vê?
+("Er-ro--me... E o pom-bal ele-va-do", 11)Erro-me... E o pombal elevado
+("Es-tá em tor-no na pom-ba, ou de la-do?", 12)Está em torno na pomba, ou de lado?
+("En-tre o ba-ter ras-ga-do dos pen-dões", 11)Entre o bater rasgado dos pendões
+("E o ces-sar dos cla-rins na tar-de alhei-a,", 12)E o cessar dos clarins na tarde alheia,
+("A der-ro-ta fi-cou : co-mo uma cheia", 11)A derrota ficou : como uma cheia
+("Do mal co-briu os va-gos ba-ta-lhões.", 10)Do mal cobriu os vagos batalhões.
+("Foi em vão que o Rei lou-co os seus va-rões", 12)Foi em vão que o Rei louco os seus varões
+("Trou-xe ao pro-li-xo pré-li-o, sem idéi-a.", 12)Trouxe ao prolixo prélio, sem idéia.
+("Água que mão in-fi-el ver-teu na areia _", 11)Água que mão infiel verteu na areia _
+("Tu-do mor-reu, sem ras-tro e sem ra-zões.", 11)Tudo morreu, sem rastro e sem razões.
+("A noi-te co-bre o cam-po, que o Des-ti-no", 13)A noite cobre o campo, que o Destino
+("Com a mor-te tor-nou aban-do-na-do.", 10)Com a morte tornou abandonado.
+("Ces-sou, com ces-sar tu-do, o de-sa-ti-no.", 12)Cessou, com cessar tudo, o desatino.
+("Só no lu-ar que nas-ce os pen-dões ro-tos", 12)Só no luar que nasce os pendões rotos
+("'S-tre-lam no ab-sur-do cam-po de-so-la-do", 13)'Strelam no absurdo campo desolado
+("Uma der-ro-ta he-rál-di-ca de ig-no-tos.", 12)Uma derrota heráldica de ignotos.
+("En-tre o lu-ar e a fo-lha-gem", 10)Entre o luar e a folhagem
+("En-tre o lu-ar e a fo-lha-gem,", 10)Entre o luar e a folhagem,
+("En-tre o sos-se-go e o ar-vo-re-do,", 12)Entre o sossego e o arvoredo,
+("En-tre o ser noi-te e ha-ver ara-gem", 11)Entre o ser noite e haver aragem
+("Pas-sa um se-gre-do.", 6)Passa um segredo.
+("Se-gue-o mi-nha al-ma na pas-sa-gem.", 11)Segue-o minha alma na passagem.
+("Tê-nue lem-bran-ça ou sau-da-de,", 9)Tênue lembrança ou saudade,
+("Prin-cí-pio ou fim do que não foi,", 9)Princípio ou fim do que não foi,
+("Não tem lu-gar, não tem ver-da-de.", 9)Não tem lugar, não tem verdade.
+("Atrai e dói.", 3)Atrai e dói.
+("Se-gue-o meu ser em li-ber-da-de.", 10)Segue-o meu ser em liberdade.
+("Va-zio en-can-to ébrio de si,", 8)Vazio encanto ébrio de si,
+("Tris-te-za ou ale-gria o traz ?", 9)Tristeza ou alegria o traz ?
+("O que sou de-le a quem sor-ri ?", 10)O que sou dele a quem sorri ?
+("Na-da é nem faz.", 5)Nada é nem faz.
+("Só de se-gui--lo me per-di.", 9)Só de segui-lo me perdi.
+("En-tre o so-no e so-nho,", 8)Entre o sono e sonho,
+("En-tre mim e o que em mim", 8)Entre mim e o que em mim
+("É o quem eu me su-po-nho", 8)É o quem eu me suponho
+("Cor-re um rio sem fim.", 6)Corre um rio sem fim.
+("Pas-sou por ou-tras mar-gens,", 7)Passou por outras margens,
+("Di-ver-sas mais além,", 5)Diversas mais além,
+("Na-que-las vá-ri-as vi-a-gens", 9)Naquelas várias viagens
+("Que to-do o rio tem.", 6)Que todo o rio tem.
+("Che-gou on-de ho-je ha-bi-to", 9)Chegou onde hoje habito
+("A ca-sa que ho-je sou.", 7)A casa que hoje sou.
+("Pas-sa, se eu me me-di-to;", 8)Passa, se eu me medito;
+("Se des-per-to, pas-sou.", 6)Se desperto, passou.
+("E quem me sin-to e mor-re", 8)E quem me sinto e morre
+("No que me li-ga a mim", 7)No que me liga a mim
+("Dor-me on-de o rio cor-re —", 9)Dorme onde o rio corre —
+("Es-se rio sem fim.", 5)Esse rio sem fim.
+("Eros e Psi-que", 4)Eros e Psique
+("...E as-sim vê-des, meu Ir-mão, que as ver-da-des que vos fo-ram da-das no Grau de", 22)...E assim vêdes, meu Irmão, que as verdades que vos foram dadas no Grau de
+("Neó-fi-to, e aque-las que vos fo-ram da-das no Grau de Adep-to Me-nor, são, ain-da que", 23)Neófito, e aquelas que vos foram dadas no Grau de Adepto Menor, são, ainda que
+("opos-tas, a mes-ma ver-da-de.", 8)opostas, a mesma verdade.
+("Se es-pe-ra, dor-min-do es-pe-ra,", 10)Se espera, dormindo espera,
+("Rom-pe o ca-mi-nho fa-da-do,", 9)Rompe o caminho fadado,
+("Ele de-la é ig-no-ra-do,", 8)Ele dela é ignorado,
+("Mas ca-da um cum-pre o Des-ti-no", 10)Mas cada um cumpre o Destino
+("Ela dor-min-do en-can-ta-da,", 8)Ela dormindo encantada,
+("E ven-cen-do es-tra-da e mu-ro,", 10)E vencendo estrada e muro,
+("Che-ga on-de em so-no ela mo-ra,", 10)Chega onde em sono ela mora,
+("À ca-be-ça, em ma-re-si-a,", 9)À cabeça, em maresia,
+("Es-que-ço--me das ho-ras trans-vi-a-das", 12)Esqueço-me das horas transviadas
+("Pas-sos da Cruz", 4)Passos da Cruz
+("O Ou-to-no mo-ra má-go-as nos ou-tei-ros", 13)O Outono mora mágoas nos outeiros
+("E põe um ro-xo va-go nos ri-bei-ros...", 11)E põe um roxo vago nos ribeiros...
+("Hós-tia de as-som-bro a al-ma, e to-da es-tra-das...", 15)Hóstia de assombro a alma, e toda estradas...
+("Acon-te-ceu--me es-ta pai-sa-gem, fa-das", 12)Aconteceu-me esta paisagem, fadas
+("De se-pul-cros a or-gía-co... Tri-guei-ros", 11)De sepulcros a orgíaco... Trigueiros
+("No meu can-sa-ço per-di-do en-tre os ge-los", 13)No meu cansaço perdido entre os gelos
+("Es-ta es-pé-cie de lou-cu-ra", 9)Esta espécie de loucura
+("Que é pou-co cha-mar ta-len-to", 9)Que é pouco chamar talento
+("E que bri-lha em mim, na es-cu-ra", 10)E que brilha em mim, na escura
+("Con-fu-são do pen-sa-men-to,", 8)Confusão do pensamento,
+("Não me traz fe-li-ci-da-de;", 8)Não me traz felicidade;
+("Por-que, en-fim, sem-pre ha-ve-rá", 9)Porque, enfim, sempre haverá
+("Sol ou som-bra na ci-da-de.", 8)Sol ou sombra na cidade.
+("Mas em mim não sei o que há", 8)Mas em mim não sei o que há
+("Fe-liz dia pa-ra quem é", 7)Feliz dia para quem é
+("O igual do di-a,", 5)O igual do dia,
+("E no ex-te-ri-or azul que vê", 9)E no exterior azul que vê
+("Sim-ples con-fia !", 5)Simples confia !
+("Azul do céu faz pe-na a quem", 8)Azul do céu faz pena a quem
+("Não po-de ser", 4)Não pode ser
+("Na al-ma um azul do céu tam-bém", 9)Na alma um azul do céu também
+("Com que vi-ver", 4)Com que viver
+("Ah, e se o ver-de com que es-tão", 10)Ah, e se o verde com que estão
+("Os mon-tes que-dos", 5)Os montes quedos
+("Pu-des-se ha-ver no co-ra-ção", 9)Pudesse haver no coração
+("E em seus se-gre-dos !", 7)E em seus segredos !
+("Mas ve-jo quem de-via es-tar", 8)Mas vejo quem devia estar
+("Igual do dia", 3)Igual do dia
+("Ins-ci-en-te e sem que-rer pas-sar.", 10)Insciente e sem querer passar.
+("Ah, a iro-nia", 4)Ah, a ironia
+("De só sen-tir a ter-ra e o céu", 10)De só sentir a terra e o céu
+("Tão be-lo ser", 4)Tão belo ser
+("Quem de si sen-te que per-deu", 8)Quem de si sente que perdeu
+("A al-ma p’-ra os ter !", 8)A alma p’ra os ter !
+("Flor que não du-ra", 5)Flor que não dura
+("Mais do que a som-bra dum mo-men-to", 10)Mais do que a sombra dum momento
+("Tua fres-cu-ra", 4)Tua frescura
+("Per-sis-te no meu pen-sa-men-to.", 9)Persiste no meu pensamento.
+("Não te per-di", 4)Não te perdi
+("No que sou eu,", 4)No que sou eu,
+("Só nun-ca mais, ó flor, te vi", 8)Só nunca mais, ó flor, te vi
+("On-de não sou se-não a ter-ra e o céu.", 12)Onde não sou senão a terra e o céu.
+("Foi um mo-men-to", 5)Foi um momento
+("O em que pou-sas-te", 6)O em que pousaste
+("So-bre o meu bra-ço,", 6)Sobre o meu braço,
+("Num mo-vi-men-to", 5)Num movimento
+("Mais de can-sa-ço", 5)Mais de cansaço
+("Que pen-sa-men-to,", 5)Que pensamento,
+("A tua mão", 3)A tua mão
+("E a re-ti-ras-te.", 6)E a retiraste.
+("Sen-ti ou não ?", 5)Senti ou não ?
+("Não sei. Mas lem-bro", 5)Não sei. Mas lembro
+("E sin-to ain-da", 5)E sinto ainda
+("Qual-quer me-mó-ria", 5)Qualquer memória
+("Fi-xa e cor-pó-rea", 6)Fixa e corpórea
+("On-de pou-sas-te", 5)Onde pousaste
+("A mão que te-ve", 5)A mão que teve
+("Qual-quer sen-ti-do", 5)Qualquer sentido
+("Mas tão de le-ve !...", 6)Mas tão de leve !...
+("Tu-do is-to é na-da,", 7)Tudo isto é nada,
+("Mas nu-ma es-tra-da", 6)Mas numa estrada
+("Co-mo é a vi-da", 6)Como é a vida
+("Há mui-ta coi-sa", 5)Há muita coisa
+("Sei eu se quan-do", 5)Sei eu se quando
+("Sen-ti pou-san-do", 5)Senti pousando
+("'So-bre o meu bra-ço,", 6)'Sobre o meu braço,
+("E um pou-co, um pou-co,", 7)E um pouco, um pouco,
+("No co-ra-ção,", 4)No coração,
+("Não hou-ve um rit-mo", 6)Não houve um ritmo
+("No-vo no es-pa-ço ?", 7)Novo no espaço ?
+("Co-mo se tu,", 4)Como se tu,
+("Sem o que-rer,", 4)Sem o querer,
+("Em mim to-cas-ses", 5)Em mim tocasses
+("Pa-ra di-zer", 4)Para dizer
+("Qual-quer mis-té-ri-o,", 6)Qualquer mistério,
+("Sú-bi-to e eté-re-o,", 7)Súbito e etéreo,
+("Que nem sou-bes-ses", 5)Que nem soubesses
+("Que ti-nha ser.", 4)Que tinha ser.
+("As-sim a bri-sa", 5)Assim a brisa
+("Nos ra-mos diz", 4)Nos ramos diz
+("Sem o sa-ber", 4)Sem o saber
+("Uma im-pre-ci-sa", 5)Uma imprecisa
+("Coi-sa fe-liz.", 4)Coisa feliz.
+("Fos-se eu ape-nas, não sei on-de ou co-mo", 12)Fosse eu apenas, não sei onde ou como
+("Fos-se eu ape-nas, não sei on-de ou co-mo,", 12)Fosse eu apenas, não sei onde ou como,
+("Uma coi-sa exis-ten-te sem vi-ver,", 9)Uma coisa existente sem viver,
+("Noi-te de Vi-da sem ama-nhe-cer", 9)Noite de Vida sem amanhecer
+("En-tre as sir-tes do meu dou-ra-do as-so-mo....", 13)Entre as sirtes do meu dourado assomo....
+("Fa-da ma-li-ci-o-sa ou in-cer-to gno-mo", 13)Fada maliciosa ou incerto gnomo
+("Fa-da-do hou-ves-se de não per-ten-cer", 11)Fadado houvesse de não pertencer
+("Meu in-tui-to glo-río-la com Ter", 9)Meu intuito gloríola com Ter
+("A ár-vo-re do meu uso o úni-co po-mo...", 12)A árvore do meu uso o único pomo...
+("Fos-se eu uma me-tá-fo-ra so-men-te", 11)Fosse eu uma metáfora somente
+("Es-cri-ta nal-gum li-vro in-sub-sis-ten-te", 12)Escrita nalgum livro insubsistente
+("Dum po-e-ta an-ti-go, de al-ma em ou-tras ga-mas,", 15)Dum poeta antigo, de alma em outras gamas,
+("Mas do-en-te, e , num cre-pús-cu-lo de es-pa-das,", 15)Mas doente, e , num crepúsculo de espadas,
+("Mor-ren-do en-tre ban-dei-ras des-fral-da-das", 12)Morrendo entre bandeiras desfraldadas
+("Na úl-ti-ma tar-de de um im-pé-rio em cha-mas...", 14)Na última tarde de um império em chamas...
+("Em meus mo-men-tos es-cu-ros", 8)Em meus momentos escuros
+("Em que em mim não há nin-guém,", 8)Em que em mim não há ninguém,
+("E tu-do é né-vo-as e mu-ros", 10)E tudo é névoas e muros
+("Quan-to a vi-da dá ou tem,", 8)Quanto a vida dá ou tem,
+("Se, um ins-tan-te, er-guen-do a fron-te", 11)Se, um instante, erguendo a fronte
+("De on-de em mim sou ater-ra-do,", 9)De onde em mim sou aterrado,
+("Ve-jo o lon-gín-quo ho-ri-zon-te", 10)Vejo o longínquo horizonte
+("Cheio de sol pos-to ou na-do", 8)Cheio de sol posto ou nado
+("Re-vi-vo, exis-to, co-nhe-ço,", 8)Revivo, existo, conheço,
+("E, ain-da que se-ja ilu-são", 8)E, ainda que seja ilusão
+("O ex-te-ri-or em que me es-que-ço,", 11)O exterior em que me esqueço,
+("Na-da mais que-ro nem pe-ço.", 8)Nada mais quero nem peço.
+("En-tre-go--lhe o co-ra-ção.", 9)Entrego-lhe o coração.
+("Fú-ria nas tre-vas o ven-to", 8)Fúria nas trevas o vento
+("Num gran-de som de alon-gar,", 7)Num grande som de alongar,
+("Não há no meu pen-sa-men-to", 8)Não há no meu pensamento
+("Se-não não po-der pa-rar.", 7)Senão não poder parar.
+("Pa-re-ce que a al-ma tem", 8)Parece que a alma tem
+("Tre-va on-de so-pre a cres-cer", 9)Treva onde sopre a crescer
+("Uma lou-cu-ra que vem", 6)Uma loucura que vem
+("De que-rer com-pre-en-der.", 7)De querer compreender.
+("Rai-va nas tre-vas o ven-to", 8)Raiva nas trevas o vento
+("Sem se po-der li-ber-tar.", 7)Sem se poder libertar.
+("Es-tou pre-so ao meu pen-sa-men-to", 10)Estou preso ao meu pensamento
+("Co-mo o ven-to pre-so ao ar.", 9)Como o vento preso ao ar.
+("Quem me rou-bou a mi-nha dor an-ti-ga,", 11)Quem me roubou a minha dor antiga,
+("E só a vi-da me dei-xou por dor ?", 11)E só a vida me deixou por dor ?
+("Quem, en-tre o in-cên-dio da al-ma em que o ser pe-ri-ga,", 17)Quem, entre o incêndio da alma em que o ser periga,
+("Me dei-xou só no fo-go e no tor-por ?", 12)Me deixou só no fogo e no torpor ?
+("Quem fez a fan-ta-sia mi-nha ami-ga,", 10)Quem fez a fantasia minha amiga,
+("Ne-gan-do o fru-to e emur-che-cen-do a flor ?", 14)Negando o fruto e emurchecendo a flor ?
+("Nin-guém ou o Fa-do, e a fan-ta-sia si-ga", 13)Ninguém ou o Fado, e a fantasia siga
+("A seu in-fi-el e ir-re-al sa-bor...", 11)A seu infiel e irreal sabor...
+("Quem me dispôs pa-ra o que não pu-des-se ?", 12)Quem me dispôs para o que não pudesse ?
+("Quem me fa-dou pa-ra o que não co-nhe-ço", 12)Quem me fadou para o que não conheço
+("Na teia do re-al que nin-guém te-ce ?", 11)Na teia do real que ninguém tece ?
+("Quem me ar-ran-cou ao so-nho que me odi-a-va", 13)Quem me arrancou ao sonho que me odiava
+("E me deu só a vi-da em que me es-que-ço,", 13)E me deu só a vida em que me esqueço,
+("On-de a mi-nha sau-da-de a cor se tra-va ?", 14)Onde a minha saudade a cor se trava ?
+("Go-mes Le-al", 4)Gomes Leal
+("San-gra, si-nis-tro, a al-guns o as-tro ba-ço.", 13)Sangra, sinistro, a alguns o astro baço.
+("Seus três anéis ir-re-ver-sí-veis são", 9)Seus três anéis irreversíveis são
+("A des-gra-ça, a tris-te-za, a so-li-dão.", 12)A desgraça, a tristeza, a solidão.
+("Oi-to lu-as fa-tais fi-tam no es-pa-ço.", 12)Oito luas fatais fitam no espaço.
+("Es-te, po-e-ta, Apo-lo em seu re-ga-ço", 12)Este, poeta, Apolo em seu regaço
+("A Sa-tur-no en-tre-gou. A plúm-bea mão", 11)A Saturno entregou. A plúmbea mão
+("Lhe er-gueu ao al-to o afli-to co-ra-ção.", 12)Lhe ergueu ao alto o aflito coração.
+("E, er-gui-do , o aper-tou, san-gran-do las-so.", 13)E, erguido , o apertou, sangrando lasso.
+("Inú-teis oi-to lu-as da lou-cu-ra", 10)Inúteis oito luas da loucura
+("Quan-do a cin-tu-ra trí-pli-ce de-no-ta", 12)Quando a cintura tríplice denota
+("So-li-dão e des-gra-ça e amar-gu-ra !", 12)Solidão e desgraça e amargura !
+("Mas da noi-te sem fim um ras-tro bro-ta,", 11)Mas da noite sem fim um rastro brota,
+("Ves-tí-gi-os de ma-lig-na for-mo-su-ra :", 13)Vestígios de maligna formosura :
+("É a lua além de Deus, ál-gi-da e ig-no-ta.", 13)É a lua além de Deus, álgida e ignota.
+("Gran-des mis-té-ri-os ha-bi-tam", 9)Grandes mistérios habitam
+("O li-mi-ar do meu ser,", 7)O limiar do meu ser,
+("O li-mi-ar on-de he-si-tam", 9)O limiar onde hesitam
+("Gran-des pás-sa-ros que fi-tam", 8)Grandes pássaros que fitam
+("Meu trans-por tar-do de os ver.", 8)Meu transpor tardo de os ver.
+("São aves chei-as de abis-mo,", 7)São aves cheias de abismo,
+("Co-mo nos so-nhos as há.", 7)Como nos sonhos as há.
+("He-si-to se son-do e cis-mo,", 9)Hesito se sondo e cismo,
+("E à mi-nha al-ma é ca-ta-clis-mo", 11)E à minha alma é cataclismo
+("O li-mi-ar on-de es-tá.", 8)O limiar onde está.
+("En-tão des-per-to do so-nho", 8)Então desperto do sonho
+("E sou ale-gre da luz,", 6)E sou alegre da luz,
+("In-da que em dia tris-to-nho;", 8)Inda que em dia tristonho;
+("Por-que o li-mi-ar é me-do-nho", 10)Porque o limiar é medonho
+("E to-do pas-so é uma cruz.", 8)E todo passo é uma cruz.
+("Gui-a--me a só a ra-zão", 9)Guia-me a só a razão
+("Gui-a--me a só a ra-zão.", 9)Guia-me a só a razão.
+("Não me de-ram mais gui-a.", 7)Não me deram mais guia.
+("Alu-mi-a--me em vão ?", 8)Alumia-me em vão ?
+("Só ela me alu-mi-a.", 6)Só ela me alumia.
+("Ti-ves-se quem cri-ou", 6)Tivesse quem criou
+("O mun-do de-se-ja-do", 7)O mundo desejado
+("Que eu fos-se ou-tro que sou,", 8)Que eu fosse outro que sou,
+("Ter--me-ia ou-tro cri-a-do.", 9)Ter-me-ia outro criado.
+("Deu--me olhos pa-ra ver.", 7)Deu-me olhos para ver.
+("Olho, ve-jo, acre-di-to.", 6)Olho, vejo, acredito.
+("Co-mo ou-sa-rei di-zer:", 7)Como ousarei dizer:
+("<<-Ce-go, fo-ra eu ben-di-to >> ?", 11)<<Cego, fora eu bendito >> ?
+("Co-mo olhar, a ra-zão", 6)Como olhar, a razão
+("Deus me deu, pa-ra ver", 6)Deus me deu, para ver
+("Pa-ra além da vi-são-O-lhar de co-nhe-cer.", 12)Para além da visãoOlhar de conhecer.
+("Se ver é en-ga-nar--me,", 8)Se ver é enganar-me,
+("Pen-sar um des-ca-mi-nho,", 7)Pensar um descaminho,
+("Não sei. Deus os quis dar--me", 8)Não sei. Deus os quis dar-me
+("Por ver-da-de e ca-mi-nho.", 8)Por verdade e caminho.
+("Ilu-mi-na--se a Igre-ja por Den-tro da Chu-va", 14)Ilumina-se a Igreja por Dentro da Chuva
+("Ilu-mi-na--se a igre-ja por den-tro da chu-va des-te di-a,", 18)Ilumina-se a igreja por dentro da chuva deste dia,
+("E ca-da ve-la que se acen-de é mais chu-va a ba-ter na vi-dra-ça...", 20)E cada vela que se acende é mais chuva a bater na vidraça...
+("Ale-gra--me ou-vir a chu-va por-que ela é o tem-plo es-tar ace-so,", 20)Alegra-me ouvir a chuva porque ela é o templo estar aceso,
+("E as vi-dra-ças da igre-ja vis-tas de fo-ra são o som da chu-va ou-vi-do por den-tro ...", 26)E as vidraças da igreja vistas de fora são o som da chuva ouvido por dentro ...
+("O es-plen-dor do al-tar--mor é o eu não po-der qua-se ver os mon-tes", 21)O esplendor do altar-mor é o eu não poder quase ver os montes
+("Atra-vés da chu-va que é ou-ro tão so-le-ne na to-a-lha do al-tar...", 20)Através da chuva que é ouro tão solene na toalha do altar...
+("Soa o can-to do co-ro, la-ti-no e ven-to a sa-cu-dir--me a vi-dra-ça", 23)Soa o canto do coro, latino e vento a sacudir-me a vidraça
+("E sen-te--se chi-ar a água no fa-to de ha-ver co-ro...", 17)E sente-se chiar a água no fato de haver coro...
+("A mis-sa é um au-to-mó-vel que pas-sa", 12)A missa é um automóvel que passa
+("Atra-vés dos fiéis que se ajo-e-lham em ho-je ser um dia tris-te ...", 18)Através dos fiéis que se ajoelham em hoje ser um dia triste ...
+("Sú-bi-to ven-to sa-co-de em es-plen-dor mai-or", 14)Súbito vento sacode em esplendor maior
+("A fes-ta da ca-te-dral e o ruí-do da chu-va ab-sor-ve tu-do", 19)A festa da catedral e o ruído da chuva absorve tudo
+("Até só se ou-vir a voz do pa-dre água per-der--se ao lon-ge", 18)Até só se ouvir a voz do padre água perder-se ao longe
+("Com o som de ro-das de au-to-mó-vel...", 11)Com o som de rodas de automóvel...
+("E apa-gam--se as lu-zes da igre-ja", 11)E apagam-se as luzes da igreja
+("Na chu-va que ces-sa ...", 7)Na chuva que cessa ...
+("Quem te dis-se ao ou-vi-do es-se se-gre-do", 13)Quem te disse ao ouvido esse segredo
+("Que ra-ras deu-sas têm es-cu-ta-do Aque-le amor cheio de cren-ça e me-do", 20)Que raras deusas têm escutado Aquele amor cheio de crença e medo
+("Que é ver-da-dei-ro só se é se-gre-da-do?...", 13)Que é verdadeiro só se é segredado?...
+("Quem te dis-se tão ce-do?", 7)Quem te disse tão cedo?
+("Não fui eu, que te não ou-sei di-zê--lo.", 12)Não fui eu, que te não ousei dizê-lo.
+("Não foi um ou-tro, por-que não sa-bi-a.", 11)Não foi um outro, porque não sabia.
+("Mas quem ro-çou da tes-ta teu ca-be-lo", 11)Mas quem roçou da testa teu cabelo
+("E te dis-se ao ou-vi-do o que sen-ti-a?", 13)E te disse ao ouvido o que sentia?
+("Se-ria al-guém, se-ri-a?", 7)Seria alguém, seria?
+("Ou foi só que o so-nhas-te e eu te o so-nhei?", 14)Ou foi só que o sonhaste e eu te o sonhei?
+("Foi só qual-quer ciú-me meu de ti", 9)Foi só qualquer ciúme meu de ti
+("Que o supôs di-to, por-que o não di-rei,", 11)Que o supôs dito, porque o não direi,
+("Que o supôs fei-to, por-que o só fin-gi", 11)Que o supôs feito, porque o só fingi
+("Em so-nhos que nem sei?", 6)Em sonhos que nem sei?
+("Se-ja o que for, quem foi que le-ve-men-te,", 12)Seja o que for, quem foi que levemente,
+("A teu ou-vi-do va-ga-men-te aten-to,", 11)A teu ouvido vagamente atento,
+("Te fa-lou des-se amor em mim pre-sen-te", 11)Te falou desse amor em mim presente
+("Mas que não pas-sa do meu pen-sa-men-to", 11)Mas que não passa do meu pensamento
+("Que an-seia e que não sen-te?", 8)Que anseia e que não sente?
+("Foi um de-se-jo que, sem cor-po ou bo-ca,", 12)Foi um desejo que, sem corpo ou boca,
+("A teus ou-vi-dos de eu so-nhar--te dis-se", 13)A teus ouvidos de eu sonhar-te disse
+("A fra-se eter-na, ime-re-ci-da e lou-ca A que as deu-sas es-pe-ram da le-di-ce", 24)A frase eterna, imerecida e louca A que as deusas esperam da ledice
+("Com que o Olim-po se apou-ca.", 8)Com que o Olimpo se apouca.
+("É co-mo que um ter-ra-ço", 8)É como que um terraço
+("Sé-rio do que não é.", 6)Sério do que não é.
+("Sen-tir? Sin-ta quem lê!", 6)Sentir? Sinta quem lê!
+("Ai que pra-zer", 4)Ai que prazer
+("Não cum-prir um de-ver,", 6)Não cumprir um dever,
+("Ter um li-vro pa-ra ler", 7)Ter um livro para ler
+("E não fa-zer !", 5)E não fazer !
+("Ler é ma-ça-da,", 5)Ler é maçada,
+("Es-tu-dar é na-da.", 6)Estudar é nada.
+("Sol doi-ra", 3)Sol doira
+("Sem li-te-ra-tu-ra", 6)Sem literatura
+("O rio cor-re, bem ou mal,", 7)O rio corre, bem ou mal,
+("Sem edi-ção ori-gi-nal.", 6)Sem edição original.
+("E a bri-sa, es-sa,", 6)E a brisa, essa,
+("De tão na-tu-ral-men-te ma-ti-nal,", 10)De tão naturalmente matinal,
+("Co-mo o tem-po não tem pres-sa...", 9)Como o tempo não tem pressa...
+("Li-vros são pa-péis pin-ta-dos com tin-ta.", 11)Livros são papéis pintados com tinta.
+("Es-tu-dar é uma coi-sa em que es-tá in-dis-tin-ta", 15)Estudar é uma coisa em que está indistinta
+("A dis-tin-ção en-tre na-da e coi-sa ne-nhu-ma.", 14)A distinção entre nada e coisa nenhuma.
+("Quan-to é me-lhor, quan-to há bru-ma,", 10)Quanto é melhor, quanto há bruma,
+("Es-pe-rar por D.-Se-bas-tião,", 8)Esperar por D.Sebastião,
+("Quer ve-nha ou não !", 6)Quer venha ou não !
+("Gran-de é a po-e-si-a, a bon-da-de e as dan-ças...", 16)Grande é a poesia, a bondade e as danças...
+("Mas o me-lhor do mun-do são as cri-an-ças,", 12)Mas o melhor do mundo são as crianças,
+("Flo-res, mú-si-ca, o lu-ar, e o sol, que pe-ca", 14)Flores, música, o luar, e o sol, que peca
+("Só quan-do, em vez de cri-ar, se-ca.", 10)Só quando, em vez de criar, seca.
+("Mais que is-to", 4)Mais que isto
+("É Je-sus Cris-to,", 5)É Jesus Cristo,
+("Que não sa-bia na-da de fi-nan-ças", 10)Que não sabia nada de finanças
+("Nem cons-ta que ti-ves-se bi-bli-o-te-ca...", 12)Nem consta que tivesse biblioteca...
+("Não di-gas na-da!", 5)Não digas nada!
+("Nem mes-mo a ver-da-de", 7)Nem mesmo a verdade
+("Há tan-ta su-a-vi-da-de em na-da se di-zer", 14)Há tanta suavidade em nada se dizer
+("E tu-do se en-ten-der Tu-do me-ta-de", 12)E tudo se entender Tudo metade
+("De sen-tir e de ver...", 6)De sentir e de ver...
+("Não di-gas na-da", 5)Não digas nada
+("Dei-xa es-que-cer", 5)Deixa esquecer
+("Tal-vez que ama-nhã", 5)Talvez que amanhã
+("Em ou-tra pai-sa-gem", 6)Em outra paisagem
+("Di-gas que foi vã", 5)Digas que foi vã
+("To-da es-sa vi-a-gem", 7)Toda essa viagem
+("Até on-de quis", 4)Até onde quis
+("Ser quem me agra-da...", 5)Ser quem me agrada...
+("Mas ali fui fe-liz", 5)Mas ali fui feliz
+("Não di-gas na-da.", 5)Não digas nada.
+("Não: não di-gas na-da!", 6)Não: não digas nada!
+("Su-por o que di-rá", 6)Supor o que dirá
+("A tua bo-ca ve-la-da", 7)A tua boca velada
+("É ou-vi--lo já", 6)É ouvi-lo já
+("É ou-vi--lo me-lhor", 7)É ouvi-lo melhor
+("Do que o di-ri-as.", 6)Do que o dirias.
+("O que és não vem à flor", 7)O que és não vem à flor
+("Das fra-ses e dos di-as.", 7)Das frases e dos dias.
+("És me-lhor do que tu.", 6)És melhor do que tu.
+("Não di-gas na-da: sê!", 6)Não digas nada: sê!
+("Gra-ça do cor-po nu", 6)Graça do corpo nu
+("Que in-vi-sí-vel se vê.", 7)Que invisível se vê.
+("O An-dai-me", 4)O Andaime
+("O tem-po que eu hei so-nha-do", 9)O tempo que eu hei sonhado
+("Quan-tos anos foi de vi-da!", 7)Quantos anos foi de vida!
+("Ah, quan-to do meu pas-sa-do", 8)Ah, quanto do meu passado
+("Foi só a vi-da men-ti-da", 8)Foi só a vida mentida
+("De um fu-tu-ro ima-gi-na-do!", 9)De um futuro imaginado!
+("Aqui à bei-ra do rio", 6)Aqui à beira do rio
+("Sos-se-go sem ter ra-zão.", 7)Sossego sem ter razão.
+("Es-te seu cor-rer va-zio", 7)Este seu correr vazio
+("Fi-gu-ra, anô-ni-mo e fri-o,", 9)Figura, anônimo e frio,
+("A vi-da vi-vi-da em vão.", 8)A vida vivida em vão.
+("A 'sp'-ran-ça que pou-co al-can-ça!", 10)A 'sp'rança que pouco alcança!
+("Que de-se-jo va-le o en-se-jo?", 10)Que desejo vale o ensejo?
+("E uma bo-la de cri-an-ça", 8)E uma bola de criança
+("So-bre mais que mi-nha 's'-pran-ça,", 9)Sobre mais que minha 's'prança,
+("Ro-la mais que o meu de-se-jo.", 9)Rola mais que o meu desejo.
+("On-das do ri-o, tão le-ves", 8)Ondas do rio, tão leves
+("Que não sois on-das se-quer,", 7)Que não sois ondas sequer,
+("Ho-ras, di-as, anos, bre-ves", 7)Horas, dias, anos, breves
+("Pas-sam - ver-du-ras ou ne-ves", 10)Passam - verduras ou neves
+("Que o mes-mo sol faz mor-rer.", 8)Que o mesmo sol faz morrer.
+("Gas-tei tu-do que não ti-nha.", 8)Gastei tudo que não tinha.
+("Sou mais ve-lho do que sou.", 7)Sou mais velho do que sou.
+("A ilu-são, que me man-ti-nha,", 8)A ilusão, que me mantinha,
+("Só no pal-co era rai-nha:", 7)Só no palco era rainha:
+("Des-piu--se, e o rei-no aca-bou.", 10)Despiu-se, e o reino acabou.
+("Le-ve som das águas len-tas,", 7)Leve som das águas lentas,
+("Gu-lo-sas da mar-gem ida,", 7)Gulosas da margem ida,
+("Que lem-bran-ças so-no-len-tas", 8)Que lembranças sonolentas
+("De es-pe-ran-ças ne-vo-en-tas!", 9)De esperanças nevoentas!
+("Que so-nhos o so-nho e a vi-da!", 10)Que sonhos o sonho e a vida!
+("Que fiz de mim? En-con-trei--me", 9)Que fiz de mim? Encontrei-me
+("Quan-do es-ta-va já per-di-do.", 9)Quando estava já perdido.
+("Im-pa-ci-en-te dei-xei--me", 9)Impaciente deixei-me
+("Co-mo a um lou-co que tei-me", 9)Como a um louco que teime
+("No que lhe foi des-men-ti-do.", 8)No que lhe foi desmentido.
+("Som mor-to das águas man-sas", 7)Som morto das águas mansas
+("Que cor-rem por ter que ser,", 7)Que correm por ter que ser,
+("Le-va não só lem-bran-ças Mor-tas, por-que hão de mor-rer.", 15)Leva não só lembranças Mortas, porque hão de morrer.
+("Sou já o mor-to fu-tu-ro.", 8)Sou já o morto futuro.
+("Só um so-nho me li-ga a mim O so-nho atra-sa-do e obs-cu-ro", 19)Só um sonho me liga a mim O sonho atrasado e obscuro
+("Do que eu de-ve-ra ser - mu-ro", 11)Do que eu devera ser - muro
+("Do meu de-ser-to jar-dim.", 7)Do meu deserto jardim.
+("On-das pas-sa-das, le-vai--me", 9)Ondas passadas, levai-me
+("Pa-ra o al-vi-do do mar!", 8)Para o alvido do mar!
+("Ao que não se-rei le-gai--me,", 9)Ao que não serei legai-me,
+("Que cer-quei com um an-dai-me", 8)Que cerquei com um andaime
+("A ca-sa por fa-bri-car.", 7)A casa por fabricar.
+("O Ma-es-tro Sa-co-de a Ba-tu-ta", 11)O Maestro Sacode a Batuta
+("O ma-es-tro sa-co-de a ba-tu-ta,", 11)O maestro sacode a batuta,
+("A lân-gui-da e tris-te a mú-si-ca rom-pe ...", 14)A lânguida e triste a música rompe ...
+("Lem-bra--me a mi-nha in-fân-ci-a, aque-le dia", 14)Lembra-me a minha infância, aquele dia
+("Em que eu brin-ca-va ao pé dum mu-ro de quin-tal", 14)Em que eu brincava ao pé dum muro de quintal
+("Ati-ran-do--lhe com, uma bo-la que ti-nha dum la-do", 15)Atirando-lhe com, uma bola que tinha dum lado
+("O des-li-zar dum cão ver-de, e do ou-tro la-do", 14)O deslizar dum cão verde, e do outro lado
+("Um ca-va-lo azul a cor-rer com um joc-key ama-re-lo ...", 16)Um cavalo azul a correr com um jockey amarelo ...
+("Pros-se-gue a mú-si-ca, e eis na mi-nha in-fân-cia", 15)Prossegue a música, e eis na minha infância
+("De re-pen-te en-tre mim e o ma-es-tro, mu-ro bran-co,", 16)De repente entre mim e o maestro, muro branco,
+("Vai e vem a bo-la, ora um cão ver-de,", 11)Vai e vem a bola, ora um cão verde,
+("Ora um ca-va-lo azul com um joc-key ama-re-lo...", 13)Ora um cavalo azul com um jockey amarelo...
+("To-do o te-a-tro é o meu quin-tal, a mi-nha in-fân-cia", 17)Todo o teatro é o meu quintal, a minha infância
+("Es-tá em to-dos os lu-ga-res e a bo-la vem a to-car mú-si-ca,", 20)Está em todos os lugares e a bola vem a tocar música,
+("Uma mú-si-ca tris-te e va-ga que pas-seia no meu quin-tal", 16)Uma música triste e vaga que passeia no meu quintal
+("Ves-ti-da de cão ver-de tor-nan-do--se joc-key ama-re-lo...", 17)Vestida de cão verde tornando-se jockey amarelo...
+("Tão rá-pi-da gi-ra a bo-la en-tre mim e os mú-si-cos...", 17)Tão rápida gira a bola entre mim e os músicos...
+("Ati-ro-a de en-con-tra à mi-nha in-fân-cia e ela", 15)Atiro-a de encontra à minha infância e ela
+("Atra-ves-sa o te-a-tro to-do que es-tá aos meus pés", 15)Atravessa o teatro todo que está aos meus pés
+("A brin-car com um joc-key ama-re-lo. e um cão ver-de", 15)A brincar com um jockey amarelo. e um cão verde
+("E um ca-va-lo azul que apa-re-ce por ci-ma do mu-ro", 16)E um cavalo azul que aparece por cima do muro
+("Do meu quin-tal... E a mú-si-ca ati-ra com bo-las", 14)Do meu quintal... E a música atira com bolas
+("À mi-nha in-fân-ci-a... E o mu-ro do quin-tal é fei-to de ges-tos", 20)À minha infância... E o muro do quintal é feito de gestos
+("De ba-tu-ta e ro-ta-ções con-fu-sas de cães ver-des", 15)De batuta e rotações confusas de cães verdes
+("E ca-va-los azuis e joc-keys ama-re-los ...", 12)E cavalos azuis e jockeys amarelos ...
+("To-do o te-a-tro é um mu-ro bran-co de mú-si-ca", 16)Todo o teatro é um muro branco de música
+("Por on-de um cão ver-de cor-re atrás de mi-nha sau-da-de", 16)Por onde um cão verde corre atrás de minha saudade
+("Da mi-nha in-fân-ci-a, ca-va-lo azul com um joc-key ama-re-lo...", 18)Da minha infância, cavalo azul com um jockey amarelo...
+("E dum la-do pa-ra o ou-tro, da di-rei-ta pa-ra a es-quer-da,", 19)E dum lado para o outro, da direita para a esquerda,
+("Don-de há ár-vo-res e en-tre os ra-mos ao pé da co-pa", 17)Donde há árvores e entre os ramos ao pé da copa
+("Com or-ques-tras a to-car mú-si-ca,", 10)Com orquestras a tocar música,
+("Pa-ra on-de há fi-las de bo-las na lo-ja on-de a com-prei", 18)Para onde há filas de bolas na loja onde a comprei
+("E o ho-mem da lo-ja sor-ri en-tre as me-mó-ri-as da mi-nha in-fân-ci-a...", 23)E o homem da loja sorri entre as memórias da minha infância...
+("E a mú-si-ca ces-sa co-mo um mu-ro que de-sa-ba,", 16)E a música cessa como um muro que desaba,
+("A bo-la ro-la pe-lo des-pe-nha-dei-ro dos meus so-nhos in-ter-rom-pi-dos,", 21)A bola rola pelo despenhadeiro dos meus sonhos interrompidos,
+("E do al-to dum ca-va-lo azul, o ma-es-tro, joc-key ama-re-lo tor-nan-do--se pre-to,", 25)E do alto dum cavalo azul, o maestro, jockey amarelo tornando-se preto,
+("Agra-de-ce, pou-san-do a ba-tu-ta em ci-ma da fu-ga dum mu-ro,", 19)Agradece, pousando a batuta em cima da fuga dum muro,
+("E cur-va--se, sor-rin-do, com uma bo-la bran-ca em ci-ma da ca-be-ça,", 21)E curva-se, sorrindo, com uma bola branca em cima da cabeça,
+("Bo-la bran-ca que lhe de-sa-pa-re-ce pe-las cos-tas abai-xo...", 17)Bola branca que lhe desaparece pelas costas abaixo...
+("O que me dói não é", 6)O que me dói não é
+("O que há no co-ra-ção", 7)O que há no coração
+("Mas es-sas coi-sas lin-das", 7)Mas essas coisas lindas
+("Que nun-ca exis-ti-rão...", 6)Que nunca existirão...
+("São as for-mas sem for-ma", 7)São as formas sem forma
+("Que pas-sam sem que a dor", 7)Que passam sem que a dor
+("As pos-sa co-nhe-cer", 6)As possa conhecer
+("Ou as so-nhar o amor.", 6)Ou as sonhar o amor.
+("São co-mo se a tris-te-za", 8)São como se a tristeza
+("Fos-se ár-vo-re e, uma a uma,", 9)Fosse árvore e, uma a uma,
+("Caís-sem su-as fo-lhas", 6)Caíssem suas folhas
+("En-tre o ves-tí-gio e a bru-ma.", 10)Entre o vestígio e a bruma.
+("Po-bre ve-lha mú-si-ca!", 7)Pobre velha música!
+("Não sei por que agra-do,", 6)Não sei por que agrado,
+("En-che--se de lá-gri-mas", 8)Enche-se de lágrimas
+("Meu olhar pa-ra-do.", 5)Meu olhar parado.
+("Re-cor-do ou-tro ou-vir--te,", 9)Recordo outro ouvir-te,
+("Não sei se te ou-vi", 6)Não sei se te ouvi
+("Nes-sa mi-nha in-fân-cia", 7)Nessa minha infância
+("Que me lem-bra em ti.", 6)Que me lembra em ti.
+("Com que ân-sia tão rai-va", 7)Com que ânsia tão raiva
+("Que-ro aque-le ou-tro-ra!", 7)Quero aquele outrora!
+("E eu era fe-liz? Não sei:", 7)E eu era feliz? Não sei:
+("Fui-o ou-tro-ra ago-ra.", 7)Fui-o outrora agora.
+("Põe--me as mãos nos om-bros...", 8)Põe-me as mãos nos ombros...
+("Bei-ja--me na fron-te...", 7)Beija-me na fronte...
+("Mi-nha vi-da é es-com-bros,", 8)Minha vida é escombros,
+("A mi-nha al-ma in-son-te.", 8)A minha alma insonte.
+("Eu não sei por quê,", 5)Eu não sei por quê,
+("Meu des-de on-de ve-nho,", 7)Meu desde onde venho,
+("Sou o ser que vê,", 5)Sou o ser que vê,
+("E vê tu-do es-tra-nho.", 7)E vê tudo estranho.
+("Põe a tua mão", 4)Põe a tua mão
+("So-bre o meu ca-be-lo...", 7)Sobre o meu cabelo...
+("Tu-do é ilu-são.", 5)Tudo é ilusão.
+("So-nhar é sa-bê--lo.", 7)Sonhar é sabê-lo.
+("So-nho. Não sei quem sou.", 6)Sonho. Não sei quem sou.
+("So-nho. Não sei quem sou nes-te mo-men-to.", 11)Sonho. Não sei quem sou neste momento.
+("Dur-mo sen-tin-do--me. Na ho-ra cal-ma", 12)Durmo sentindo-me. Na hora calma
+("Meu pen-sa-men-to es-que-ce o pen-sa-men-to,", 13)Meu pensamento esquece o pensamento,
+("Mi-nha al-ma não tem al-ma.", 8)Minha alma não tem alma.
+("Se exis-to é um er-ro eu o sa-ber. Se acor-do", 14)Se existo é um erro eu o saber. Se acordo
+("Pa-re-ce que er-ro. Sin-to que não sei.", 11)Parece que erro. Sinto que não sei.
+("Na-da que-ro nem te-nho nem re-cor-do.", 11)Nada quero nem tenho nem recordo.
+("Não te-nho ser nem lei.", 6)Não tenho ser nem lei.
+("Lap-so da cons-ci-ên-cia en-tre ilu-sões,", 11)Lapso da consciência entre ilusões,
+("Fan-tas-mas me li-mi-tam e me con-têm.", 11)Fantasmas me limitam e me contêm.
+("Dor-me ins-ci-en-te de alhei-os co-ra-ções,", 12)Dorme insciente de alheios corações,
+("Co-ra-ção de nin-guém.", 6)Coração de ninguém.
+("Sor-ri-so au-dí-vel das fo-lhas", 9)Sorriso audível das folhas
+("Não és mais que a bri-sa ali", 8)Não és mais que a brisa ali
+("Se eu te olho e tu me olhas,", 8)Se eu te olho e tu me olhas,
+("Quem pri-mei-ro é que sor-ri?", 8)Quem primeiro é que sorri?
+("O pri-mei-ro a sor-rir ri.", 8)O primeiro a sorrir ri.
+("Ri e olha de re-pen-te", 7)Ri e olha de repente
+("Pa-ra fins de não olhar", 6)Para fins de não olhar
+("Pa-ra on-de nas fo-lhas sen-te", 9)Para onde nas folhas sente
+("O som do ven-to a pas-sar", 8)O som do vento a passar
+("Tu-do é ven-to e dis-far-çar.", 9)Tudo é vento e disfarçar.
+("Mas o olhar, de es-tar olhan-do", 8)Mas o olhar, de estar olhando
+("On-de não olha, vol-tou", 6)Onde não olha, voltou
+("E es-ta-mos os dois fa-lan-do", 9)E estamos os dois falando
+("O que se não con-ver-sou", 7)O que se não conversou
+("Is-to aca-ba ou co-me-çou?", 8)Isto acaba ou começou?
+("Te-nho Tan-to Sen-ti-men-to", 8)Tenho Tanto Sentimento
+("Te-nho tan-to sen-ti-men-to", 8)Tenho tanto sentimento
+("Que é freqüen-te per-su-a-dir--me", 10)Que é freqüente persuadir-me
+("De que sou sen-ti-men-tal,", 7)De que sou sentimental,
+("Mas re-co-nhe-ço, ao me-dir--me,", 10)Mas reconheço, ao medir-me,
+("Que tu-do is-so é pen-sa-men-to,", 10)Que tudo isso é pensamento,
+("Que não sen-ti afi-nal.", 6)Que não senti afinal.
+("Te-mos, to-dos que vi-ve-mos,", 8)Temos, todos que vivemos,
+("Uma vi-da que é vi-vi-da", 8)Uma vida que é vivida
+("E ou-tra vi-da que é pen-sa-da,", 10)E outra vida que é pensada,
+("E a úni-ca vi-da que te-mos", 9)E a única vida que temos
+("É es-sa que é di-vi-di-da", 9)É essa que é dividida
+("En-tre a ver-da-dei-ra e a er-ra-da.", 12)Entre a verdadeira e a errada.
+("Qual po-rém é a ver-da-dei-ra", 9)Qual porém é a verdadeira
+("E qual er-ra-da, nin-guém", 7)E qual errada, ninguém
+("Nos sa-be-rá ex-pli-car;", 7)Nos saberá explicar;
+("E vi-ve-mos de ma-nei-ra", 8)E vivemos de maneira
+("Que a vi-da que a gen-te tem", 9)Que a vida que a gente tem
+("É a que tem que pen-sar.", 7)É a que tem que pensar.
+("Teus olhos en-tris-te-cem.", 6)Teus olhos entristecem.
+("Teus olhos en-tris-te-cem", 6)Teus olhos entristecem
+("Nem ou-ves o que di-go.", 7)Nem ouves o que digo.
+("Dor-mem, so-nham es-que-cem...", 7)Dormem, sonham esquecem...
+("Não me ou-ves, e pros-si-go.", 8)Não me ouves, e prossigo.
+("Di-go o que já, de tris-te,", 8)Digo o que já, de triste,
+("Te dis-se tan-ta vez...", 6)Te disse tanta vez...
+("Creio que nun-ca o ou-vis-te", 8)Creio que nunca o ouviste
+("De tão tua que és.", 5)De tão tua que és.
+("Olhas--me de re-pen-te", 7)Olhas-me de repente
+("De um dis-tan-te im-pre-ci-so", 9)De um distante impreciso
+("Com um olhar au-sen-te.", 6)Com um olhar ausente.
+("Co-me-ças um sor-ri-so.", 7)Começas um sorriso.
+("Con-ti-nuo a fa-lar.", 6)Continuo a falar.
+("Con-ti-nu-as ou-vin-do", 7)Continuas ouvindo
+("O que es-tás a pen-sar,", 7)O que estás a pensar,
+("Já qua-se não sor-rin-do.", 7)Já quase não sorrindo.
+("Até que nes-te oci-o-so", 7)Até que neste ocioso
+("Su-mir da tar-de fú-til,", 7)Sumir da tarde fútil,
+("Se es-fo-lha si-len-ci-o-so", 9)Se esfolha silencioso
+("O teu sor-ri-so inú-til.", 7)O teu sorriso inútil.
+("To-ma-mos a Vi-la de-pois de um In-ten-so Bom-bar-de-a-men-to", 19)Tomamos a Vila depois de um Intenso Bombardeamento
+("A cri-an-ça lou-ra", 6)A criança loura
+("Jaz no meio da ru-a.", 6)Jaz no meio da rua.
+("Tem as tri-pas de fo-ra", 7)Tem as tripas de fora
+("E por uma cor-da sua", 6)E por uma corda sua
+("Um com-boio que ig-no-ra.", 7)Um comboio que ignora.
+("A ca-ra es-tá um fei-xe", 8)A cara está um feixe
+("De san-gue e de na-da.", 7)De sangue e de nada.
+("Luz um pe-que-no pei-xe", 7)Luz um pequeno peixe
+("— Dos que bói-am nas ba-nhei-ras —", 10)— Dos que bóiam nas banheiras —
+("À bei-ra da es-tra-da.", 7)À beira da estrada.
+("Cai so-bre a es-tra-da o es-cu-ro.", 11)Cai sobre a estrada o escuro.
+("Lon-ge, ain-da uma luz dou-ra", 8)Longe, ainda uma luz doura
+("A cri-a-ção do fu-tu-ro...", 8)A criação do futuro...
+("E o da cri-an-ça lou-ra?", 8)E o da criança loura?
+("Va-ga, no azul am-plo sol-ta", 8)Vaga, no azul amplo solta
+("Va-ga, no azul am-plo sol-ta,", 8)Vaga, no azul amplo solta,
+("Vai uma nu-vem er-ran-do.", 7)Vai uma nuvem errando.
+("O meu pas-sa-do não vol-ta.", 8)O meu passado não volta.
+("Não é o que es-tou cho-ran-do.", 9)Não é o que estou chorando.
+("O que cho-ro é di-fe-ren-te.", 9)O que choro é diferente.
+("En-tra mais na al-ma da al-ma.", 9)Entra mais na alma da alma.
+("Mas co-mo, no céu sem gen-te,", 8)Mas como, no céu sem gente,
+("A nu-vem flu-tua cal-ma.", 7)A nuvem flutua calma.
+("E is-to lem-bra uma tris-te-za", 9)E isto lembra uma tristeza
+("E a lem-bran-ça é que en-tris-te-ce,", 11)E a lembrança é que entristece,
+("Dou à sau-da-de a ri-que-za", 9)Dou à saudade a riqueza
+("De emo-ção que a ho-ra te-ce.", 9)De emoção que a hora tece.
+("Mas, em ver-da-de, o que cho-ra", 9)Mas, em verdade, o que chora
+("Na mi-nha amar-ga an-si-e-da-de", 10)Na minha amarga ansiedade
+("Mais al-to que a nu-vem mo-ra,", 9)Mais alto que a nuvem mora,
+("Es-tá pa-ra além da sau-da-de.", 9)Está para além da saudade.
+("Não sei o que é nem con-sin-to", 9)Não sei o que é nem consinto
+("À al-ma que o sai-ba bem.", 8)À alma que o saiba bem.
+("Vis-to da dor com que min-to", 8)Visto da dor com que minto
+("Dor que a mi-nha al-ma tem.", 8)Dor que a minha alma tem.
