@@ -20,6 +20,13 @@ public class PhraseBook : ScriptableObject
     public TextAsset    originalText; 
     public List<Phrase> phrases;
 
+    public string GetRandomPhrase()
+    {
+        int r = Random.Range(0, phrases.Count);
+
+        return phrases[r].phrase;
+    }
+
 #if UNITY_EDITOR
     [Button("Import")]
     void Import()

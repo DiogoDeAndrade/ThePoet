@@ -10,6 +10,7 @@ public class TextOption : MonoBehaviour
     public Material highlightMaterial;
 
     TextMeshProUGUI text;
+    bool            highlight;
 
     void Start()
     {
@@ -21,6 +22,7 @@ public class TextOption : MonoBehaviour
     {
         Material material = (highlight) ? (highlightMaterial) : (normalMaterial);
         text.text = "<material=\"" + material.name + "\">" + phrase;
+        this.highlight = highlight;
     }
 
     public void OnEnter()
@@ -31,5 +33,10 @@ public class TextOption : MonoBehaviour
     public void OnExit()
     {
         UpdateMaterial(false);
+    }
+
+    public void ForceUpdate()
+    {
+        UpdateMaterial(highlight);
     }
 }
