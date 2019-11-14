@@ -10,7 +10,7 @@ using NaughtyAttributes;
 public class PhraseBook : ScriptableObject
 {
     [System.Serializable]
-    public struct Phrase
+    public class Phrase
     {
         public string phrase;
         public string splitText;
@@ -20,11 +20,11 @@ public class PhraseBook : ScriptableObject
     public TextAsset    originalText; 
     public List<Phrase> phrases;
 
-    public string GetRandomPhrase()
+    public Phrase GetRandomPhrase()
     {
         int r = Random.Range(0, phrases.Count);
 
-        return phrases[r].phrase;
+        return phrases[r];
     }
 
 #if UNITY_EDITOR

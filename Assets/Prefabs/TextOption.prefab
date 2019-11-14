@@ -197,10 +197,10 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
-  m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 30, y: 486}
-  m_SizeDelta: {x: 900, y: 60}
-  m_Pivot: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: -80, y: 60}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4733652510865599915
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -221,7 +221,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18f42ed0004c2384f89ec5a1227bad01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  phrase: 
   normalMaterial: {fileID: 2100000, guid: aff94690d02249c47954e6ea05feaa24, type: 2}
   highlightMaterial: {fileID: 2100000, guid: ae7f7dfc2b98f4f4d91bee5dba9b534f, type: 2}
 --- !u!114 &4733652510865599913
@@ -295,7 +294,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 4733652510865599913}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_MethodName: OptionSelected
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 4733652510865599914}
+          m_ObjectArgumentAssemblyTypeName: TextOption, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &4733652510865599919
