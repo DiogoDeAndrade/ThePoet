@@ -61,7 +61,10 @@ public class TextOption : MonoBehaviour, IPointerClickHandler
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        // Detected right click on this, call the GameManager
-        GameManager.instance.OptionClear(this);
+        // Detected click on this, call the GameManager if right click
+        if (eventData.button == PointerEventData.InputButton.Right)
+        {
+            GameManager.instance.OptionClear(this);
+        }
     }
 }

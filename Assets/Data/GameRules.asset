@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: GameRules
   m_EditorClassIdentifier: 
   autoPass: 1
-  autoPassTime: 10
-  timePerSelectedPhrase: 2.5
+  autoPassTime: 20
+  timePerSelectedPhrase: 5
   canRemovePhrase: 1
-  removePhrasePenaltyTime: 1
+  removePhrasePenaltyTime: 2

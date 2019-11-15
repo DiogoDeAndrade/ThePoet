@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 #if UNITY_EDITOR
 using System.Text.RegularExpressions;
-using NaughtyAttributes;
 #endif
+using NaughtyAttributes;
 
 [CreateAssetMenu(menuName = "ThePoet/GameRules")]
 public class GameRules : ScriptableObject
