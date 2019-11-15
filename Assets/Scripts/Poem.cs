@@ -11,6 +11,9 @@ public class Poem : MonoBehaviour
     public float            alphaSpeed = 1.0f;
     public float            alphaFadeLimit = 950.0f;
 
+    List<int>       valid_syllable_lengths;
+    List<string>    valid_last_syllables;
+
     struct PoemPhrase
     {
         public PhraseBook.Phrase phrase;
@@ -83,5 +86,29 @@ public class Poem : MonoBehaviour
         poem.Add(pp);
 
         scrollTimer += scrollTime;
+
+        if (valid_syllable_lengths == null) valid_syllable_lengths = new List<int>();
+
+        if (valid_syllable_lengths.IndexOf(phrase.nSyllables) == -1)
+        {
+            valid_syllable_lengths.Add(phrase.nSyllables);
+        }
+
+        if (valid_last_syllables == null) valid_last_syllables = new List<string>();
+
+        if (valid_last_syllables.IndexOf(phrase.lastSyllable) == -1)
+        {
+            valid_last_syllables.Add(phrase.lastSyllable);
+        }
+    }
+
+    public List<int> GetSyllableLengths()
+    {
+        return valid_syllable_lengths;
+    }
+
+    public List<string> GetLastSyllables()
+    {
+        return valid_last_syllables;
     }
 }

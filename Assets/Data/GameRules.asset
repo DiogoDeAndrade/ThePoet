@@ -17,3 +17,9 @@ MonoBehaviour:
   timePerSelectedPhrase: 5
   canRemovePhrase: 1
   removePhrasePenaltyTime: 2
+  randomWithSameSyllablesAndRhyme: 1
+  randomFactorSyllableAndRhyme: 1
+  randomWithSameSyllables: 1
+  randomFactorSyllables: 1
+  randomWithRhyme: 1
+  randomFactorRhyme: 1

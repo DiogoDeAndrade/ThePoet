@@ -13,7 +13,8 @@ public class GameManager : MonoBehaviour
     public Poem             poem;
     public RectTransform    timerFill;
 
-    float passTimer;
+    float                   passTimer;
+    List<PhraseBook.Phrase> alreadyUsed = new List<PhraseBook.Phrase>();
 
     // Start is called before the first frame update
     void Awake()
@@ -64,7 +65,47 @@ public class GameManager : MonoBehaviour
         {
             if (!to.HasPhrase())
             {
-                to.SetPhrase(phraseBook.GetRandomPhrase());
+                PhraseBook.Phrase p = null;
+
+                if (gameRules.randomWithSameSyllablesAndRhyme)
+                {
+                    float r = Random.Range(0.0f, 1.0f);
+                    if (r <= gameRules.randomFactorSyllableAndRhyme)
+                    {
+                        p = phraseBook.GetRandomPhrase(poem.GetSyllableLengths(), poem.GetLastSyllables(), alreadyUsed);
+                    }
+                }
+                else
+                {
+                    float pSyl = 0.0f;
+                    float pRhyme = 0.0f;
+
+                    if (gameRules.randomWithSameSyllables) pSyl = gameRules.randomFactorSyllables;
+                    if (gameRules.randomWithRhyme) pRhyme = gameRules.randomFactorRhyme;
+
+                    List<int> syllableLengths = null;
+                    List<string> syllables = null;
+
+                    if (pSyl > 0.0f) syllableLengths = poem.GetSyllableLengths();
+                    if (pRhyme > 0.0f) syllables = poem.GetLastSyllables();
+
+                    if ((pSyl > 0.0f) || (pRhyme > 0.0f))
+                    {
+                        p = phraseBook.GetRandomPhrase(pSyl, syllableLengths, pRhyme, syllables, alreadyUsed);
+                    }
+                }
+
+                if (p == null)
+                {
+                    p = phraseBook.GetRandomPhrase(alreadyUsed);
+                }
+
+                if (gameRules.avoidDuplicates)
+                {
+                    alreadyUsed.Add(p);
+                }
+
+                to.SetPhrase(p);
             }
         }
     }
