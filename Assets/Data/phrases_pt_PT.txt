@@ -1,5 +1,5 @@
-("A lâm-pa-da a-ce-sa", "sa", "acesa", 7)A lâmpada acesa
-("Ou-trem a a-cen-deu", "deu", "acendeu", 6)Outrem a acendeu
+("A lâm-pa-da ace-sa", "sa", "acesa", 6)A lâmpada acesa
+("Ou-trem a acen-deu", "deu", "acendeu", 5)Outrem a acendeu
 ("Bai-xa uma be-le-za", "za", "beleza", 6)Baixa uma beleza
 ("So-bre o chão que é meu.", "meu", "meu", 7)Sobre o chão que é meu.
 ("No quar-to de-ser-to", "to", "deserto", 6)No quarto deserto
@@ -383,7 +383,7 @@
 ("Des-te pa-vor, do ar-cho-te", "te", "archote", 8)Deste pavor, do archote
 ("Se apa-gar, que me gui-a!", "a", "guia", 7)Se apagar, que me guia!
 ("Cin-zas de idéia e de no-me", "me", "nome", 8)Cinzas de idéia e de nome
-("Em mim, e a voz:Ó mun-do,", "do", "mundo", 7)Em mim, e a voz:Ó mundo,
+("Em mim, e a vo-zÓ mun-do,", "do", "mundo", 8)Em mim, e a vozÓ mundo,
 ("Ser-men-te em ti eu sou--me...", "me", "soume", 9)Sermente em ti eu sou-me...
 ("Me-ro eco de-mim, me inun-do", "do", "inundo", 8)Mero eco demim, me inundo
 ("De on-das de ne-gro lu-me", "me", "lume", 8)De ondas de negro lume
@@ -460,7 +460,7 @@
 ("Faz--me cho-rar.", "rar", "chorar", 5)Faz-me chorar.
 ("Cho-ve. É dia de Na-tal", "tal", "Natal", 7)Chove. É dia de Natal
 ("Cho-ve. É dia de Na-tal.", "tal", "Natal", 7)Chove. É dia de Natal.
-("Lá pa-ra o Nor-te é me-lhor:", "lhor:", "melhor:", 9)Lá para o Norte é melhor:
+("Lá pa-ra o Nor-te é me-lhor", "lhor", "melhor", 9)Lá para o Norte é melhor
 ("Há a ne-ve que faz mal,", "mal", "mal", 7)Há a neve que faz mal,
 ("E o frio que ain-da é pi-or.", "or", "pior", 9)E o frio que ainda é pior.
 ("E to-da a gen-te é con-ten-te", "te", "contente", 10)E toda a gente é contente
@@ -732,7 +732,7 @@
 ("E as-sim a ho-ra pas-sa", "sa", "passa", 8)E assim a hora passa
 ("Di-to-sos a quem ace-na", "na", "acena", 7)Ditosos a quem acena
 ("Um len-ço de des-pe-di-da!", "da", "despedida", 8)Um lenço de despedida!
-("São fe-li-zes : têm pe-na...", "na", "pena", 8)São felizes : têm pena...
+("São fe-li-zes  têm pe-na...", "na", "pena", 8)São felizes  têm pena...
 ("Eu so-fro sem pe-na a vi-da.", "da", "vida", 9)Eu sofro sem pena a vida.
 ("Dôo--me até on-de pen-so,", "so", "penso", 8)Dôo-me até onde penso,
 ("E a dor é já de pen-sar,", "sar", "pensar", 8)E a dor é já de pensar,
@@ -988,7 +988,7 @@
 ("O Uni-ver-so é o seu ras-to...", "to", "rasto", 9)O Universo é o seu rasto...
 ("Deus é a sua som-bra...", "bra", "sombra", 6)Deus é a sua sombra...
 ("Bri-lha uma voz na nou-te...", "te", "noute", 7)Brilha uma voz na noute...
-("Em mim, e a voz: Ó mun-do,", "do", "mundo", 8)Em mim, e a voz: Ó mundo,
+("Em mim, e a voz Ó mun-do,", "do", "mundo", 8)Em mim, e a voz Ó mundo,
 ("Me-ro eco de mim, me inun-do", "do", "inundo", 8)Mero eco de mim, me inundo
 ("Em que pa-ra Deus me afun-do.", "do", "afundo", 8)Em que para Deus me afundo.
 ("Vá-cuo além de pro-fun-do,", "do", "profundo", 7)Vácuo além de profundo,
@@ -1012,7 +1012,7 @@
 ("Es-tá em tor-no na pom-ba, ou de la-do?", "do", "lado", 12)Está em torno na pomba, ou de lado?
 ("En-tre o ba-ter ras-ga-do dos pen-dões", "dões", "pendões", 11)Entre o bater rasgado dos pendões
 ("E o ces-sar dos cla-rins na tar-de alhei-a,", "a", "alheia", 12)E o cessar dos clarins na tarde alheia,
-("A der-ro-ta fi-cou : co-mo uma cheia", "cheia", "cheia", 11)A derrota ficou : como uma cheia
+("A der-ro-ta fi-cou  co-mo uma cheia", "cheia", "cheia", 11)A derrota ficou  como uma cheia
 ("Do mal co-briu os va-gos ba-ta-lhões.", "lhões", "batalhões", 10)Do mal cobriu os vagos batalhões.
 ("Foi em vão que o Rei lou-co os seus va-rões", "rões", "varões", 12)Foi em vão que o Rei louco os seus varões
 ("Trou-xe ao pro-li-xo pré-li-o, sem idéi-a.", "a", "idéia", 12)Trouxe ao prolixo prélio, sem idéia.
@@ -1220,7 +1220,7 @@
 ("Quan-do a cin-tu-ra trí-pli-ce de-no-ta", "ta", "denota", 12)Quando a cintura tríplice denota
 ("So-li-dão e des-gra-ça e amar-gu-ra!", "ra", "amargura", 11)Solidão e desgraça e amargura!
 ("Mas da noi-te sem fim um ras-tro bro-ta,", "ta", "brota", 11)Mas da noite sem fim um rastro brota,
-("Ves-tí-gi-os de ma-lig-na for-mo-su-ra :", ":", ":", 13)Vestígios de maligna formosura :
+("Ves-tí-gi-os de ma-lig-na for-mo-su-ra", "ra", "formusura", 13)Vestígios de maligna formosura 
 ("É a lua além de Deus, ál-gi-da e ig-no-ta.", "ta", "ignota", 13)É a lua além de Deus, álgida e ignota.
 ("Gran-des mis-té-ri-os ha-bi-tam", "tam", "habitam", 9)Grandes mistérios habitam
 ("O li-mi-ar do meu ser,", "ser", "ser", 7)O limiar do meu ser,
@@ -1248,7 +1248,7 @@
 ("Ter--me-ia ou-tro cri-a-do.", "do", "criado", 9)Ter-me-ia outro criado.
 ("Deu--me olhos pa-ra ver.", "ver", "ver", 7)Deu-me olhos para ver.
 ("Olho, ve-jo, acre-di-to.", "to", "acredito", 6)Olho, vejo, acredito.
-("Co-mo ou-sa-rei di-zer:", "zer:", "dizer:", 7)Como ousarei dizer:
+("Co-mo ou-sa-rei di-zer", "zer", "dizer", 7)Como ousarei dizer
 ("<<-Ce-go, fo-ra eu ben-di-to >>?", ">>", ">>", 10)<<Cego, fora eu bendito >>?
 ("Co-mo olhar, a ra-zão", "zão", "razão", 6)Como olhar, a razão
 ("Deus me deu, pa-ra ver", "ver", "ver", 6)Deus me deu, para ver
@@ -1342,7 +1342,7 @@
 ("Ser quem me agra-da...", "da", "agrada", 5)Ser quem me agrada...
 ("Mas ali fui fe-liz", "liz", "feliz", 5)Mas ali fui feliz
 ("Não di-gas na-da.", "da", "nada", 5)Não digas nada.
-("Não: não di-gas na-da!", "da", "nada", 6)Não: não digas nada!
+("Não não di-gas na-da!", "da", "nada", 6)Não não digas nada!
 ("Su-por o que di-rá", "rá", "dirá", 6)Supor o que dirá
 ("A tua bo-ca ve-la-da", "da", "velada", 7)A tua boca velada
 ("É ou-vi--lo já", "já", "já", 6)É ouvi-lo já
@@ -1351,7 +1351,7 @@
 ("O que és não vem à flor", "flor", "flor", 7)O que és não vem à flor
 ("Das fra-ses e dos di-as.", "as", "dias", 7)Das frases e dos dias.
 ("És me-lhor do que tu.", "tu", "tu", 6)És melhor do que tu.
-("Não di-gas na-da: sê!", "sê", "sê", 6)Não digas nada: sê!
+("Não di-gas na-da sê!", "sê", "sê", 6)Não digas nada sê!
 ("Gra-ça do cor-po nu", "nu", "nu", 6)Graça do corpo nu
 ("Que in-vi-sí-vel se vê.", "vê", "vê", 7)Que invisível se vê.
 ("O An-dai-me", "me", "Andaime", 4)O Andaime
@@ -1378,7 +1378,7 @@
 ("Gas-tei tu-do que não ti-nha.", "nha", "tinha", 8)Gastei tudo que não tinha.
 ("Sou mais ve-lho do que sou.", "sou", "sou", 7)Sou mais velho do que sou.
 ("A ilu-são, que me man-ti-nha,", "nha", "mantinha", 8)A ilusão, que me mantinha,
-("Só no pal-co era rai-nha:", "nha:", "rainha:", 7)Só no palco era rainha:
+("Só no pal-co era rai-nha", "nha", "rainha", 7)Só no palco era rainha
 ("Des-piu--se, e o rei-no aca-bou.", "bou", "acabou", 10)Despiu-se, e o reino acabou.
 ("Le-ve som das águas len-tas,", "tas", "lentas", 7)Leve som das águas lentas,
 ("Gu-lo-sas da mar-gem ida,", "ida", "ida", 7)Gulosas da margem ida,
@@ -1463,7 +1463,7 @@
 ("Que me lem-bra em ti.", "ti", "ti", 6)Que me lembra em ti.
 ("Com que ân-sia tão rai-va", "va", "raiva", 7)Com que ânsia tão raiva
 ("Que-ro aque-le ou-tro-ra!", "ra", "outrora", 7)Quero aquele outrora!
-("E eu era fe-liz? Não sei:", "sei:", "sei:", 7)E eu era feliz? Não sei:
+("E eu era fe-liz? Não sei", "sei", "sei", 7)E eu era feliz? Não sei
 ("Fui-o ou-tro-ra ago-ra.", "ra", "agora", 7)Fui-o outrora agora.
 ("Põe--me as mãos nos om-bros...", "bros", "ombros", 8)Põe-me as mãos nos ombros...
 ("Bei-ja--me na fron-te...", "te", "fronte", 7)Beija-me na fronte...

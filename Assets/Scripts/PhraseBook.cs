@@ -27,7 +27,9 @@ public class PhraseBook : ScriptableObject
     }
 
     public string       scoreText = "Pontos";
-    public string       bonusText = "Bónus";
+    public string[]     goodRhymeText;
+    public string[]     goodMetricText;
+    public string[]     failText;
 
     public TextAsset                    phraseDB;
     public TextAsset                    rhymeDB;
@@ -221,6 +223,30 @@ public class PhraseBook : ScriptableObject
         }
 
         return false;
+    }
+
+    public string GetRandomRhymePraise(int score)
+    {
+        int r = Random.Range(0, goodRhymeText.Length);
+
+        return string.Format(goodRhymeText[r], score);
+    }
+
+    public string GetRandomMetricPraise(int score)
+    {
+        int r = Random.Range(0, goodMetricText.Length);
+
+        return string.Format(goodMetricText[r], score);
+    }
+
+    public string GetFailText(int r)
+    {
+        return failText[r];
+    }
+
+    public int GetFailCount()
+    {
+        return failText.Length;
     }
 
 #if UNITY_EDITOR

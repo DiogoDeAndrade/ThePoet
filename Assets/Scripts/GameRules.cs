@@ -50,6 +50,9 @@ public class GameRules : ScriptableObject
     [ShowIf("allowScoreMetric")]
     public float    bonusMetric = 0.0f;
 
+    [Header("Fail conditions")]
+    public bool     failOnNoMetricAndNoRhyme = true;
+
     public bool notRandomWithSameSyllablesAndRhyme()
     {
         return !randomWithSameSyllablesAndRhyme;

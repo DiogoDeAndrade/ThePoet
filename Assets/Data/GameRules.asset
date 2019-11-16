@@ -24,3 +24,11 @@ MonoBehaviour:
   randomWithRhyme: 1
   randomFactorRhyme: 1
   avoidDuplicates: 1
+  allowScorePhrase: 1
+  scorePhrase: 10
+  allowScoreRhyme: 1
+  scoreRhyme: 40
+  bonusRhyme: 0.5
+  allowScoreMetric: 1
+  scoreMetric: 20
+  bonusMetric: 0.25

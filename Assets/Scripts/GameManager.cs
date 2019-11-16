@@ -10,17 +10,30 @@ public class GameManager : MonoBehaviour
 
     public static GameManager instance;
 
-    public PhraseBook       phraseBook;
+    public PhraseBook[]     phraseBooks;
+    public PhraseBook       currentPhraseBook;
     public GameRules        gameRules;
     public TextOption[]     textOptions;
     public Poem             poem;
     public RectTransform    timerFill;
     public TextMeshProUGUI  scoreText;
+    public Balloon[]        rhymeScore;
+    public Balloon[]        metricScore;
+    public Balloon[]        fail;
+    public Image            poetImage;
+    public Sprite           poetDejected;
+    public AudioClip        clapAudio;
+    public float            clapProb = 0.1f;
+    public AudioClip        smallBoo;
+    public float            booProb = 0.5f;
+    public AudioClip        bigBoo;
 
     float                   passTimer;
     List<PhraseBook.Phrase> alreadyUsed = new List<PhraseBook.Phrase>();
     float                   score = 0;
     float                   bonus = 1.0f;
+    int                     fails = 0;
+    Coroutine               gameOverCR;
 
     // Start is called before the first frame update
     void Awake()
@@ -32,6 +45,16 @@ public class GameManager : MonoBehaviour
         }
 
         instance = this;
+
+        string language = Transition.GetProperty("Language");
+        foreach (var pb in phraseBooks)
+        {
+            if (pb.name == language)
+            {
+                currentPhraseBook = pb;
+                break;
+            }
+        }
 
         Invoke("SetPhrases", 0.1f);
 
@@ -80,7 +103,7 @@ public class GameManager : MonoBehaviour
                     float r = Random.Range(0.0f, 1.0f);
                     if (r <= gameRules.randomFactorSyllableAndRhyme)
                     {
-                        p = phraseBook.GetRandomPhrase(poem.GetSyllableLengths(), poem.GetLastWords(), alreadyUsed);
+                        p = currentPhraseBook.GetRandomPhrase(poem.GetSyllableLengths(), poem.GetLastWords(), alreadyUsed);
                     }
                 }
                 else
@@ -99,13 +122,13 @@ public class GameManager : MonoBehaviour
 
                     if ((pSyl > 0.0f) || (pRhyme > 0.0f))
                     {
-                        p = phraseBook.GetRandomPhrase(pSyl, syllableLengths, pRhyme, words, alreadyUsed);
+                        p = currentPhraseBook.GetRandomPhrase(pSyl, syllableLengths, pRhyme, words, alreadyUsed);
                     }
                 }
 
                 if (p == null)
                 {
-                    p = phraseBook.GetRandomPhrase(alreadyUsed);
+                    p = currentPhraseBook.GetRandomPhrase(alreadyUsed);
                 }
 
                 if (gameRules.avoidDuplicates)
@@ -120,6 +143,8 @@ public class GameManager : MonoBehaviour
 
     public void OptionSelected(TextOption option)
     {
+        if (gameOverCR != null) return;
+
         if (option != null)
         {
             poem.AddPhrase(option.GetPhrase());
@@ -161,7 +186,23 @@ public class GameManager : MonoBehaviour
 
         bonus += inBonus;
 
-        Debug.Log("Add score " + s + "(" + type + ")");
+        switch (type)
+        {
+            case ScoreType.Rhyme:
+                {
+                    // Choose random rhyme balloon
+                    Balloon balloon = rhymeScore[Random.Range(0, rhymeScore.Length)];
+                    balloon.SetText(currentPhraseBook.GetRandomRhymePraise(Mathf.FloorToInt(s)));
+                }
+                break;
+            case ScoreType.Metric:
+                {
+                    // Choose random rhyme balloon
+                    Balloon balloon = metricScore[Random.Range(0, metricScore.Length)];
+                    balloon.SetText(currentPhraseBook.GetRandomMetricPraise(Mathf.FloorToInt(s)));
+                }
+                break;
+        }
 
         UpdateScore();
     }
@@ -173,6 +214,66 @@ public class GameManager : MonoBehaviour
 
     void UpdateScore()
     {
-        scoreText.text = phraseBook.scoreText + ": " + Mathf.FloorToInt(score);
+        scoreText.text = currentPhraseBook.scoreText + ": " + Mathf.FloorToInt(score);
+    }
+
+    public void LooseLife()
+    {
+        if (fails >= currentPhraseBook.GetFailCount())
+        {
+            // Game Over!
+            poem.gameObject.SetActive(false);
+            poetImage.sprite = poetDejected;
+
+            SoundManager.PlaySound(SoundManager.SoundType.SoundFX, bigBoo);
+
+            gameOverCR = StartCoroutine(GameOverCR());
+        }
+        else
+        {
+            Balloon balloon = fail[Random.Range(0, fail.Length)];
+            balloon.SetText(currentPhraseBook.GetFailText(fails));
+
+            if (Random.Range(0.0f, 1.0f) < booProb)
+            {
+                SoundManager.PlaySound(SoundManager.SoundType.SoundFX, smallBoo);
+            }
+
+            fails++;
+        }
+    }
+
+    public void Clap()
+    {
+        if (Random.Range(0.0f, 1.0f) < clapProb)
+        {
+            SoundManager.PlaySound(SoundManager.SoundType.SoundFX, clapAudio, Random.Range(0.8f, 1.0f), Random.Range(0.8f, 1.2f));
+        }
+    }
+
+    IEnumerator GameOverCR()
+    {
+        yield return new WaitForSeconds(1.0f);
+
+        float tElapsed = 0.0f;
+        var   rt = poetImage.GetComponent<RectTransform>();
+        var   startPos = rt.anchoredPosition;
+        var   pos = startPos;
+
+        while (tElapsed < 3.0f)
+        {
+            if ((tElapsed < 2.0f) && ((tElapsed + Time.deltaTime) > 2))
+            {
+                Transition.HideGame("Title");
+            }
+            tElapsed += Time.deltaTime;
+
+            float s = Mathf.Abs(Mathf.Sin(tElapsed * 12.0f));
+            pos.x -= 500.0f * Time.deltaTime;
+            pos.y = startPos.y + 30.0f * s;
+            rt.anchoredPosition = pos;
+
+            yield return null;
+        }
     }
 }

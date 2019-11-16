@@ -91,7 +91,7 @@ output_file.close()
 file.close()
 
 rhyme_lang = "pt"
-if (lang == "pt_PT"):
+if (language == "pt_PT"):
     rhyme_lang = "pt"
 
 count = 0
@@ -122,6 +122,15 @@ if (rhyme_lang == "pt"):
     for word in rhymes:
         if (not word in rhymes[word]):
             rhymes[word].append(word)
+
+    # Add reverse search (if a/b rhymes, b/a also rhymes)
+    for word in rhymes:
+        for rword in rhymes[word]:
+            if (not rword in rhymes):
+                rhymes[rword] = [ word ]
+            else:
+                if (not word in rhymes[rword]):
+                    rhymes[rword].append(word)
 
 output_file = open("rhymes_" + language + ".txt", "wt")
 

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using TMPro;
 
 public class Poem : MonoBehaviour
@@ -10,11 +11,14 @@ public class Poem : MonoBehaviour
     public float            scrollTime = 0.5f;
     public float            alphaSpeed = 1.0f;
     public float            alphaFadeLimit = 950.0f;
-
+    public Sprite[]         poetSprites;
+    public Image            poetImage;
+            
     List<int>       valid_syllable_lengths;
     List<string>    valid_last_words;
     GameRules       gameRules;
     PhraseBook      phraseBook;
+    float           spriteSwitchTime;
 
     struct PoemPhrase
     {
@@ -34,7 +38,7 @@ public class Poem : MonoBehaviour
         midPointY = rect.center.y;
 
         gameRules = GameManager.instance.gameRules;
-        phraseBook = GameManager.instance.phraseBook;
+        phraseBook = GameManager.instance.currentPhraseBook;
     }
 
     void Update()
@@ -61,15 +65,39 @@ public class Poem : MonoBehaviour
                     phrase.displayText.color = c;
                 }
             }
+
+            spriteSwitchTime -= Time.deltaTime;
+            if (spriteSwitchTime < 0.0f)
+            {
+                poetImage.sprite = poetSprites[Random.Range(0, poetSprites.Length)];
+                spriteSwitchTime = 0.1f;
+            }
         }
         else
         {
             scrollTimer = 0.0f;
+            poetImage.sprite = poetSprites[0];
         }
     }
 
     public void AddPhrase(PhraseBook.Phrase phrase)
     {
+        if (phrase == null)
+        {
+            if (poem.Count == 0)
+            {
+                GameManager.instance.LooseLife();
+                return;
+            }
+
+            var lastPhrase = poem[poem.Count - 1];
+            if (lastPhrase.phrase == null)
+            {
+                GameManager.instance.LooseLife();
+                return;
+            }
+        }
+
         PoemPhrase pp = new PoemPhrase();
         pp.displayText = Instantiate(textPrefab, transform);
         pp.displayRectTransform = pp.displayText.GetComponent<RectTransform>();
@@ -110,88 +138,102 @@ public class Poem : MonoBehaviour
 
             var stanza = GetCurrentStanza();
 
-            if (gameRules.allowScoreRhyme)
+            float rhymeScore = 0;
+            if (stanza.Count >= 2)
             {
-                if (stanza.Count >= 2)
-                {
-                    string currentLastWord = stanza[0].lastWord;
+                string currentLastWord = stanza[0].lastWord;
 
-                    // Get first rhyme
-                    int count = -1;
-                    for (int i = 1; i < stanza.Count; i++)
+                // Get first rhyme
+                int count = -1;
+                for (int i = 1; i < stanza.Count; i++)
+                {
+                    if (phraseBook.IsRhyme(stanza[i], currentLastWord))
+                    {
+                        count = i;
+                        break;
+                    }
+                }
+
+                if (count != -1)
+                {
+                    float   currentBonus = 1.0f;
+
+                    // Compute rhyme bonus
+                    for (int i = count; i < stanza.Count; i++)
                     {
                         if (phraseBook.IsRhyme(stanza[i], currentLastWord))
                         {
-                            count = i;
+                            rhymeScore = gameRules.scoreRhyme * currentBonus * count;
+                            currentBonus += gameRules.bonusRhyme;
+                        }
+                        else
+                        {
+                            rhymeScore = 0;
                             break;
                         }
                     }
 
-                    if (count != -1)
+                    if (rhymeScore > 0)
                     {
-                        float   rhymeBonus = 0;
-                        float   currentBonus = 1.0f;
-
-                        // Compute rhyme bonus
-                        for (int i = count; i < stanza.Count; i++)
-                        {
-                            if (phraseBook.IsRhyme(stanza[i], currentLastWord))
-                            {
-                                rhymeBonus = gameRules.scoreRhyme * currentBonus;
-                                currentBonus += gameRules.bonusRhyme;
-                            }
-                            else break;
-                        }
-
-                        if (rhymeBonus > 0)
-                        {
-                            GameManager.instance.ChangeScore(GameManager.ScoreType.Rhyme, rhymeBonus, 0.0f);
-                        }
+                        if (gameRules.allowScoreRhyme) GameManager.instance.ChangeScore(GameManager.ScoreType.Rhyme, rhymeScore, 0.0f);
                     }
-
                 }
+
             }
 
-            if (gameRules.allowScoreMetric)
-            {
-                if (stanza.Count >= 2)
-                {
-                    int currentSylCount = stanza[0].nSyllables;
+            float metricScore = 0.0f;
 
-                    // Get first rhyme
-                    int count = -1;
-                    for (int i = 1; i < stanza.Count; i++)
+            if (stanza.Count >= 2)
+            {
+                int currentSylCount = stanza[0].nSyllables;
+
+                // Get first rhyme
+                int count = -1;
+                for (int i = 1; i < stanza.Count; i++)
+                {
+                    if (Mathf.Abs(stanza[i].nSyllables - currentSylCount) <= 1)
+                    {
+                        count = i;
+                        break;
+                    }
+                }
+
+                if (count != -1)
+                {
+                    float currentBonus = 1.0f;
+
+                    // Compute rhyme bonus
+                    for (int i = count; i < stanza.Count; i++)
                     {
                         if (Mathf.Abs(stanza[i].nSyllables - currentSylCount) <= 1)
                         {
-                            count = i;
+                            metricScore = gameRules.scoreMetric * currentBonus * count;
+                            currentBonus += gameRules.bonusMetric;
+                        }
+                        else
+                        {
+                            metricScore = 0;
                             break;
                         }
                     }
 
-                    if (count != -1)
+                    if (metricScore > 0)
                     {
-                        float metricScore = 0;
-                        float currentBonus = 1.0f;
-
-                        // Compute rhyme bonus
-                        for (int i = count; i < stanza.Count; i++)
-                        {
-                            if (Mathf.Abs(stanza[i].nSyllables - currentSylCount) <= 1)
-                            {
-                                metricScore = gameRules.scoreMetric * currentBonus;
-                                currentBonus += gameRules.bonusMetric;
-                            }
-                            else break;
-                        }
-
-                        if (metricScore > 0)
-                        {
-                            GameManager.instance.ChangeScore(GameManager.ScoreType.Metric, metricScore, 0.0f);
-                        }
+                        if (gameRules.allowScoreMetric) GameManager.instance.ChangeScore(GameManager.ScoreType.Metric, metricScore, 0.0f);                            
                     }
-
                 }
+            }
+
+            if ((metricScore == 0.0f) && (rhymeScore == 0.0f) && (stanza.Count > 2))
+            {
+                if (gameRules.failOnNoMetricAndNoRhyme)
+                {
+                    GameManager.instance.LooseLife();
+                }
+            }
+            else
+            {
+                GameManager.instance.Clap();
             }
         }
     }

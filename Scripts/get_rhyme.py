@@ -52,5 +52,12 @@ def get_rhymes(lang, word, retry = True):
         else:
             print("Timeout retrieving " + word)
             return []
+    except TimeoutError:
+        if (retry):
+            print("Timeout retrieving " + word + ", retrying...")
+            return get_rhymes(lang, word, False)
+        else:
+            print("Timeout retrieving " + word)
+            return []
 
 #print(get_rhymes("pt", "chão"))
