@@ -5,7 +5,7 @@ Baixa uma beleza
 Sobre o chão que é meu.
 No quarto deserto
 
-Salvo o meu sonhar,
+Salvo o meu sonhar,
 Faz no chão incerto
 Um círculo a ondear.
 E entre a sombra e a luz
@@ -29,7 +29,7 @@ que voluntariamente abandonei
 O meu trono de sonhos e cansaços.
 Minha espada, pesada a braços lassos,
 Em mão viris e calmas entreguei;
-E meu cetro e coroa — eu os deixei
+E meu cetro e coroa  eu os deixei
 Na antecâmara, feitos em pedaços
 Minha cota de malha, tão inútil,
 Minhas esporas de um tinir tão fútil,
@@ -42,15 +42,15 @@ Abismo
 Olho o Tejo, e de tal arte
 Que me esquece olhar olhando,
 E súbito isto me bate
-De encontro ao devaneando —
+De encontro ao devaneando 
 O que é sério, e correr?
 O que é está-lo eu a ver?
 Sinto de repente pouco,
 
-Vácuo, o momento, o lugar.
-Tudo de repente é oco —
+Vácuo, o momento, o lugar.
+Tudo de repente é oco 
 Mesmo o meu estar a pensar.
-Tudo — eu e o mundo em redor —
+Tudo  eu e o mundo em redor 
 Fica mais que exterior.
 Perde tudo o ser, ficar,
 E do pensar se me some.
@@ -61,9 +61,9 @@ E súbito encontro Deus.
 
 A Grande Esfinge do Egito
 A Grande Esfinge do Egito sonha por este papel dentro...
-Escrevo — e ela aparece-me através da minha mão transparente
+Escrevo  e ela aparece-me através da minha mão transparente
 E ao canto do papel erguem-se as pirâmides...
-Escrevo — perturbo-me de ver o bico da minha pena
+Escrevo  perturbo-me de ver o bico da minha pena
 Ser o perfil do rei Quéops ...
 De repente paro...
 Escureceu tudo... Caio por um abismo feito de tempo...
@@ -89,7 +89,7 @@ Infiel, no ermo porto, ao seu destino.
 Por que não ergue ferro e segue o atino
 De navegar, casado com o seu fado ?
 
-Ah! falta quem o lance ao mar, e alado
+Ah! falta quem o lance ao mar, e alado
 Torne seu vulto em velas; peregrino
 Frescor de afastamento, no divino
 Amplexo da manhã, puro e salgado.
@@ -118,7 +118,7 @@ Andei léguas de sombra
 Andei léguas de sombra
 Dentro em meu pensamento.
 Floresceu às avessas
-Meu ócio com sem-nexo,
+Meu ócio com sem nexo,
 E apagaram-se as lâmpadas
 Na alcova cambaleante.
 Tudo prestes se volve
@@ -128,11 +128,11 @@ Dos veludos da alcova,
 Não pela minha vista.
 Há um oásis no Incerto
 E, como uma suspeita
-De luz por não-há-frinchas,
+De luz por não há frinchas,
 Passa uma caravana.
 Esquece-me de súbito
 
-Como é o espaço, e o tempo
+Como é o espaço, e o tempo
 Em vez de horizontal
 É vertical.
 
@@ -172,7 +172,7 @@ Na noite que fica.
 Aqui onde se espera
 Sossego, só sossego
 
-Isso que outrora era,
+Isso que outrora era,
 Aqui onde, dormindo,
 Se sente a noite vindo,
 E nada importaria
@@ -200,7 +200,7 @@ Que ouvi-la quase tranqüila
 Pelo ar a ondear e a ir...
 Silêncio a tremeluzir...
 
-As minhas Ansiedades
+As minhas Ansiedades
 As minhas ansiedades caem
 Por uma escada abaixo.
 Os meus desejos balouçam-se
@@ -241,7 +241,7 @@ E o teu perfil princesas no degredo...
 Entre buxos e ao pé de bancos frios
 Nas entrevistas alamedas, quedo
 
-O vendo põe o seu arrastado medo
+O vendo põe o seu arrastado medo
 Saudoso o longes velas de navios.
 Mas quando o mar subir na praia e for
 Arrasar os castelos que na areia
@@ -282,7 +282,7 @@ E esta paisagem é cheia de sol deste lado...
 Mas no meu espírito o sol deste dia é porto sombrio
 E os navios que saem do porto são estas árvores ao sol...
 
-Liberto em duplo, abandonei-me da paisagem abaixo...
+Liberto em duplo, abandonei-me da paisagem abaixo...
 O vulto do cais é a estrada nítida e calma
 Que se levanta e se ergue como um muro,
 E os navios passam por dentro dos troncos das árvores
@@ -325,7 +325,7 @@ Com que fizeram a navegação,
 Jazem longínquos, lúgubres parceiros
 Do nosso esquecimento e ingratidão.
 
-Só o mar às vezes, quando são
+Só o mar às vezes, quando são
 Grandes as ondas e é deveras mar
 Parece incertamente recordar.
 Mas sonho... O mar é água, é água nua,
@@ -371,7 +371,7 @@ Fazei-me ouvir , como a um perdão,
 Numa reminiscência de ensinar,
 O antigo português que fala o mar!
 
-Baladas de uma outra terra
+Baladas de uma outra terra
 Baladas de uma outra terra, aliadas
 Às saudades das fadas, amadas por gnomos idos,
 Retinem lívidas ainda aos ouvidos
@@ -414,7 +414,7 @@ Mas não me acarinha,
 Não me acalma nada...
 Pobre criancinha
 
-Perdida na estrada !...
+Perdida na estrada !...
 
 Brilha uma Voz na Noute...
 Brilha uma voz na noute
@@ -454,7 +454,7 @@ Do que a dos pinheirais.
 
 Cansa Sentir Quando se Pensa
 
-Cansa sentir quando se pensa.
+Cansa sentir quando se pensa.
 No ar da noite a madrugar
 Há uma solidão imensa
 Que tem por corpo o frio do ar.
@@ -496,7 +496,7 @@ Cessa, que, enquanto
 O ouvi, ouvia
 Uma outra voz
 
-Com que vindo
+Com que vindo
 Nos interstícios
 Do brando encanto
 Com que o teu canto
@@ -540,7 +540,7 @@ Que não é chuva, mas um sussurrar
 Que de si mesmo, ao sussurrar, se esquece.
 Chove. Nada apetece...
 
-Não paira vento, não há céu que eu sinta.
+Não paira vento, não há céu que eu sinta.
 Chove longínqua e indistintamente,
 Como uma coisa certa que nos minta,
 Como um grande desejo que nos mente.
@@ -581,7 +581,7 @@ Começa a ir ser dia,
 O céu negro começa,
 Numa menor negrura
 
-Da sua noite escura,
+Da sua noite escura,
 A Ter uma cor fria
 Onde a negrura cessa.
 Um negro azul-cinzento
@@ -626,7 +626,7 @@ Como estou esquecido !
 Canta-me ao ouvido
 E adormecerei...
 
-Que é feito de tudo ?
+Que é feito de tudo ?
 Que fiz eu de mim?
 Deixa-me dormir,
 Dormir a sorrir
@@ -666,7 +666,7 @@ Conta a lenda que dormia
 Conta a lenda que dormia
 Uma Princesa encantada
 
-A quem só despertaria
+A quem só despertaria
 Um Infante, que viria
 De além do muro da estrada.
 Ele tinha que, tentado,
@@ -710,7 +710,7 @@ Não sei se sou feliz
 Nem se desejo sê-lo.
 Trêmulos vincos risonhos
 
-Na água adormecida.
+Na água adormecida.
 Por que fiz eu dos sonhos
 A minha única vida?
 
@@ -750,7 +750,7 @@ Tem qualquer coisa de gomo.
 Meu Deus, quando é que eu embarco?
 Ó fome, quando é que eu como ?
 
-Da minha idéia do mundo
+Da minha idéia do mundo
 Da minha idéia do mundo
 Caí...
 Vácuo além do profundo,
@@ -792,7 +792,7 @@ De eu ter passos comigo ?
 Do meu quarto, quando eu
 Por mim próprio mesmo
 
-Em alma mal existo,
+Em alma mal existo,
 Toma um outro sentido
 Em mim o Universo É uma nódoa esbatida
 De eu ser consciente sobre
@@ -833,7 +833,7 @@ A maresia dos dias.
 Dizem que finjo ou minto
 Dizem que finjo ou minto
 
-Tudo que escrevo. Não.
+Tudo que escrevo. Não.
 Eu simplesmente sinto
 Com a imaginação.
 Não uso o coração.
@@ -872,7 +872,7 @@ Como quem sabe estar morto;
 Com a alma só comovida
 Do sonho e pouco da vida.
 
-Dorme enquanto eu velo...
+Dorme enquanto eu velo...
 Dorme enquanto eu velo...
 Deixa-me sonhar...
 Nada em mim é risonho.
@@ -914,7 +914,7 @@ Um lúbrico vagar.
 Dorme no sonho de existir
 E na ilusão de amar.
 
-Tudo é nada, e tudo
+Tudo é nada, e tudo
 Um sonho finge ser.
 O 'spaço negro é mudo.
 Dorme, e, ao adormecer,
@@ -959,7 +959,7 @@ Para o que inda não sei.
 Melhor é nem sonhar nem não sonhar
 E nunca despertar.
 
-É brando o dia, brando o vento
+É brando o dia, brando o vento
 É brando o dia, brando o vento
 É brando o sol e brando o céu.
 Assim fosse meu pensamento !
@@ -998,7 +998,7 @@ Entrai por mim dentro ! Tornai
 Minha alma a vossa sombra leve !
 Depois, levando-me, passai !
 
-Ela ia, tranqüila pastorinha
+Ela ia, tranqüila pastorinha
 Ela ia, tranqüila pastorinha,
 Pela estrada da minha imperfeição.
 Segui-a, como um gesto de perdão,
@@ -1040,7 +1040,7 @@ No jardim lívido e frio...
 Passam sozinhas, a fio,
 Como um fumo indo, a rarear,
 
-Pelo ar longínquo e vazio,
+Pelo ar longínquo e vazio,
 Sob o, disperso pelo ar,
 Pálido pálio lunar ...
 
@@ -1082,7 +1082,7 @@ Que encantam os atentos ventos.
 
 Emissário de um rei desconhecido
 
-Emissário de um rei desconhecido,
+Emissário de um rei desconhecido,
 Eu cumpro informes instruções de além,
 E as bruscas frases que aos meus lábios vêm
 Soam-me a um outro e anômalo sentido...
@@ -1115,7 +1115,7 @@ E súbito isto me bate
 De encontro ao devaneando O que é ser-rio, e correr?
 O que é está-lo eu a ver?
 
-Sinto de repente pouco,
+Sinto de repente pouco,
 Vácuo, o momento, o lugar.
 Tudo de repente é oco Mesmo o meu estar a pensar.
 Tudo - eu e o mundo em redor Fica mais que exterior.
@@ -1153,7 +1153,7 @@ Caí...
 Vácuo além de profundo,
 Sem ter Eu nem Ali...
 
-Vácuo sem si-próprio, caos
+Vácuo sem si-próprio, caos
 De ser pensado como ser...
 Escada absoluta sem degraus...
 Visão que se não pode ver...
@@ -1193,7 +1193,7 @@ Tudo morreu, sem rastro e sem razões.
 A noite cobre o campo, que o Destino
 Com a morte tornou abandonado.
 
-Cessou, com cessar tudo, o desatino.
+Cessou, com cessar tudo, o desatino.
 Só no luar que nasce os pendões rotos
 'Strelam no absurdo campo desolado
 Uma derrota heráldica de ignotos.
@@ -1229,10 +1229,10 @@ Passa, se eu me medito;
 Se desperto, passou.
 E quem me sinto e morre
 No que me liga a mim
-Dorme onde o rio corre —
+Dorme onde o rio corre 
 Esse rio sem fim.
 
-Eros e Psique
+Eros e Psique
 ...E assim vêdes, meu Irmão, que as verdades que vos foram dadas no Grau de
 Neófito, e aquelas que vos foram dadas no Grau de Adepto Menor, são, ainda que
 opostas, a mesma verdade.
@@ -1305,7 +1305,7 @@ O igual do dia,
 E no exterior azul que vê
 Simples confia !
 
-Azul do céu faz pena a quem
+Azul do céu faz pena a quem
 Não pode ser
 Na alma um azul do céu também
 Com que viver
@@ -1348,7 +1348,7 @@ Qualquer memória
 Fixa e corpórea
 Onde pousaste
 
-A mão que teve
+A mão que teve
 Qualquer sentido
 Incompreendido.
 Mas tão de leve !...
@@ -1394,7 +1394,7 @@ Dum poeta antigo, de alma em outras gamas,
 Mas doente, e , num crepúsculo de espadas,
 Morrendo entre bandeiras desfraldadas
 
-Na última tarde de um império em chamas...
+Na última tarde de um império em chamas...
 
 Fresta
 Em meus momentos escuros
@@ -1435,7 +1435,7 @@ Negando o fruto e emurchecendo a flor ?
 Ninguém ou o Fado, e a fantasia siga
 A seu infiel e irreal sabor...
 
-Quem me dispôs para o que não pudesse ?
+Quem me dispôs para o que não pudesse ?
 Quem me fadou para o que não conheço
 Na teia do real que ninguém tece ?
 Quem me arrancou ao sonho que me odiava
@@ -1476,7 +1476,7 @@ E todo passo é uma cruz.
 
 Guia-me a só a razão
 
-Guia-me a só a razão.
+Guia-me a só a razão.
 Não me deram mais guia.
 Alumia-me em vão ?
 Só ela me alumia.
@@ -1514,7 +1514,7 @@ Com o som de rodas de automóvel...
 E apagam-se as luzes da igreja
 Na chuva que cessa ...
 
-Intervalo
+Intervalo
 Quem te disse ao ouvido esse segredo
 Que raras deusas têm escutado Aquele amor cheio de crença e medo
 Que é verdadeiro só se é segredado?...
@@ -1556,7 +1556,7 @@ Livre do meu enleio,
 Sério do que não é.
 Sentir? Sinta quem lê!
 
-Liberdade
+Liberdade
 Ai que prazer
 Não cumprir um dever,
 Ter um livro para ler
@@ -1598,7 +1598,7 @@ Em outra paisagem
 Digas que foi vã
 Toda essa viagem
 
-Até onde quis
+Até onde quis
 Ser quem me agrada...
 Mas ali fui feliz
 Não digas nada.
@@ -1641,7 +1641,7 @@ Que o mesmo sol faz morrer.
 Gastei tudo que não tinha.
 Sou mais velho do que sou.
 
-A ilusão, que me mantinha,
+A ilusão, que me mantinha,
 Só no palco era rainha:
 Despiu-se, e o reino acabou.
 Leve som das águas lentas,
@@ -1683,7 +1683,7 @@ Todo o teatro é o meu quintal, a minha infância
 Está em todos os lugares e a bola vem a tocar música,
 Uma música triste e vaga que passeia no meu quintal
 
-Vestida de cão verde tornando-se jockey amarelo...
+Vestida de cão verde tornando-se jockey amarelo...
 Tão rápida gira a bola entre mim e os músicos...
 Atiro-a de encontra à minha infância e ela
 Atravessa o teatro todo que está aos meus pés
@@ -1726,7 +1726,7 @@ Pobre velha música!
 Pobre velha música!
 Não sei por que agrado,
 
-Enche-se de lágrimas
+Enche-se de lágrimas
 Meu olhar parado.
 Recordo outro ouvir-te,
 Não sei se te ouvi
@@ -1765,7 +1765,7 @@ Fantasmas me limitam e me contêm.
 Dorme insciente de alheios corações,
 Coração de ninguém.
 
-Sorriso audível das folhas
+Sorriso audível das folhas
 Sorriso audível das folhas
 Não és mais que a brisa ali
 Se eu te olho e tu me olhas,
@@ -1808,7 +1808,7 @@ Nem ouves o que digo.
 Dormem, sonham esquecem...
 Não me ouves, e prossigo.
 
-Digo o que já, de triste,
+Digo o que já, de triste,
 Te disse tanta vez...
 Creio que nunca o ouviste
 De tão tua que és.
@@ -1834,7 +1834,7 @@ Um comboio que ignora.
 A cara está um feixe
 De sangue e de nada.
 Luz um pequeno peixe
-— Dos que bóiam nas banheiras —
+ Dos que bóiam nas banheiras 
 À beira da estrada.
 Cai sobre a estrada o escuro.
 Longe, ainda uma luz doura
@@ -1849,7 +1849,7 @@ Não é o que estou chorando.
 O que choro é diferente.
 Entra mais na alma da alma.
 
-Mas como, no céu sem gente,
+Mas como, no céu sem gente,
 A nuvem flutua calma.
 E isto lembra uma tristeza
 E a lembrança é que entristece,
@@ -1864,4 +1864,3 @@ Não sei o que é nem consinto
 Visto da dor com que minto
 Dor que a minha alma tem.
 
-

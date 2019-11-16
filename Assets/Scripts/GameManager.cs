@@ -1,10 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
+    public enum ScoreType { Phrase, Metric, Rhyme };
+
     public static GameManager instance;
 
     public PhraseBook       phraseBook;
@@ -12,9 +15,12 @@ public class GameManager : MonoBehaviour
     public TextOption[]     textOptions;
     public Poem             poem;
     public RectTransform    timerFill;
+    public TextMeshProUGUI  scoreText;
 
     float                   passTimer;
     List<PhraseBook.Phrase> alreadyUsed = new List<PhraseBook.Phrase>();
+    float                   score = 0;
+    float                   bonus = 1.0f;
 
     // Start is called before the first frame update
     void Awake()
@@ -37,6 +43,8 @@ public class GameManager : MonoBehaviour
         {
             passTimer = 0;
         }
+
+        UpdateScore();
     }
 
     void Update()
@@ -72,7 +80,7 @@ public class GameManager : MonoBehaviour
                     float r = Random.Range(0.0f, 1.0f);
                     if (r <= gameRules.randomFactorSyllableAndRhyme)
                     {
-                        p = phraseBook.GetRandomPhrase(poem.GetSyllableLengths(), poem.GetLastSyllables(), alreadyUsed);
+                        p = phraseBook.GetRandomPhrase(poem.GetSyllableLengths(), poem.GetLastWords(), alreadyUsed);
                     }
                 }
                 else
@@ -84,14 +92,14 @@ public class GameManager : MonoBehaviour
                     if (gameRules.randomWithRhyme) pRhyme = gameRules.randomFactorRhyme;
 
                     List<int> syllableLengths = null;
-                    List<string> syllables = null;
+                    List<string> words = null;
 
                     if (pSyl > 0.0f) syllableLengths = poem.GetSyllableLengths();
-                    if (pRhyme > 0.0f) syllables = poem.GetLastSyllables();
+                    if (pRhyme > 0.0f) words = poem.GetLastWords();
 
                     if ((pSyl > 0.0f) || (pRhyme > 0.0f))
                     {
-                        p = phraseBook.GetRandomPhrase(pSyl, syllableLengths, pRhyme, syllables, alreadyUsed);
+                        p = phraseBook.GetRandomPhrase(pSyl, syllableLengths, pRhyme, words, alreadyUsed);
                     }
                 }
 
@@ -115,6 +123,9 @@ public class GameManager : MonoBehaviour
         if (option != null)
         {
             poem.AddPhrase(option.GetPhrase());
+
+            if (gameRules.allowScorePhrase) ChangeScore(ScoreType.Phrase, gameRules.scorePhrase, 0.0f);
+
             option.SetPhrase(null);
 
             if (gameRules.autoPass)
@@ -140,5 +151,28 @@ public class GameManager : MonoBehaviour
 
             ChangeTime(-gameRules.removePhrasePenaltyTime);
         }
+    }
+
+    public void ChangeScore(ScoreType type, float inScore, float inBonus)
+    {
+        float s = inScore * bonus;
+
+        score += s;
+
+        bonus += inBonus;
+
+        Debug.Log("Add score " + s + "(" + type + ")");
+
+        UpdateScore();
+    }
+
+    public void ResetBonus()
+    {
+        bonus = 1.0f;
+    }
+
+    void UpdateScore()
+    {
+        scoreText.text = phraseBook.scoreText + ": " + Mathf.FloorToInt(score);
     }
 }

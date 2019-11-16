@@ -10,7 +10,7 @@ using NaughtyAttributes;
 public class GameRules : ScriptableObject
 {
     public bool     autoPass = true;
-    [ShowIf("autoPass")]
+    [ShowIf("autoPass")] 
     public float    autoPassTime = 5.0f;
     [ShowIf("autoPass")]
     public float    timePerSelectedPhrase = 2.5f;
@@ -34,6 +34,21 @@ public class GameRules : ScriptableObject
     public float    randomFactorRhyme = 0.5f;
 
     public bool     avoidDuplicates = true;
+
+    [Header("Score")]
+    public bool     allowScorePhrase = true;
+    [ShowIf("allowScorePhrase")]
+    public float    scorePhrase = 10.0f;
+    public bool     allowScoreRhyme = true;
+    [ShowIf("allowScoreRhyme")]
+    public float    scoreRhyme = 20.0f;
+    [ShowIf("allowScoreRhyme")]
+    public float    bonusRhyme = 0.0f;
+    public bool     allowScoreMetric = true;
+    [ShowIf("allowScoreMetric")]
+    public float    scoreMetric = 20.0f;
+    [ShowIf("allowScoreMetric")]
+    public float    bonusMetric = 0.0f;
 
     public bool notRandomWithSameSyllablesAndRhyme()
     {

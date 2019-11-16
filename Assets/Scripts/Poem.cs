@@ -12,7 +12,9 @@ public class Poem : MonoBehaviour
     public float            alphaFadeLimit = 950.0f;
 
     List<int>       valid_syllable_lengths;
-    List<string>    valid_last_syllables;
+    List<string>    valid_last_words;
+    GameRules       gameRules;
+    PhraseBook      phraseBook;
 
     struct PoemPhrase
     {
@@ -30,6 +32,9 @@ public class Poem : MonoBehaviour
     {
         Rect rect = GetComponent<RectTransform>().rect;
         midPointY = rect.center.y;
+
+        gameRules = GameManager.instance.gameRules;
+        phraseBook = GameManager.instance.phraseBook;
     }
 
     void Update()
@@ -87,19 +92,122 @@ public class Poem : MonoBehaviour
 
         scrollTimer += scrollTime;
 
-        if (valid_syllable_lengths == null) valid_syllable_lengths = new List<int>();
-
-        if (valid_syllable_lengths.IndexOf(phrase.nSyllables) == -1)
+        if (phrase != null)
         {
-            valid_syllable_lengths.Add(phrase.nSyllables);
+            if (valid_syllable_lengths == null) valid_syllable_lengths = new List<int>();
+
+            if (valid_syllable_lengths.IndexOf(phrase.nSyllables) == -1)
+            {
+                valid_syllable_lengths.Add(phrase.nSyllables);
+            }
+
+            if (valid_last_words == null) valid_last_words = new List<string>();
+
+            if (valid_last_words.IndexOf(phrase.lastWord) == -1)
+            {
+                valid_last_words.Add(phrase.lastWord);
+            }
+
+            var stanza = GetCurrentStanza();
+
+            if (gameRules.allowScoreRhyme)
+            {
+                if (stanza.Count >= 2)
+                {
+                    string currentLastWord = stanza[0].lastWord;
+
+                    // Get first rhyme
+                    int count = -1;
+                    for (int i = 1; i < stanza.Count; i++)
+                    {
+                        if (phraseBook.IsRhyme(stanza[i], currentLastWord))
+                        {
+                            count = i;
+                            break;
+                        }
+                    }
+
+                    if (count != -1)
+                    {
+                        float   rhymeBonus = 0;
+                        float   currentBonus = 1.0f;
+
+                        // Compute rhyme bonus
+                        for (int i = count; i < stanza.Count; i++)
+                        {
+                            if (phraseBook.IsRhyme(stanza[i], currentLastWord))
+                            {
+                                rhymeBonus = gameRules.scoreRhyme * currentBonus;
+                                currentBonus += gameRules.bonusRhyme;
+                            }
+                            else break;
+                        }
+
+                        if (rhymeBonus > 0)
+                        {
+                            GameManager.instance.ChangeScore(GameManager.ScoreType.Rhyme, rhymeBonus, 0.0f);
+                        }
+                    }
+
+                }
+            }
+
+            if (gameRules.allowScoreMetric)
+            {
+                if (stanza.Count >= 2)
+                {
+                    int currentSylCount = stanza[0].nSyllables;
+
+                    // Get first rhyme
+                    int count = -1;
+                    for (int i = 1; i < stanza.Count; i++)
+                    {
+                        if (Mathf.Abs(stanza[i].nSyllables - currentSylCount) <= 1)
+                        {
+                            count = i;
+                            break;
+                        }
+                    }
+
+                    if (count != -1)
+                    {
+                        float metricScore = 0;
+                        float currentBonus = 1.0f;
+
+                        // Compute rhyme bonus
+                        for (int i = count; i < stanza.Count; i++)
+                        {
+                            if (Mathf.Abs(stanza[i].nSyllables - currentSylCount) <= 1)
+                            {
+                                metricScore = gameRules.scoreMetric * currentBonus;
+                                currentBonus += gameRules.bonusMetric;
+                            }
+                            else break;
+                        }
+
+                        if (metricScore > 0)
+                        {
+                            GameManager.instance.ChangeScore(GameManager.ScoreType.Metric, metricScore, 0.0f);
+                        }
+                    }
+
+                }
+            }
+        }
+    }
+
+    public List<PhraseBook.Phrase> GetCurrentStanza()
+    {
+        List<PhraseBook.Phrase> ret = new List<PhraseBook.Phrase>();
+
+        for (int i = poem.Count - 1; i >= 0; i--)
+        {
+            if (poem[i].phrase == null) break;
+
+            ret.Add(poem[i].phrase);
         }
 
-        if (valid_last_syllables == null) valid_last_syllables = new List<string>();
-
-        if (valid_last_syllables.IndexOf(phrase.lastSyllable) == -1)
-        {
-            valid_last_syllables.Add(phrase.lastSyllable);
-        }
+        return ret;
     }
 
     public List<int> GetSyllableLengths()
@@ -107,8 +215,8 @@ public class Poem : MonoBehaviour
         return valid_syllable_lengths;
     }
 
-    public List<string> GetLastSyllables()
+    public List<string> GetLastWords()
     {
-        return valid_last_syllables;
+        return valid_last_words;
     }
 }
