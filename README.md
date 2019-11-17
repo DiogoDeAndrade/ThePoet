@@ -6,6 +6,7 @@ In this game, the player has to build a poem in front of an audience, by combini
 Players are scored based on metric and rhymes.
 
 The game is not a lot of fun, but it was very challenging and interesting to build.
+Currently, it works only in portuguese, at least until I find a big text file full of poems in other languages. 
 
 ![alt text](https://github.com/DiogoDeAndrade/ThePoet/raw/master/Screenshots/screen01.png "Title Screen")
 ![alt text](https://github.com/DiogoDeAndrade/ThePoet/raw/master/Screenshots/screen02.png "Gameplay")
