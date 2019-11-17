@@ -7,7 +7,8 @@ Players are scored based on metric and rhymes.
 
 The game is not a lot of fun, but it was very challenging and interesting to build.
 
-![alt text](https://github.com/DiogoDeAndrade/obmr/raw/master/Screenshots/screen01.png "Title Screen")
+![alt text](https://github.com/DiogoDeAndrade/ThePoet/raw/master/Screenshots/screen01.png "Title Screen")
+![alt text](https://github.com/DiogoDeAndrade/ThePoet/raw/master/Screenshots/screen02.png "Gameplay")
 
 ## Tech stuff
 
