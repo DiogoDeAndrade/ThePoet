@@ -114,7 +114,7 @@ public class PhraseBook : ScriptableObject
         }
     }
 
-    public Phrase GetRandomPhrase(List<int> validSyllableLength, List<string> validWords, List<Phrase> forbidden, bool increase_range = true)
+    public Phrase GetRandomPhrase(List<int> validSyllableLength, List<string> validWords, List<Phrase> forbidden, int increase_range = 2)
     {
         if ((validSyllableLength == null) ||
             (validWords == null))
@@ -139,7 +139,7 @@ public class PhraseBook : ScriptableObject
 
         if (tmp.Count == 0)
         {
-            if (increase_range)
+            if (increase_range > 0)
             {
                 List<int> vsl = new List<int>();
 
@@ -147,11 +147,12 @@ public class PhraseBook : ScriptableObject
                 {
                     for (int i = -1; i <= 1; i++)
                     {
-                        vsl.Add(v + i);
+                        if (!vsl.Contains(i))
+                            vsl.Add(v + i);
                     }
                 }
 
-                var ret = GetRandomPhrase(vsl, validWords, forbidden, false);
+                var ret = GetRandomPhrase(vsl, validWords, forbidden, increase_range - 1);
 
                 if (ret != null) return ret;
             }
@@ -337,12 +338,36 @@ public class PhraseBook : ScriptableObject
 
                 foreach (var rWord in rWords)
                 {
-                    int i1 = rWord.IndexOf('\'');
-                    int i2 = rWord.IndexOf('\'', i1 + 1);
+                    int i1a = rWord.IndexOf('\'');
+                    int i1b = rWord.IndexOf('\"');
+                    int i1;
+                    if (i1a != -1)
+                    {
+                        if (i1b != -1) i1 = Mathf.Min(i1a, i1b);
+                        else i1 = i1a;
+                    }
+                    else i1 = i1b;
 
-                    string rhyme = rWord.Substring(i1 + 1, i2 - i1 - 1);
+                    int i2a = rWord.LastIndexOf('\'');
+                    int i2b = rWord.LastIndexOf('\"');
+                    int i2;
+                    if (i2a != -1)
+                    {
+                        if (i2b != -1) i2 = Mathf.Min(i2a, i2b);
+                        else i2 = i2a;
+                    }
+                    else i2 = i2b;
 
-                    rtmp.words.Add(rhyme.ToLower());
+                    if ((i2 - i1 - 1) > 0)
+                    {
+                        string rhyme = rWord.Substring(i1 + 1, i2 - i1 - 1);
+                        rtmp.words.Add(rhyme.ToLower());
+                    }
+                    else
+                    {
+                        Debug.LogError("Can't parse " + valueLine + "!");
+                        continue;
+                    }
                 }
             }
 

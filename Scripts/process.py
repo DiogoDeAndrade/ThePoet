@@ -11,6 +11,15 @@ def remove_all(str, c):
 
     return str
 
+def replace_all(str, c, c2):
+    while (True):
+        idx = str.find(c)
+        if (idx == -1):
+            break
+        str = str[:idx] + c2 + str[idx+1:]
+
+    return str
+
 def remove_punctuation(str):
     str = remove_all(str, '.')
     str = remove_all(str, ',')
@@ -21,8 +30,15 @@ def remove_punctuation(str):
 
     return str
 
-language = "pt_PT"
+#language = "pt_PT"
+language = "en_GB"
+
 source_file = "cancioneiro.txt"
+
+if (language == "pt_PT"):
+    source_file = "cancioneiro.txt"
+elif (language == "en_GB"):
+    source_file = "hundred_best_english_poems.txt"
 
 rhymes = {}
 
@@ -47,6 +63,7 @@ for l in lines:
     l = remove_all(l, " !")
     l = remove_all(l, ";")
     l = remove_all(l, ":")
+    l = replace_all(l, "-", " ")
 
     if (l == ""):
         continue
@@ -72,8 +89,8 @@ for l in lines:
         last_word = w
         last_syl = split_text[-1]
 
-    last_syl = remove_punctuation(last_syl)
-    last_word = remove_punctuation(last_word)
+    last_syl = remove_punctuation(last_syl).lower()
+    last_word = remove_punctuation(last_word).lower()
 
     out_text = "(\""
     out_text = out_text + hyphen_text + "\", "
@@ -93,6 +110,8 @@ file.close()
 rhyme_lang = "pt"
 if (language == "pt_PT"):
     rhyme_lang = "pt"
+elif (language == "en_GB"):
+    rhyme_lang = "en"
 
 count = 0
 for word in rhymes:
@@ -108,7 +127,7 @@ for word in rhymes:
                 rhymes[word].append(tmp)
 
 
-        time.sleep(1)
+        time.sleep(0.25)
         #count = count + 1
         #if (count > 1):
         #    break
@@ -118,19 +137,19 @@ for word in rhymes:
 if (rhyme_lang == "pt"):
     rhymes['é'].append('pé')
     
-    # Add the word itself to the list
-    for word in rhymes:
-        if (not word in rhymes[word]):
-            rhymes[word].append(word)
+# Add the word itself to the list
+for word in rhymes:
+    if (not word in rhymes[word]):
+        rhymes[word].append(word)
 
-    # Add reverse search (if a/b rhymes, b/a also rhymes)
-    for word in rhymes:
-        for rword in rhymes[word]:
-            if (not rword in rhymes):
-                rhymes[rword] = [ word ]
-            else:
-                if (not word in rhymes[rword]):
-                    rhymes[rword].append(word)
+# Add reverse search (if a/b rhymes, b/a also rhymes)
+for word in rhymes:
+    for rword in rhymes[word]:
+        if (not rword in rhymes):
+            rhymes[rword] = [ word ]
+        else:
+            if (not word in rhymes[rword]):
+                rhymes[rword].append(word)
 
 output_file = open("rhymes_" + language + ".txt", "wt")
 

@@ -6,7 +6,7 @@ In this game, the player has to build a poem in front of an audience, by combini
 Players are scored based on metric and rhymes.
 
 The game is not a lot of fun, but it was very challenging and interesting to build.
-Currently, it works only in portuguese, at least until I find a big text file full of poems in other languages. 
+Currently, it works only both portuguese and english, at least until I find a big text file full of poems in other languages. 
 
 ![alt text](https://github.com/DiogoDeAndrade/ThePoet/raw/master/Screenshots/screen01.png "Title Screen")
 ![alt text](https://github.com/DiogoDeAndrade/ThePoet/raw/master/Screenshots/screen02.png "Gameplay")
@@ -26,6 +26,10 @@ Another improvement would be to see how the stanzas measure up with each other.
 A boredom coeficient could also be implemented: if the player is always using the same type of rhymes, it would get a fail.
 
 The game basically fails as a game because of the randomness. If there is a lot of randomness in the phrases, the player will loose all the time, since the likelihood of having phrases that rhyme or have the same metric would be small. But the way it is (favouring things that rhyme and/or have the same metric) makes the game pretty trivial, except when the starting set is awful.
+
+English version was based on the book "The Hundred Best English Poems" by Adam L.Gowans, taken from the Project Gutenberg (gutenberg.org). English poems seem to feature phrases that are longer, and use more tricks with phonetics that required more hand-processing to work properly.
+
+Something that would make this whole process more streamlined would be to do grapheme-to-phoneme conversion, and try to match the terminations of the phrases to check for rhymes, but I couldn't find a Python library that did the task, and that's a quite complicated task by itself.
 
 ## Credits
 

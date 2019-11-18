@@ -33,7 +33,10 @@ class MyHTMLParser(HTMLParser):
             self.wordsFound.append(data)
 
 def get_rhymes(lang, word, retry = True):
-    url = "https://www.rhymit.com/pt/palavras-que-rimam-com-" + urllib.parse.quote(word)
+    if (lang == "pt"):
+        url = "https://www.rhymit.com/pt/palavras-que-rimam-com-" + urllib.parse.quote(word)
+    elif (lang == "en"):
+        url = "https://www.rhymit.com/en/what-rhymes-with-" + urllib.parse.quote(word)
     try:
         page = urllib.request.urlopen(url)
         page = page.read().decode("utf8")

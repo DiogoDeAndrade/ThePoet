@@ -27,7 +27,16 @@ public class Transition : MonoBehaviour
         instance = this;
 
         nextScreen = "";
-        ShowGame();
+
+        if (SceneManager.sceneCount == 1)
+        {
+            SceneManager.LoadScene("Title", LoadSceneMode.Additive);
+            ShowGame();
+        }
+        else
+        {
+            ShowGame();
+        }
     }
 
     void Update()

@@ -9,3 +9,4 @@ Library/*
 obj/*
 Logs/*
 Builds/*
+*/__pycache__/*
